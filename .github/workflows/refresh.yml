@@ -1,0 +1,25 @@
+# Push side runs itself: after every NSE close, pull filings + EOD prices, triage, enrich, commit.
+# The commit triggers a Vercel redeploy, so the app always opens on today's digest.
+name: refresh
+on:
+  schedule:
+    - cron: "15 13 * * 1-5" # 18:45 IST, Mon–Fri
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run ingest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - run: |
+          git config user.name "finn-bot"
+          git config user.email "finn-bot@users.noreply.github.com"
+          git add data/digest.json
+          git diff --cached --quiet || git commit -m "data: digest $(date -u +%F)" && git push
