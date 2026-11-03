@@ -4,7 +4,7 @@
 
 FINN is a mobile-first agent for a 18-stock NSE portfolio. It **speaks first** — after every close it tells you the few things that changed and why they matter — and then **gets out of the way**: everything routine is collapsed, with the reason it was hidden. When you want depth, it **audits management** instead of summarising them: what did they promise on the last four earnings calls, and did the numbers deliver?
 
-<!-- LIVE: https://<deployment-url> -->
+**Live (open on a phone):** https://finnn-psi.vercel.app
 
 | Today (push) | Alerts (your rules) | Research (pull) | Engine |
 |---|---|---|---|

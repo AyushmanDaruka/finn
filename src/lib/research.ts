@@ -302,13 +302,13 @@ export async function research(symbol: string, progress: (msg: string) => void =
     const docs = await Promise.all(calls.map((k) => readPdf(k.transcript!).catch(() => null)));
     const items: PromiseItem[] = [];
     let dropped = 0;
+    progress(`Reading ${calls.length} calls for guidance (in parallel)`);
+    const got = await Promise.all(
+      calls.map((k, i) => (docs[i] && !docs[i]!.scanned ? extractPromises(c.symbol, k.period, k.transcript!, docs[i]!).catch(() => []) : Promise.resolve([]))),
+    );
     for (const [i, k] of calls.entries()) {
-      const d = docs[i];
-      if (!d || d.scanned) continue;
-      progress(`Reading ${k.period} call for guidance`);
-      const got = await extractPromises(c.symbol, k.period, k.transcript!, d).catch(() => []);
-      for (const g of got) {
-        const page = verifyQuote(d, g.quote, g.page);
+      for (const g of got[i]) {
+        const page = verifyQuote(docs[i]!, g.quote, g.page);
         if (page == null) { dropped++; continue; } // not verbatim in the source → never shown
         items.push({ ...g, page, id: `p${items.length + 1}`, said: k.period, url: k.transcript! });
       }

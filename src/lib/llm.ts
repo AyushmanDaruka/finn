@@ -76,7 +76,8 @@ export async function llm<T = string>(o: Opts): Promise<T> {
           ...(o.schema && !o.search ? { responseMimeType: "application/json", responseJsonSchema: o.schema } : {}),
           ...(o.search ? { tools: [{ googleSearch: {} }] } : {}),
           // Thinking only where judgment lives; extraction doesn't need it.
-          ...(o.tier === "reason" ? {} : { thinkingConfig: { thinkingBudget: 0 } }),
+          // Bounded on "reason" so a live report fits a 5-minute serverless budget.
+          thinkingConfig: { thinkingBudget: o.tier === "reason" ? 3072 : 0 },
         },
       });
       const text = res.text ?? "";
