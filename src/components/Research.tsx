@@ -223,7 +223,7 @@ function Report({ r }: { r: R }) {
 
       <div className="mt-6 flex flex-wrap items-center justify-between gap-2 rounded-2xl border border-dashed border-line px-4 py-3 text-[11px] text-muted">
         <span>
-          {calls} model calls · <span className="num">${usd.toFixed(4)}</span> at paid rates · {r.basis} figures
+          {calls} model calls · ₹0 spent (free tier) · ≈<span className="num">${usd.toFixed(3)}</span> at paid rates · {r.basis} figures
         </span>
         <Src href={r.url}>Filed financials</Src>
       </div>

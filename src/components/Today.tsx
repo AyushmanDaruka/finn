@@ -61,6 +61,12 @@ export default function Today({ d, s, set }: { d: Digest; s: Settings; set: (p: 
         </div>
       </div>
 
+      {critical.length + notable.length < 3 && s.windowH < 168 && (
+        <button onClick={() => set({ windowH: 168 })} className="mt-3 px-1 text-[13px] text-accent underline underline-offset-2">
+          Quiet window — see the last 7 days →
+        </button>
+      )}
+
       {mv.length > 0 && (
         <>
           <SectionTitle>Unusual moves</SectionTitle>

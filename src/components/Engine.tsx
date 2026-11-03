@@ -24,9 +24,9 @@ export default function Engine({ d }: { d: Digest }) {
       <div className="mt-4 grid grid-cols-3 gap-2">
         <Stat k="filings by rules" v={`${ruled}%`} />
         <Stat k="model calls" v={String(paid.length)} />
-        <Stat k="total cost" v={`$${usd.toFixed(3)}`} />
+        <Stat k="≈ at paid rates" v={`$${usd.toFixed(3)}`} />
       </div>
-      <p className="mt-2 px-1 text-[11px] text-muted">Runs on Gemini&rsquo;s free tier; cost shown at paid list prices. Last run: {d.stats.total} new filings, {d.stats.byRules} by rules, {d.stats.byLlm} by model.</p>
+      <p className="mt-2 px-1 text-[11px] text-muted">Actual spend: ₹0 — everything runs on Gemini&rsquo;s free tier. The dollar figure is what the same work would cost on a paid key. Last run: {d.stats.total} new filings, {d.stats.byRules} by rules, {d.stats.byLlm} by model.</p>
 
       <SectionTitle>Routing</SectionTitle>
       <div className="space-y-2">
