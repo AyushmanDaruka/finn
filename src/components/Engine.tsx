@@ -4,9 +4,9 @@ import { Card, SectionTitle } from "./ui";
 
 const PIPE: [string, string, string][] = [
   ["Rules", "free", "Exchange subject lines are semi-standard. Ordered rules classify most filings and size them against market cap — a ₹7 lakh fine is noise for a ₹10 lakh-crore bank."],
-  ["Flash-Lite", "cheap", "Only filings the rules can't place, sent together in one batched call. Also parses people out of management-change filings."],
-  ["Flash", "mid", "Reads long primary documents: the P&L pages of a results filing (not all 30 pages) and full earnings-call transcripts."],
-  ["Pro", "rare", "The two judgment calls: did management deliver what it promised, and the bull/bear case."],
+  ["3.1 Flash-Lite", "cheap", "Only filings the rules can't place, sent together in one batched call. Also parses people out of management-change filings."],
+  ["3.5 Flash", "mid", "Reads long primary documents: the P&L pages of a results filing (not all 30 pages) and full earnings-call transcripts."],
+  ["3.5 Flash + thinking", "rare", "The two judgment calls: did management deliver what it promised, and the bull/bear case. Thinking is switched on only here. (A paid key would route this to Pro.)"],
   ["Code", "free", "Arithmetic never goes to a model: EBITDA, QoQ/YoY, CAGR, cash conversion, D/E, unusual-move detection."],
   ["Cache", "free", "Every model call is keyed by a hash of its inputs. A document is read once, ever; re-runs cost nothing."],
 ];

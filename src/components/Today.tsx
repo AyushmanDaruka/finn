@@ -195,7 +195,7 @@ function FilingCard({ a, asOf, onSeen, big }: { a: Announcement; asOf: number; o
                 {p.effective ? ` · from ${p.effective}` : ""}
               </div>
               {p.bio && <p className="mt-1.5 text-[12px] leading-snug text-ink-2">{p.bio}</p>}
-              {p.bioSources?.length ? <div className="mt-1 text-[10px] text-muted">Background from the web (push-side enrichment) · {p.bioSources.length} sources</div> : null}
+              {p.bio && <div className="mt-1 text-[10px] text-muted">{p.bioSources?.length ? `Background from the web · ${p.bioSources.length} sources` : "Profile as disclosed in the filing"}</div>}
             </div>
           ))}
         </div>

@@ -132,12 +132,18 @@ Copy numbers exactly as printed (negative for losses), in the filing's unit. uni
     // Trust, but verify: the filing read must agree with the exchange-reported table.
     if (base && !c.isBank) {
       const off = (a: number | null, b: number | null) => (a && b ? Math.abs(a / b - 1) : 0);
-      const worst = Math.max(off(out.revenue.current, base.revenue.current), off(out.pat.current, base.pat.current));
+      const worst = Math.max(off(out.revenue.current, base.revenue.current), off(out.pbt.current, base.pbt.current), off(out.pat.current, base.pat.current));
       out.crossCheck =
         worst < 0.03
           ? { ok: true, note: "Matches exchange-reported figures" }
           : { ok: false, note: `Differs from exchange table by ${(worst * 100).toFixed(0)}% — showing the table` };
       if (!out.crossCheck.ok) return { ...base, crossCheck: out.crossCheck };
+      // Some filings omit a comparison column (e.g. no previous quarter) — fill those cells from the table, and say so.
+      let filled = false;
+      for (const k of ["revenue", "ebitda", "pbt", "pat"] as const)
+        for (const col of ["current", "prevQ", "yearAgoQ"] as const)
+          if (out[k][col] == null && base[k][col] != null) ((out[k][col] = base[k][col]), (filled = true));
+      if (filled) out.crossCheck.note += " · missing columns filled from exchange table";
     }
     return out;
   } catch (e) {
@@ -152,11 +158,12 @@ export async function management(url: string, symbol: string, company: string, s
   if (!hasKey()) return null;
   try {
     const d = await readPdf(url);
+    // SEBI requires appointment filings to carry a "brief profile" — so the bio comes from the filing itself (primary, free).
     const x = await llm<{ changes: ManagementEnrichment["changes"] }>({
       tier: "cheap",
       step: `${symbol}: parse management change`,
-      doc: paged(d, 0, 4).slice(0, 20000),
-      prompt: `List each person whose role changes in this filing by ${company}. role = the position (e.g. "Chief Financial Officer"). change = appointed | resigned | retired | other. effective = date as written. Exchange summary for context: "${summary}"`,
+      doc: paged(d, 0, 6).slice(0, 24000),
+      prompt: `List each person whose role changes in this filing by ${company}. role = the position (e.g. "Chief Financial Officer"). change = appointed | resigned | retired | other. effective = date as written. bio = for appointees only: their background as stated in the filing's brief profile — prior employers/roles and education, ≤40 words, facts only; omit if the filing has no profile. Exchange summary for context: "${summary}"`,
       schema: {
         type: "object",
         properties: {
@@ -164,7 +171,7 @@ export async function management(url: string, symbol: string, company: string, s
             type: "array",
             items: {
               type: "object",
-              properties: { name: { type: "string" }, role: { type: "string" }, change: { type: "string", enum: ["appointed", "resigned", "retired", "other"] }, effective: { type: "string" } },
+              properties: { name: { type: "string" }, role: { type: "string" }, change: { type: "string", enum: ["appointed", "resigned", "retired", "other"] }, effective: { type: "string" }, bio: { type: "string" } },
               required: ["name", "role", "change"],
             },
           },
@@ -172,15 +179,17 @@ export async function management(url: string, symbol: string, company: string, s
         required: ["changes"],
       },
     });
-    // Bio only for incoming people — that's the question an investor actually has ("who is this?").
-    for (const p of x.changes.filter((p) => p.change === "appointed").slice(0, 2)) {
-      const r = await llm<{ value: string; sources: string[] }>({
-        tier: "extract",
-        step: `${symbol}: background of ${p.name}`,
-        search: true,
-        prompt: `In at most 2 sentences (≤45 words), give the professional background of ${p.name}, newly appointed ${p.role} at ${company} (India): previous employers/roles and education. Facts only. If you cannot find this specific person, reply exactly "UNKNOWN".`,
-      });
-      if (r.value && !/UNKNOWN/.test(r.value)) Object.assign(p, { bio: r.value.trim(), bioSources: r.sources });
+    // Web lookup only when the filing has no profile (needs a key with search quota; skipped silently otherwise).
+    for (const p of x.changes.filter((p) => p.change === "appointed" && !p.bio).slice(0, 2)) {
+      try {
+        const r = await llm<{ value: string; sources: string[] }>({
+          tier: "extract",
+          step: `${symbol}: background of ${p.name}`,
+          search: true,
+          prompt: `In at most 2 sentences (≤45 words), give the professional background of ${p.name}, newly appointed ${p.role} at ${company} (India): previous employers/roles and education. Facts only. If you cannot find this specific person, reply exactly "UNKNOWN".`,
+        });
+        if (r.value && !/UNKNOWN/.test(r.value)) Object.assign(p, { bio: r.value.trim(), bioSources: r.sources });
+      } catch {}
     }
     return { kind: "management", changes: x.changes };
   } catch (e) {

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T15:34:03.193Z",
+ "generatedAt": "2026-11-03T17:19:35.306Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -7726,6 +7726,24 @@
  ],
  "announcements": [
   {
+   "id": "62299d02d7ab",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Second Reminder Notice For Payment Of First And Final Call On Partly Paid-Up Equity Shares Of Bharti Airtel Limited ('Company')",
+   "summary": "Bharti Airtel issued second reminder for first and final call of ₹401.25 per share on 649,835 partly paid shares.",
+   "date": "2026-11-03T22:24:41+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c2694b22-e5e8-41af-b6f4-e820ee6cf481.pdf",
+   "category": "unclassified",
+   "score": 25,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "Bharti Airtel issues second call notice for partly paid shares."
+   }
+  },
+  {
    "id": "9c8ccb27fb85",
    "symbol": "ASIANPAINT",
    "company": "Asian Paints",
@@ -7761,11 +7779,15 @@
    "summary": "KFin Technologies shifts corporate office effective 1 December 2026; registered office unchanged.",
    "date": "2026-11-03T17:30:11+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d219f169-7be4-4d16-9697-1251e8767e69.pdf",
-   "category": "press_release",
-   "score": 30,
+   "category": "unclassified",
+   "score": 5,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "KFin Technologies shifts corporate office location effective December 1."
+   }
   },
   {
    "id": "49dd872b165a",
@@ -7837,17 +7859,15 @@
    "summary": "Sun Pharma clarifies Assam plant halt report concerns August 2026 developments, not a new event.",
    "date": "2026-11-02T20:58:13+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bbe06aa-8721-4e47-b0b1-985a91279ce9.pdf",
-   "category": "press_release",
+   "category": "unclassified",
    "score": 30,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Clarification Sought From Sun Pharmaceutical Industries Ltd",
-     "url": "/company/id/3245/"
-    }
-   ]
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "Sun Pharma clarifies Assam plant halt report refers to past events."
+   }
   },
   {
    "id": "9cf16425d7ae",
@@ -7926,7 +7946,29 @@
      "yearAgoQ": 5187
     },
     "isBank": false,
-    "source": "screener"
+    "source": "screener",
+    "crossCheck": {
+     "ok": false,
+     "note": "Differs from exchange table by 51% — showing the table"
+    }
+   }
+  },
+  {
+   "id": "9d45e80d4c3c",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharma",
+   "title": "Clarification Sought From Sun Pharmaceutical Industries Ltd",
+   "summary": "Exchange has sought clarification from Sun Pharmaceutical Industries Ltd on November 2, 2026, with reference to news appeared in https://www.thehindu.com/ dated October 30, 2026 quoting …",
+   "date": "2026-11-02T14:23:57+05:30",
+   "url": "/company/id/3245/",
+   "category": "unclassified",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "Exchange seeks clarification from Sun Pharma regarding recent media reports."
    }
   },
   {
@@ -7969,13 +8011,7 @@
    "score": 35,
    "tier": "notable",
    "reason": "Company news",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Business Transfer Agreement With Vyoma.AI Limited (Vyoma), Wholly Owned Subsidiary Of The Company And Share Purchase Agreement Towards Sale Of Entire Stake Held In L&T Network Services Private Limited To Vyoma - Extension Of Timeline Of Completion",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=13e50739-50e7-4b5a-8dba-ac92ece6d35f.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "d1f8cdf9c921",
@@ -8017,7 +8053,18 @@
    "score": 35,
    "tier": "notable",
    "reason": "Change at the top · below CXO",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "enrichment": {
+    "kind": "management",
+    "changes": [
+     {
+      "name": "Sanjay D’Souza",
+      "role": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
+      "change": "retired",
+      "effective": "October 31, 2026"
+     }
+    ]
+   }
   },
   {
    "id": "34f051e9d3f2",
@@ -8059,7 +8106,25 @@
    "score": 60,
    "tier": "notable",
    "reason": "Change at the top",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "enrichment": {
+    "kind": "management",
+    "changes": [
+     {
+      "name": "Dr. Amrut Naik",
+      "role": "President and Business Unit Head, International Markets Business",
+      "change": "resigned",
+      "effective": "November 7, 2026"
+     },
+     {
+      "name": "Mr. Christoph Stoller",
+      "role": "President and Business Unit Head, International Markets Business",
+      "change": "appointed",
+      "effective": "November 2, 2026",
+      "bio": "Swiss pharmaceutical leader with 30+ years experience. Former President at Glenmark, SVP at Teva, and CEO of Helvepharm. Holds a degree in Business Administration, Economics, Law, and Social Sciences from the University of St. Gallen."
+     }
+    ]
+   }
   },
   {
    "id": "206b38b7dacb",
@@ -8096,6 +8161,24 @@
    ]
   },
   {
+   "id": "5f2848d6a43b",
+   "symbol": "LT",
+   "company": "Larsen & Toubro",
+   "title": "Business Transfer Agreement With Vyoma.AI Limited (Vyoma), Wholly Owned Subsidiary Of The Company And Share Purchase Agreement Towards Sale Of Entire Stake Held In L&T Network Services Private Limited To Vyoma - Extension Of Timeline Of Completion",
+   "summary": "L&T extends completion of Vyoma.ai transaction to March 31, 2027.",
+   "date": "2026-10-31T12:49:28+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=13e50739-50e7-4b5a-8dba-ac92ece6d35f.pdf",
+   "category": "mna",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "L&T extends timeline for Vyoma.ai business transfer to March 2027."
+   }
+  },
+  {
    "id": "841f7f1233b4",
    "symbol": "BHARTIARTL",
    "company": "Bharti Airtel",
@@ -8103,11 +8186,21 @@
    "summary": "TRAI levies ₹54.06 lakh financial disincentive for alleged December 2024 non-compliance.",
    "date": "2026-10-30T22:40:14+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff271f28-80be-4329-a556-8ecc1cc7684f.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
+   "category": "litigation",
+   "score": 40,
+   "tier": "notable",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "TRAI imposes 5.4 million rupee penalty on Bharti Airtel for non-compliance."
+   },
+   "related": [
+    {
+     "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=af0f8622-1854-4424-96bf-3e22856f1470.pdf"
+    }
+   ]
   },
   {
    "id": "961f05e137b0",
@@ -8138,20 +8231,6 @@
    "classifiedBy": "rules"
   },
   {
-   "id": "5cdf68d4ec83",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries",
-   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-   "summary": "Reliance reported record Q2 FY27 PAT of ₹29,550 crore; Jio Platforms IPO completed on 28 Oct 2026.",
-   "date": "2026-10-30T19:46:01+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aacc5fc7-25e5-4901-b682-d9911fe1d21b.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
-  },
-  {
    "id": "47863bb7c61a",
    "symbol": "RELIANCE",
    "company": "Reliance Industries",
@@ -8164,20 +8243,26 @@
    "tier": "critical",
    "reason": "Quarterly results filed",
    "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aacc5fc7-25e5-4901-b682-d9911fe1d21b.pdf"
+    }
+   ],
    "enrichment": {
     "kind": "results",
     "quarter": "Sep 2026",
     "basis": "consolidated",
     "unit": "₹ Cr",
     "revenue": {
-     "current": 330601,
-     "prevQ": 309468,
-     "yearAgoQ": 254623
+     "current": 332861,
+     "prevQ": 311850,
+     "yearAgoQ": 258898
     },
     "ebitda": {
-     "current": 56616,
-     "prevQ": 47517,
-     "yearAgoQ": 45885
+     "current": 62027,
+     "prevQ": 53696,
+     "yearAgoQ": 50279
     },
     "pbt": {
      "current": 38613,
@@ -8185,12 +8270,16 @@
      "yearAgoQ": 29124
     },
     "pat": {
-     "current": 29550,
-     "prevQ": 23196,
-     "yearAgoQ": 22092
+     "current": 29250,
+     "prevQ": 23001,
+     "yearAgoQ": 22146
     },
     "isBank": false,
-    "source": "screener"
+    "source": "filing",
+    "crossCheck": {
+     "ok": true,
+     "note": "Matches exchange-reported figures"
+    }
    }
   },
   {
@@ -8254,27 +8343,31 @@
     "basis": "consolidated",
     "unit": "₹ Cr",
     "revenue": {
-     "current": 21794,
-     "prevQ": 15548,
-     "yearAgoQ": 14855
+     "current": 21793.64,
+     "prevQ": 15547.66,
+     "yearAgoQ": 14855.04
     },
     "ebitda": {
-     "current": 597,
-     "prevQ": 463,
-     "yearAgoQ": 561
+     "current": 865.8800000000001,
+     "prevQ": 471.7600000000001,
+     "yearAgoQ": 562.48
     },
     "pbt": {
-     "current": 532,
-     "prevQ": 869,
-     "yearAgoQ": 924
+     "current": 532.35,
+     "prevQ": 868.98,
+     "yearAgoQ": 923.59
     },
     "pat": {
-     "current": 411,
-     "prevQ": 718,
-     "yearAgoQ": 746
+     "current": 410.87,
+     "prevQ": 717.83,
+     "yearAgoQ": 745.7
     },
     "isBank": false,
-    "source": "screener"
+    "source": "filing",
+    "crossCheck": {
+     "ok": true,
+     "note": "Matches exchange-reported figures"
+    }
    }
   },
   {
@@ -8299,11 +8392,15 @@
    "summary": "Suzlon reported material price movement on 30 October 2026, without any identified triggering event.",
    "date": "2026-10-30T14:32:12+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bd7a2868-d21f-4fd8-a2e9-2b2c1e495c39.pdf",
-   "category": "press_release",
+   "category": "unclassified",
    "score": 30,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "Suzlon Energy reports no trigger for recent material price movement."
+   }
   },
   {
    "id": "8a89552d095f",
@@ -8396,20 +8493,6 @@
    "classifiedBy": "rules"
   },
   {
-   "id": "f6eb67664f96",
-   "symbol": "PIDILITIND",
-   "company": "Pidilite Industries",
-   "title": "Audio Recording Q2FY27 Earnings Call",
-   "summary": "Q2 FY27 earnings call audio recording uploaded on 29 October 2026.",
-   "date": "2026-10-29T18:49:52+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=750fabe2-8646-4db4-9942-46e33658336a.pdf",
-   "category": "earnings_call",
-   "score": 20,
-   "tier": "routine",
-   "reason": "Earnings-call logistics",
-   "classifiedBy": "rules"
-  },
-  {
    "id": "7fbe5484fb26",
    "symbol": "ASIANPAINT",
    "company": "Asian Paints",
@@ -8455,7 +8538,44 @@
      "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b891b5ce-4d60-44f6-a01f-1bd507d5de0f.pdf"
     }
-   ]
+   ],
+   "enrichment": {
+    "kind": "management",
+    "changes": [
+     {
+      "name": "Noel N. Tata",
+      "role": "Chairman and Director",
+      "change": "retired",
+      "effective": "11th November 2026"
+     },
+     {
+      "name": "Noel N. Tata",
+      "role": "Chairman Emeritus",
+      "change": "appointed",
+      "effective": "12th November 2026"
+     },
+     {
+      "name": "Bahram Vakil",
+      "role": "Chairman",
+      "change": "appointed",
+      "effective": "12th November 2026"
+     },
+     {
+      "name": "Rajiv Dube",
+      "role": "Additional Director (Non-Executive, Non-Independent)",
+      "change": "appointed",
+      "effective": "30th October 2026",
+      "bio": "Industry veteran with 40+ years of experience at Tata and Aditya Birla. Engineer and business management post-graduate. Served on various boards; expert in corporate governance, management, and business transformation across multiple sectors."
+     },
+     {
+      "name": "Kalpana Merchant",
+      "role": "Independent Director",
+      "change": "appointed",
+      "effective": "30th October 2026",
+      "bio": "Legal professional with 45+ years of experience in commercial property, infrastructure, finance, and M&A. Partner at Kanga & Co., AZB & Partners, and Jerome Merchant + Partners. Holds LL.B. and B.A. degrees; qualified solicitor."
+     }
+    ]
+   }
   },
   {
    "id": "e95bab5e2dee",
@@ -8465,11 +8585,43 @@
    "summary": "Trent reported Q2FY27 revenue up 23%, PAT up 9%, and opened its 1,000th Zudio store.",
    "date": "2026-10-29T16:21:57+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=984d68e3-738c-43cf-afd1-756b33f60610.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
+   "category": "results",
+   "score": 80,
+   "tier": "critical",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "results",
+    "quarter": "Sep 2026",
+    "basis": "consolidated",
+    "unit": "₹ Cr",
+    "revenue": {
+     "current": 5873,
+     "prevQ": 5755,
+     "yearAgoQ": 4818
+    },
+    "ebitda": {
+     "current": 1057,
+     "prevQ": 1119,
+     "yearAgoQ": 816
+    },
+    "pbt": {
+     "current": 619,
+     "prevQ": 692,
+     "yearAgoQ": 477
+    },
+    "pat": {
+     "current": 468,
+     "prevQ": 518,
+     "yearAgoQ": 373
+    },
+    "isBank": false,
+    "source": "filing",
+    "crossCheck": {
+     "ok": true,
+     "note": "Matches exchange-reported figures · missing columns filled from exchange table"
+    }
+   }
   },
   {
    "id": "f9b57d1d9cad",
@@ -8490,48 +8642,32 @@
     "basis": "consolidated",
     "unit": "₹ Cr",
     "revenue": {
-     "current": 4876,
-     "prevQ": 3829,
-     "yearAgoQ": 3871
+     "current": 4869.05,
+     "prevQ": 3819.36,
+     "yearAgoQ": 3865.54
     },
     "ebitda": {
-     "current": 720,
-     "prevQ": 595,
-     "yearAgoQ": 721
+     "current": 719.82,
+     "prevQ": 595.24,
+     "yearAgoQ": 720.84
     },
     "pbt": {
-     "current": 518,
-     "prevQ": 389,
-     "yearAgoQ": 562
+     "current": 518.21,
+     "prevQ": 389.47,
+     "yearAgoQ": 562.5
     },
     "pat": {
-     "current": 394,
-     "prevQ": 305,
-     "yearAgoQ": 1279
+     "current": 394.15,
+     "prevQ": 305.22,
+     "yearAgoQ": 1279.44
     },
     "isBank": false,
-    "source": "screener"
-   }
-  },
-  {
-   "id": "c2c2552b82c7",
-   "symbol": "INFY",
-   "company": "Infosys",
-   "title": "Winners Of Qorus-Infosys Finacle Banking Innovation Awards 2026 Announced",
-   "summary": "Infosys Finacle announces 2026 Qorus banking innovation awards winners; 37 institutions recognized across ten categories.",
-   "date": "2026-10-29T15:07:23+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35b12a6d-e165-42d3-a0d1-cbe42fe2a99f.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Canada'S UNI Financial Cooperation Advances Branch Modernization With Infosys Finacle Universal Banker",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e740e1c4-75bc-4392-808c-a3323d612194.pdf"
+    "source": "filing",
+    "crossCheck": {
+     "ok": true,
+     "note": "Matches exchange-reported figures"
     }
-   ]
+   }
   },
   {
    "id": "4062502838f8",
@@ -8552,27 +8688,31 @@
     "basis": "consolidated",
     "unit": "₹ Cr",
     "revenue": {
-     "current": 9977,
-     "prevQ": 10542,
-     "yearAgoQ": 8531
+     "current": 9976.51,
+     "prevQ": 10541.94,
+     "yearAgoQ": 8531.27
     },
     "ebitda": {
-     "current": 1557,
-     "prevQ": 2169,
-     "yearAgoQ": 1503
+     "current": 1599.0600000000002,
+     "prevQ": 2206.92,
+     "yearAgoQ": 1541.6799999999998
     },
     "pbt": {
-     "current": 1478,
-     "prevQ": 2096,
-     "yearAgoQ": 1392
+     "current": 1477.78,
+     "prevQ": 2095.75,
+     "yearAgoQ": 1391.52
     },
     "pat": {
-     "current": 1085,
-     "prevQ": 1559,
-     "yearAgoQ": 1018
+     "current": 1085.35,
+     "prevQ": 1559.45,
+     "yearAgoQ": 1018.23
     },
     "isBank": false,
-    "source": "screener"
+    "source": "filing",
+    "crossCheck": {
+     "ok": true,
+     "note": "Matches exchange-reported figures"
+    }
    }
   },
   {
@@ -8587,20 +8727,6 @@
    "score": 40,
    "tier": "notable",
    "reason": "Dividend",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "cb2a2b298770",
-   "symbol": "BHARTIARTL",
-   "company": "Bharti Airtel",
-   "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
-   "summary": "DoT Karnataka imposed Rs 2.14 lakh penalty on Airtel for alleged subscriber verification norm violations.",
-   "date": "2026-10-29T13:42:32+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=af0f8622-1854-4424-96bf-3e22856f1470.pdf",
-   "category": "litigation",
-   "score": 25,
-   "tier": "routine",
-   "reason": "Legal / regulatory action · immaterial: ₹2.1 lakh vs ₹12,91,164 Cr market cap",
    "classifiedBy": "rules"
   },
   {
@@ -8667,15 +8793,19 @@
    "summary": "Pidilite issued Q2 FY27 earnings presentation on 28 Oct 2026; sales rose 21.1%, PAT grew 7.1%.",
    "date": "2026-10-28T19:30:08+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec932e4d-dc17-4252-b411-7ccf951f4c54.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
+   "category": "earnings_call",
+   "score": 75,
+   "tier": "critical",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "Pidilite reports 21 percent sales growth in Q2 earnings presentation."
+   },
    "related": [
     {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5e3d826-457a-4da4-963c-25dc383d0924.pdf"
+     "title": "Audio Recording Q2FY27 Earnings Call",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=750fabe2-8646-4db4-9942-46e33658336a.pdf"
     }
    ]
   },
@@ -8706,33 +8836,43 @@
    "tier": "critical",
    "reason": "Quarterly results filed",
    "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5e3d826-457a-4da4-963c-25dc383d0924.pdf"
+    }
+   ],
    "enrichment": {
     "kind": "results",
     "quarter": "Sep 2026",
     "basis": "consolidated",
     "unit": "₹ Cr",
     "revenue": {
-     "current": 4298,
-     "prevQ": 4552,
-     "yearAgoQ": 3554
+     "current": 4297.59,
+     "prevQ": 4551.55,
+     "yearAgoQ": 3554.44
     },
     "ebitda": {
-     "current": 877,
-     "prevQ": 1194,
-     "yearAgoQ": 850
+     "current": 882.4,
+     "prevQ": 1210.62,
+     "yearAgoQ": 850.38
     },
     "pbt": {
-     "current": 834,
-     "prevQ": 1192,
-     "yearAgoQ": 787
+     "current": 834.23,
+     "prevQ": 1191.99,
+     "yearAgoQ": 787.31
     },
     "pat": {
-     "current": 626,
-     "prevQ": 884,
-     "yearAgoQ": 585
+     "current": 626.46,
+     "prevQ": 883.51,
+     "yearAgoQ": 684.6
     },
     "isBank": false,
-    "source": "screener"
+    "source": "filing",
+    "crossCheck": {
+     "ok": true,
+     "note": "Matches exchange-reported figures"
+    }
    }
   },
   {
@@ -8762,6 +8902,30 @@
    "tier": "routine",
    "reason": "Investor meeting / deck · only a notice of a future event",
    "classifiedBy": "rules"
+  },
+  {
+   "id": "674edbbe9181",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Canada'S UNI Financial Cooperation Advances Branch Modernization With Infosys Finacle Universal Banker",
+   "summary": "UNI Financial Cooperation deployed Infosys Finacle Universal Banker across all branches in Canada.",
+   "date": "2026-10-28T17:34:48+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e740e1c4-75bc-4392-808c-a3323d612194.pdf",
+   "category": "press_release",
+   "score": 15,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "UNI Financial Cooperation deploys Infosys Finacle across Canadian branches."
+   },
+   "related": [
+    {
+     "title": "Winners Of Qorus-Infosys Finacle Banking Innovation Awards 2026 Announced",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35b12a6d-e165-42d3-a0d1-cbe42fe2a99f.pdf"
+    }
+   ]
   },
   {
    "id": "56f0e02299c2",
@@ -8799,45 +8963,46 @@
    "summary": "Sashidhar Jagdishan steps down October 26, 2026; Anup Bagchi becomes HDFC Bank MD and CEO from October 27, 2026.",
    "date": "2026-10-27T08:06:22+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b2d06f-fea8-4dea-aa03-84674215a0fd.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
+   "category": "management_change",
+   "score": 80,
+   "tier": "critical",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Grant Of Stock Options Under Employee Stock Option Scheme",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e0bab4c-fcd5-45ce-8a91-a3dcf5dac9e9.pdf"
-    }
-   ]
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "management",
+    "changes": [
+     {
+      "name": "Sashidhar Jagdishan",
+      "role": "Managing Director and Chief Executive Officer",
+      "change": "retired",
+      "effective": "October 26, 2026"
+     },
+     {
+      "name": "Anup Bagchi",
+      "role": "Managing Director and Chief Executive Officer",
+      "change": "appointed",
+      "effective": "October 27, 2026"
+     }
+    ]
+   }
   },
   {
-   "id": "b81d9d395223",
-   "symbol": "BHARTIARTL",
-   "company": "Bharti Airtel",
-   "title": "Board Meeting Intimation for Intimation Of Board Meeting For Audited Financial Results (Standalone & Consolidated) For The Second Quarter (Q2) And Six Months Ended September 30, 2026.",
-   "summary": "Board meeting on November 5, 2026 to consider Q2 and six-month audited results; trading window closed October 1-November 7.",
-   "date": "2026-10-26T19:20:42+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a5ea611-ba91-4312-95aa-59a8cc634910.pdf",
-   "category": "results",
-   "score": 50,
-   "tier": "notable",
-   "reason": "Quarterly results filed · only a notice of a future event",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "7e7a8622dfb6",
-   "symbol": "TATASTEEL",
-   "company": "Tata Steel",
-   "title": "Update on board meeting",
-   "summary": "Tata Steel board meeting postponed to November 7, 2026 for Q2 and half-year results approval.",
-   "date": "2026-10-24T18:32:45+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f226c38-fc19-45fa-8f39-6598689caa04.pdf",
-   "category": "press_release",
-   "score": 30,
+   "id": "b4c5139c5fa4",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Grant Of Stock Options Under Employee Stock Option Scheme",
+   "summary": "HDFC Bank granted 13,02,379 stock options at Rs. 692.80 under ESOS Plan H-2024.",
+   "date": "2026-10-24T22:24:00+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e0bab4c-fcd5-45ce-8a91-a3dcf5dac9e9.pdf",
+   "category": "unclassified",
+   "score": 20,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "HDFC Bank grants 1.3 million stock options to employees."
+   }
   },
   {
    "id": "2f0d7882fd3c",
@@ -8890,10 +9055,14 @@
    "date": "2026-10-21T18:27:52+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c5f0398-af9f-4c70-b509-b5f5b9ed5a9f.pdf",
    "category": "press_release",
-   "score": 30,
+   "score": 20,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
+   "reason": "Read by model — rules were unsure",
+   "enrichment": {
+    "kind": "oneliner",
+    "text": "Zydus Lifesciences partners with Prolific Machines for biologics production."
+   }
   },
   {
    "id": "32cb379dc645",
@@ -8907,7 +9076,13 @@
    "score": 50,
    "tier": "notable",
    "reason": "Quarterly results filed · only a notice of a future event",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Update on board meeting",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f226c38-fc19-45fa-8f39-6598689caa04.pdf"
+    }
+   ]
   },
   {
    "id": "e50f2ce51a05",
@@ -8938,10 +9113,105 @@
    "classifiedBy": "rules"
   }
  ],
- "cost": [],
+ "cost": [
+  {
+   "step": "classify 17 ambiguous filings",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 1413,
+   "outTok": 1073,
+   "usd": 0.0005705
+  },
+  {
+   "step": "ITC: read results filing",
+   "model": "gemini-3.5-flash",
+   "inTok": 6855,
+   "outTok": 356,
+   "usd": 0.0029465
+  },
+  {
+   "step": "RELIANCE: read results filing",
+   "model": "gemini-3.5-flash",
+   "inTok": 4572,
+   "outTok": 324,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "DIXON: read results filing",
+   "model": "gemini-3.5-flash",
+   "inTok": 3697,
+   "outTok": 330,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "PIDILITIND: read results filing",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 5275,
+   "outTok": 331,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "TRENT: parse management change",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 2036,
+   "outTok": 382,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "SUZLON: read results filing",
+   "model": "gemini-3.5-flash",
+   "inTok": 5547,
+   "outTok": 337,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "ASIANPAINT: read results filing",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 6049,
+   "outTok": 344,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "TRENT: read results filing",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 2780,
+   "outTok": 216,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "HDFCBANK: parse management change",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 1081,
+   "outTok": 125,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "ZYDUSLIFE: parse management change",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 1528,
+   "outTok": 186,
+   "usd": 0,
+   "cached": true
+  },
+  {
+   "step": "HDFCBANK: parse management change",
+   "model": "gemini-3.1-flash-lite",
+   "inTok": 710,
+   "outTok": 74,
+   "usd": 0,
+   "cached": true
+  }
+ ],
  "stats": {
   "total": 82,
-  "byRules": 66,
-  "byLlm": 16
+  "byRules": 65,
+  "byLlm": 17
  }
 }

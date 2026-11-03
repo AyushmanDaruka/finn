@@ -84,13 +84,17 @@ async function main() {
   // Enrich only what earned attention, and only once.
   for (const a of anns.filter((x) => x.tier !== "routine")) {
     const c = companies.get(a.symbol);
-    const done = a.enrichment && (a.enrichment.kind !== "results" || a.enrichment.source === "filing" || !hasKey());
-    if (!c || done) continue;
+    // What this item needs: a results card or a people card. A model one-liner alone doesn't count as done.
+    const want = a.category === "results" && a.score >= 70 ? "results" : a.category === "management_change" ? "management" : null;
+    const e = a.enrichment;
+    if (!c || !want || (e?.kind === want && (e.kind !== "results" || e.source === "filing" || !hasKey()))) continue;
     if (a.category === "results" && a.score >= 70) {
       const q = reportedQuarter(a.date);
       const table = resultsFromTable(c, q);
       if (table?.quarter !== q) continue; // table not updated for this quarter yet — don't show a stale quarter
-      a.enrichment = (await resultsFromFiling(a.url, c)) ?? table;
+      // Read the statement itself, not the press release or deck filed alongside it.
+      const stmt = [{ title: a.title, url: a.url }, ...(a.related ?? [])].find((x) => /financial results/i.test(x.title) && !/newspaper|media|presentation/i.test(x.title)) ?? a;
+      a.enrichment = (await resultsFromFiling(stmt.url, c)) ?? table;
       console.log(`results card ${a.symbol} (${a.enrichment.kind === "results" ? a.enrichment.source : ""})`);
     } else if (a.category === "management_change") {
       a.enrichment = (await management(a.url, a.symbol, a.company, a.summary)) ?? a.enrichment;

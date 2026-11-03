@@ -234,7 +234,10 @@ function Report({ r }: { r: R }) {
 function Promises({ p }: { p: NonNullable<R["promises"]> }) {
   const [open, setOpen] = useState<string | null>(null);
   const counts = p.items.reduce<Record<string, number>>((m, x) => ((m[x.verdict ?? "pending"] = (m[x.verdict ?? "pending"] ?? 0) + 1), m), {});
-  const byCall = p.calls.map((c) => ({ ...c, items: p.items.filter((x) => x.said === c.period) })).filter((c) => c.items.length).reverse();
+  const [showAll, setShowAll] = useState(false);
+  const checkable = (x: PromiseItem) => showAll || x.verdict !== "unverifiable";
+  const unver = p.items.filter((x) => x.verdict === "unverifiable").length;
+  const byCall = p.calls.map((c) => ({ ...c, items: p.items.filter((x) => x.said === c.period && checkable(x)) })).filter((c) => c.items.length).reverse();
   const score = p.score;
   return (
     <>
@@ -270,6 +273,11 @@ function Promises({ p }: { p: NonNullable<R["promises"]> }) {
           </div>
         ))}
       </div>
+      {unver > 0 && (
+        <button onClick={() => setShowAll(!showAll)} className="mt-2 w-full rounded-2xl border border-dashed border-line px-4 py-2.5 text-left text-[12px] text-muted">
+          {showAll ? "Hide" : "Show"} {unver} operational targets (capacity, segments, volumes) that filed financials can’t verify {showAll ? "▴" : "▾"}
+        </button>
+      )}
       <p className="mt-2 px-1 text-[11px] text-muted">
         Each quote is verified word-for-word in the transcript{p.dropped ? ` — ${p.dropped} extracted ${p.dropped === 1 ? "claim" : "claims"} failed that check and were discarded` : ""}.
       </p>

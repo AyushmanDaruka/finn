@@ -316,7 +316,7 @@ export async function research(symbol: string, progress: (msg: string) => void =
     if (items.length) {
       progress("Checking promises against reported numbers");
       const actuals = actualsTable(L);
-      const j = await judge(c.symbol, items, actuals);
+      const j = await judge(c.symbol, items, actuals).catch(() => ({ verdicts: [], summary: "Verdicts unavailable right now (model busy) — promises shown unjudged." }));
       for (const v of j.verdicts) Object.assign(items.find((p) => p.id === v.id) ?? {}, { verdict: v.verdict, evidence: v.evidence });
       const judged = items.filter((p) => p.verdict && SCORE[p.verdict] !== undefined);
       base.promises = {
