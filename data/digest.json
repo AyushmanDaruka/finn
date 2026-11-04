@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T17:19:35.306Z",
+ "generatedAt": "2026-11-04T20:26:14.087Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,16 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1321.3,
-     "v": 8485027
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1308.4,
-     "v": 14966138
-    },
     {
      "d": "2026-07-08",
      "c": 1275.9,
@@ -427,6 +417,11 @@
      "d": "2026-11-03",
      "c": 1307.9,
      "v": 43949928
+    },
+    {
+     "d": "2026-11-04",
+     "c": 1311,
+     "v": 21173388
     }
    ]
   },
@@ -437,16 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 829.85,
-     "v": 66190772
-    },
-    {
-     "d": "2026-07-07",
-     "c": 829.3,
-     "v": 60975802
-    },
     {
      "d": "2026-07-08",
      "c": 810.3,
@@ -856,6 +841,11 @@
      "d": "2026-11-03",
      "c": 725.5,
      "v": 44369507
+    },
+    {
+     "d": "2026-11-04",
+     "c": 736.7,
+     "v": 52194560
     }
    ]
   },
@@ -866,16 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1426.9,
-     "v": 12676430
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1414.7,
-     "v": 17231546
-    },
     {
      "d": "2026-07-08",
      "c": 1380.6,
@@ -1285,6 +1265,11 @@
      "d": "2026-11-03",
      "c": 1424.5,
      "v": 17933459
+    },
+    {
+     "d": "2026-11-04",
+     "c": 1424.1,
+     "v": 10837210
     }
    ]
   },
@@ -1295,16 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1925.7,
-     "v": 3092195
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1925.8,
-     "v": 5892250
-    },
     {
      "d": "2026-07-08",
      "c": 1888.1,
@@ -1714,6 +1689,11 @@
      "d": "2026-11-03",
      "c": 2065,
      "v": 19709722
+    },
+    {
+     "d": "2026-11-04",
+     "c": 2067.6,
+     "v": 12359189
     }
    ]
   },
@@ -1724,16 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1042.2,
-     "v": 5871575
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1071.8,
-     "v": 20711664
-    },
     {
      "d": "2026-07-08",
      "c": 1069.3,
@@ -2143,6 +2113,11 @@
      "d": "2026-11-03",
      "c": 1148.1,
      "v": 10903703
+    },
+    {
+     "d": "2026-11-04",
+     "c": 1128.2,
+     "v": 9676178
     }
    ]
   },
@@ -2153,16 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 4041,
-     "v": 1324832
-    },
-    {
-     "d": "2026-07-07",
-     "c": 3991.9,
-     "v": 2522883
-    },
     {
      "d": "2026-07-08",
      "c": 3892.1,
@@ -2572,6 +2537,11 @@
      "d": "2026-11-03",
      "c": 3948.2,
      "v": 2213125
+    },
+    {
+     "d": "2026-11-04",
+     "c": 3944.4,
+     "v": 2623916
     }
    ]
   },
@@ -2582,16 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 288.25,
-     "v": 27979570
-    },
-    {
-     "d": "2026-07-07",
-     "c": 288.75,
-     "v": 20015301
-    },
     {
      "d": "2026-07-08",
      "c": 280.65,
@@ -3001,6 +2961,11 @@
      "d": "2026-11-03",
      "c": 273.9,
      "v": 32450096
+    },
+    {
+     "d": "2026-11-04",
+     "c": 280,
+     "v": 46017803
     }
    ]
   },
@@ -3011,16 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1912.8,
-     "v": 1234511
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1903.4,
-     "v": 2111152
-    },
     {
      "d": "2026-07-08",
      "c": 1888.2,
@@ -3430,6 +3385,11 @@
      "d": "2026-11-03",
      "c": 1769.9,
      "v": 2710131
+    },
+    {
+     "d": "2026-11-04",
+     "c": 1773.4,
+     "v": 5086642
     }
    ]
   },
@@ -3440,16 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 2754.9,
-     "v": 612349
-    },
-    {
-     "d": "2026-07-07",
-     "c": 2731.4,
-     "v": 511059
-    },
     {
      "d": "2026-07-08",
      "c": 2665.9,
@@ -3859,6 +3809,11 @@
      "d": "2026-11-03",
      "c": 2437.8,
      "v": 2110859
+    },
+    {
+     "d": "2026-11-04",
+     "c": 2418.3,
+     "v": 1380100
     }
    ]
   },
@@ -3869,16 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 190.87,
-     "v": 15707717
-    },
-    {
-     "d": "2026-07-07",
-     "c": 189.79,
-     "v": 23531802
-    },
     {
      "d": "2026-07-08",
      "c": 188.2,
@@ -4288,6 +4233,11 @@
      "d": "2026-11-03",
      "c": 176.5,
      "v": 18763167
+    },
+    {
+     "d": "2026-11-04",
+     "c": 179.93,
+     "v": 21961106
     }
    ]
   },
@@ -4298,16 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 3206.6,
-     "v": 2144087
-    },
-    {
-     "d": "2026-07-07",
-     "c": 3107.2,
-     "v": 2179247
-    },
     {
      "d": "2026-07-08",
      "c": 3046.9,
@@ -4717,6 +4657,11 @@
      "d": "2026-11-03",
      "c": 2593.3,
      "v": 792616
+    },
+    {
+     "d": "2026-11-04",
+     "c": 2709.2,
+     "v": 2301583
     }
    ]
   },
@@ -4727,16 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 3343.8,
-     "v": 882342
-    },
-    {
-     "d": "2026-07-07",
-     "c": 2927.8,
-     "v": 9439219
-    },
     {
      "d": "2026-07-08",
      "c": 2924,
@@ -5146,6 +5081,11 @@
      "d": "2026-11-03",
      "c": 3036.5,
      "v": 872731
+    },
+    {
+     "d": "2026-11-04",
+     "c": 3060,
+     "v": 652360
     }
    ]
   },
@@ -5156,16 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1616.9,
-     "v": 527017
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1622.3,
-     "v": 645962
-    },
     {
      "d": "2026-07-08",
      "c": 1570.4,
@@ -5575,6 +5505,11 @@
      "d": "2026-11-03",
      "c": 1510.9,
      "v": 1166668
+    },
+    {
+     "d": "2026-11-04",
+     "c": 1510.2,
+     "v": 978588
     }
    ]
   },
@@ -5585,16 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 1147.9,
-     "v": 2154013
-    },
-    {
-     "d": "2026-07-07",
-     "c": 1153,
-     "v": 1972821
-    },
     {
      "d": "2026-07-08",
      "c": 1148,
@@ -6004,6 +5929,11 @@
      "d": "2026-11-03",
      "c": 1240.6,
      "v": 2020268
+    },
+    {
+     "d": "2026-11-04",
+     "c": 1188.1,
+     "v": 5263602
     }
    ]
   },
@@ -6014,16 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 9584,
-     "v": 192714
-    },
-    {
-     "d": "2026-07-07",
-     "c": 9401,
-     "v": 188749
-    },
     {
      "d": "2026-07-08",
      "c": 9234,
@@ -6433,6 +6353,11 @@
      "d": "2026-11-03",
      "c": 7837,
      "v": 247762
+    },
+    {
+     "d": "2026-11-04",
+     "c": 7930,
+     "v": 151775
     }
    ]
   },
@@ -6443,16 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 13304,
-     "v": 1387193
-    },
-    {
-     "d": "2026-07-07",
-     "c": 13242,
-     "v": 867010
-    },
     {
      "d": "2026-07-08",
      "c": 12934,
@@ -6862,6 +6777,11 @@
      "d": "2026-11-03",
      "c": 12270,
      "v": 559025
+    },
+    {
+     "d": "2026-11-04",
+     "c": 12290,
+     "v": 262651
     }
    ]
   },
@@ -6872,16 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 55.47,
-     "v": 78910757
-    },
-    {
-     "d": "2026-07-07",
-     "c": 54.38,
-     "v": 60404451
-    },
     {
      "d": "2026-07-08",
      "c": 53.13,
@@ -7291,6 +7201,11 @@
      "d": "2026-11-03",
      "c": 35.75,
      "v": 68612870
+    },
+    {
+     "d": "2026-11-04",
+     "c": 37.45,
+     "v": 111468982
     }
    ]
   },
@@ -7301,16 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-06",
-     "c": 3359.2,
-     "v": 1296831
-    },
-    {
-     "d": "2026-07-07",
-     "c": 3312.6,
-     "v": 709700
-    },
     {
      "d": "2026-07-08",
      "c": 3210.7,
@@ -7720,11 +7625,156 @@
      "d": "2026-11-03",
      "c": 3239,
      "v": 299107
+    },
+    {
+     "d": "2026-11-04",
+     "c": 3330,
+     "v": 477917
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "532ccd0811f8",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Investor Conference",
+   "summary": "Infosys management to attend three investor events on Nov 16, 17 and 19, 2026 in Mumbai and Singapore.",
+   "date": "2026-11-04T21:03:26+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=83d29514-eb26-466a-a60f-ddc7064a56bf.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "f85ebc62caa8",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+   "summary": "S&P reaffirmed Reliance’s A- stable rating for senior unsecured US$ notes on November 3, 2026.",
+   "date": "2026-11-04T20:47:09+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a4b00d7-4978-4c75-beb2-78403163cb8e.pdf",
+   "category": "credit_rating",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Credit rating action · just reaffirmed",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "c68d9fe773ae",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Audio recording of investor call on unaudited Q2/H1 FY2026 results available on website.",
+   "date": "2026-11-04T19:19:40+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bf3b48a9-9713-41d9-ae2b-10564f13f934.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "d7f38494c596",
+   "symbol": "SUZLON",
+   "company": "Suzlon Energy",
+   "title": "Rumour verification - Regulation 30(11)",
+   "summary": "Suzlon reported a material price movement on 4 November 2026, with no triggering event found.",
+   "date": "2026-11-04T17:51:34+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b3810b-c62c-4e30-b76a-f0002f136c1e.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "b2a30bd2b329",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Updates",
+   "summary": "KFin Technologies’ corporate office shifts to Hyderabad from December 1, 2026; registered office unchanged.",
+   "date": "2026-11-04T17:03:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b59d36e-54d8-422a-8308-ff536357d314.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "52b8455e341c",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
+   "summary": "DoT imposed Rs. 1,07,000 penalty on Bharti Airtel for alleged subscriber verification norms violation.",
+   "date": "2026-11-04T16:42:26+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d087a4f-5077-43f5-a2d8-af2847be1303.pdf",
+   "category": "litigation",
+   "score": 25,
+   "tier": "routine",
+   "reason": "Legal / regulatory action · immaterial: ₹1.1 lakh vs ₹12,89,954 Cr market cap",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "4e6cb834ac3b",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper advertisement in respect of the Second Reminder Notice for First and Final call money on partly paid-up equity shares of Bharti Airtel Limited.",
+   "date": "2026-11-04T15:36:25+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=041ecd16-8df5-45cd-90bb-d4bd2fa6cf9b.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "17c6df897146",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper publication of notice of loss of share certificate of the Company published in the Financial Express English and Gujarati editions, both on November 4, …",
+   "date": "2026-11-04T15:07:10+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6aecb166-97ab-47f6-866b-0a209a033b46.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "922e8da788da",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Zydus Lifesciences announced Q2/H1 FY27 results; revenue up 29%/25%, net profit down 27%/31%.",
+   "date": "2026-11-04T12:40:44+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b0dcbf-daf6-45a0-9d2d-46ecd65ef243.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "41d52c3a794f",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s",
+   "summary": "Walker Chandiok & Co LLP appointed statutory auditors for 5 years from 32nd AGM, subject to shareholder approval.",
+   "date": "2026-11-04T12:32:04+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01aa549c-fe16-4830-9d75-190e9cb6f20f.pdf",
+   "category": "agm_egm",
+   "score": 10,
+   "tier": "routine",
+   "reason": "Shareholder meeting",
+   "classifiedBy": "rules"
+  },
   {
    "id": "62299d02d7ab",
    "symbol": "BHARTIARTL",
@@ -8011,7 +8061,13 @@
    "score": 35,
    "tier": "notable",
    "reason": "Company news",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Intimation Under SEBI (LODR) Regulations, 2015 - Change In Corporate Office Address Of Registrar And Share Transfer Agent",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a1e858a-92de-4d39-9433-a8d3d62ccd22.pdf"
+    }
+   ]
   },
   {
    "id": "d1f8cdf9c921",
@@ -8194,13 +8250,7 @@
    "enrichment": {
     "kind": "oneliner",
     "text": "TRAI imposes 5.4 million rupee penalty on Bharti Airtel for non-compliance."
-   },
-   "related": [
-    {
-     "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=af0f8622-1854-4424-96bf-3e22856f1470.pdf"
-    }
-   ]
+   }
   },
   {
    "id": "961f05e137b0",
@@ -8231,6 +8281,20 @@
    "classifiedBy": "rules"
   },
   {
+   "id": "5cdf68d4ec83",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Reliance reported record Q2 FY27 PAT of ₹29,550 crore; Jio Platforms IPO completed on 28 Oct 2026.",
+   "date": "2026-10-30T19:46:01+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aacc5fc7-25e5-4901-b682-d9911fe1d21b.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
    "id": "47863bb7c61a",
    "symbol": "RELIANCE",
    "company": "Reliance Industries",
@@ -8243,12 +8307,6 @@
    "tier": "critical",
    "reason": "Quarterly results filed",
    "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aacc5fc7-25e5-4901-b682-d9911fe1d21b.pdf"
-    }
-   ],
    "enrichment": {
     "kind": "results",
     "quarter": "Sep 2026",
@@ -8670,6 +8728,26 @@
    }
   },
   {
+   "id": "c2c2552b82c7",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Winners Of Qorus-Infosys Finacle Banking Innovation Awards 2026 Announced",
+   "summary": "Infosys Finacle announces 2026 Qorus banking innovation awards winners; 37 institutions recognized across ten categories.",
+   "date": "2026-10-29T15:07:23+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35b12a6d-e165-42d3-a0d1-cbe42fe2a99f.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Canada'S UNI Financial Cooperation Advances Branch Modernization With Infosys Finacle Universal Banker",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e740e1c4-75bc-4392-808c-a3323d612194.pdf"
+    }
+   ]
+  },
+  {
    "id": "4062502838f8",
    "symbol": "ASIANPAINT",
    "company": "Asian Paints",
@@ -8824,6 +8902,20 @@
    "classifiedBy": "rules"
   },
   {
+   "id": "2275f8012c5f",
+   "symbol": "PIDILITIND",
+   "company": "Pidilite Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Pidilite reports Q2FY27 revenue growth 21.7%; EBITDA margin 20.4%; earnings call on 29 October 2026.",
+   "date": "2026-10-28T19:07:46+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5e3d826-457a-4da4-963c-25dc383d0924.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
    "id": "b33d5b4ff982",
    "symbol": "PIDILITIND",
    "company": "Pidilite Industries",
@@ -8836,12 +8928,6 @@
    "tier": "critical",
    "reason": "Quarterly results filed",
    "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5e3d826-457a-4da4-963c-25dc383d0924.pdf"
-    }
-   ],
    "enrichment": {
     "kind": "results",
     "quarter": "Sep 2026",
@@ -8902,30 +8988,6 @@
    "tier": "routine",
    "reason": "Investor meeting / deck · only a notice of a future event",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "674edbbe9181",
-   "symbol": "INFY",
-   "company": "Infosys",
-   "title": "Canada'S UNI Financial Cooperation Advances Branch Modernization With Infosys Finacle Universal Banker",
-   "summary": "UNI Financial Cooperation deployed Infosys Finacle Universal Banker across all branches in Canada.",
-   "date": "2026-10-28T17:34:48+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e740e1c4-75bc-4392-808c-a3323d612194.pdf",
-   "category": "press_release",
-   "score": 15,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Read by model — rules were unsure",
-   "enrichment": {
-    "kind": "oneliner",
-    "text": "UNI Financial Cooperation deploys Infosys Finacle across Canadian branches."
-   },
-   "related": [
-    {
-     "title": "Winners Of Qorus-Infosys Finacle Banking Innovation Awards 2026 Announced",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=35b12a6d-e165-42d3-a0d1-cbe42fe2a99f.pdf"
-    }
-   ]
   },
   {
    "id": "56f0e02299c2",
@@ -9005,6 +9067,20 @@
    }
   },
   {
+   "id": "7e7a8622dfb6",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Update on board meeting",
+   "summary": "Tata Steel board meeting postponed to November 7, 2026 for Q2 and half-year results approval.",
+   "date": "2026-10-24T18:32:45+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f226c38-fc19-45fa-8f39-6598689caa04.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
    "id": "2f0d7882fd3c",
    "symbol": "ICICIBANK",
    "company": "ICICI Bank",
@@ -9076,13 +9152,7 @@
    "score": 50,
    "tier": "notable",
    "reason": "Quarterly results filed · only a notice of a future event",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Update on board meeting",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f226c38-fc19-45fa-8f39-6598689caa04.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "e50f2ce51a05",
@@ -9210,8 +9280,8 @@
   }
  ],
  "stats": {
-  "total": 82,
-  "byRules": 65,
-  "byLlm": 17
+  "total": 23,
+  "byRules": 15,
+  "byLlm": 8
  }
 }
