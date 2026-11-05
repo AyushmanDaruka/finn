@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T20:26:14.087Z",
+ "generatedAt": "2026-11-05T20:38:58.743Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1275.9,
-     "v": 20800260
-    },
     {
      "d": "2026-07-09",
      "c": 1279.8,
@@ -422,6 +417,11 @@
      "d": "2026-11-04",
      "c": 1311,
      "v": 21173388
+    },
+    {
+     "d": "2026-11-05",
+     "c": 1313.4,
+     "v": 21441258
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 810.3,
-     "v": 39728227
-    },
     {
      "d": "2026-07-09",
      "c": 817.55,
@@ -846,6 +841,11 @@
      "d": "2026-11-04",
      "c": 736.7,
      "v": 52194560
+    },
+    {
+     "d": "2026-11-05",
+     "c": 760,
+     "v": 68180663
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1380.6,
-     "v": 10817122
-    },
     {
      "d": "2026-07-09",
      "c": 1380.7,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-04",
      "c": 1424.1,
      "v": 10837210
+    },
+    {
+     "d": "2026-11-05",
+     "c": 1500,
+     "v": 40779978
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1888.1,
-     "v": 6310364
-    },
     {
      "d": "2026-07-09",
      "c": 1931.1,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-04",
      "c": 2067.6,
      "v": 12359189
+    },
+    {
+     "d": "2026-11-05",
+     "c": 2056.9,
+     "v": 10258450
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1069.3,
-     "v": 13637846
-    },
     {
      "d": "2026-07-09",
      "c": 1050.8,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-04",
      "c": 1128.2,
      "v": 9676178
+    },
+    {
+     "d": "2026-11-05",
+     "c": 1167.4,
+     "v": 10805689
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 3892.1,
-     "v": 2342255
-    },
     {
      "d": "2026-07-09",
      "c": 3886,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-04",
      "c": 3944.4,
      "v": 2623916
+    },
+    {
+     "d": "2026-11-05",
+     "c": 4050,
+     "v": 4090391
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 280.65,
-     "v": 22800601
-    },
     {
      "d": "2026-07-09",
      "c": 282.05,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-04",
      "c": 280,
      "v": 46017803
+    },
+    {
+     "d": "2026-11-05",
+     "c": 278.85,
+     "v": 32781911
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1888.2,
-     "v": 2859123
-    },
     {
      "d": "2026-07-09",
      "c": 1938.7,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-04",
      "c": 1773.4,
      "v": 5086642
+    },
+    {
+     "d": "2026-11-05",
+     "c": 1829,
+     "v": 4123122
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 2665.9,
-     "v": 1626415
-    },
     {
      "d": "2026-07-09",
      "c": 2673.8,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-04",
      "c": 2418.3,
      "v": 1380100
+    },
+    {
+     "d": "2026-11-05",
+     "c": 2523.8,
+     "v": 2523272
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 188.2,
-     "v": 18590857
-    },
     {
      "d": "2026-07-09",
      "c": 187.91,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-04",
      "c": 179.93,
      "v": 21961106
+    },
+    {
+     "d": "2026-11-05",
+     "c": 182,
+     "v": 30524327
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 3046.9,
-     "v": 2522630
-    },
     {
      "d": "2026-07-09",
      "c": 3083.6,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-04",
      "c": 2709.2,
      "v": 2301583
+    },
+    {
+     "d": "2026-11-05",
+     "c": 2733.3,
+     "v": 1343430
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 2924,
-     "v": 2941616
-    },
     {
      "d": "2026-07-09",
      "c": 2904.1,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-04",
      "c": 3060,
      "v": 652360
+    },
+    {
+     "d": "2026-11-05",
+     "c": 3055,
+     "v": 1102668
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1570.4,
-     "v": 679443
-    },
     {
      "d": "2026-07-09",
      "c": 1590.4,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-04",
      "c": 1510.2,
      "v": 978588
+    },
+    {
+     "d": "2026-11-05",
+     "c": 1553.6,
+     "v": 930797
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 1148,
-     "v": 2953502
-    },
     {
      "d": "2026-07-09",
      "c": 1159,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-04",
      "c": 1188.1,
      "v": 5263602
+    },
+    {
+     "d": "2026-11-05",
+     "c": 1193,
+     "v": 2418944
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 9234,
-     "v": 290215
-    },
     {
      "d": "2026-07-09",
      "c": 9074,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-04",
      "c": 7930,
      "v": 151775
+    },
+    {
+     "d": "2026-11-05",
+     "c": 7849,
+     "v": 238147
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 12934,
-     "v": 590092
-    },
     {
      "d": "2026-07-09",
      "c": 13477,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-04",
      "c": 12290,
      "v": 262651
+    },
+    {
+     "d": "2026-11-05",
+     "c": 12616,
+     "v": 346383
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 53.13,
-     "v": 71743185
-    },
     {
      "d": "2026-07-09",
      "c": 53.7,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-04",
      "c": 37.45,
      "v": 111468982
+    },
+    {
+     "d": "2026-11-05",
+     "c": 38.59,
+     "v": 75748109
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-08",
-     "c": 3210.7,
-     "v": 961807
-    },
     {
      "d": "2026-07-09",
      "c": 3429.1,
@@ -7630,11 +7625,152 @@
      "d": "2026-11-04",
      "c": 3330,
      "v": 477917
+    },
+    {
+     "d": "2026-11-05",
+     "c": 3292.5,
+     "v": 437651
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "77b0edf9f2c9",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Statement Of Nil Deviation(S)/ Variation(S) In The Utilization Of First And Final Call Proceeds For The Quarter Ended September 30, 2026.",
+   "summary": "Bharti Airtel filed Q2 FY27 monitoring report; no deviation in ₹15,714.47 crore rights call proceeds.",
+   "date": "2026-11-05T19:30:40+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55c20e61-aebc-4717-b79a-065bec64e10b.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=422774be-d5f4-4a17-a483-ffb3b7728020.pdf"
+    },
+    {
+     "title": "Updates",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b59d36e-54d8-422a-8308-ff536357d314.pdf"
+    }
+   ]
+  },
+  {
+   "id": "0149aa6568f2",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
+   "summary": "Axis Bank reports nil deviation in Bharti Airtel rights issue proceeds for quarter ended September 30, 2026.",
+   "date": "2026-11-05T19:27:45+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c260f50a-c5cb-45e9-a568-a0732046d11b.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "10b405daec72",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "Company has allotted 37,750 equity shares under DIXON ESOP 2020 on 05th November 2026.",
+   "date": "2026-11-05T17:19:14+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdab8a75-541a-4c8e-bd67-a4c1e81d0a22.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "8fa681809168",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+   "summary": "Announcement under Regulation 30 of SEBI LODR- Transcript of the Q2 FY 27 Earnings Conference Call held on 30th October, 2026",
+   "date": "2026-11-05T16:36:05+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf",
+   "category": "earnings_call",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Earnings-call logistics",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "f4e6fbd0e964",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Quarterly Report W.R.T. Financial Results For The Second Quarter And Six Months Ended September 30, 2026",
+   "summary": "Bharti Airtel reported Q2 FY26 revenue of Rs 608,775 million, net income Rs 88,875 million.",
+   "date": "2026-11-05T16:25:57+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f677c46-d64d-4c66-9851-541120179fe4.pdf",
+   "category": "results",
+   "score": 90,
+   "tier": "critical",
+   "reason": "Quarterly results filed",
+   "classifiedBy": "rules",
+   "enrichment": {
+    "kind": "results",
+    "quarter": "Sep 2026",
+    "basis": "consolidated",
+    "unit": "₹ Cr",
+    "revenue": {
+     "current": 60878,
+     "prevQ": 58539,
+     "yearAgoQ": 52145
+    },
+    "ebitda": {
+     "current": 34946,
+     "prevQ": 33303,
+     "yearAgoQ": 29561
+    },
+    "pbt": {
+     "current": 15428,
+     "prevQ": 13773,
+     "yearAgoQ": 12322
+    },
+    "pat": {
+     "current": 10710,
+     "prevQ": 10012,
+     "yearAgoQ": 8651
+    },
+    "isBank": false,
+    "source": "screener"
+   }
+  },
+  {
+   "id": "8cbc7deeb0f5",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper cutting with regard to publication of unaudited financial results for the quarter / half year ended on September 30, 2026 in Financial Express on …",
+   "date": "2026-11-05T12:12:46+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c08577c9-0565-42a5-9ff9-ca97094b54a7.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "d3d1131fd31f",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "Allotment of 36,937 equity shares at FV Rs.2 each on November 5, 2026 under ICICI Bank Employees Stock Unit Scheme - 2022",
+   "date": "2026-11-05T11:17:32+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1bef81c5-3757-44f3-a2c9-8abc7629ebe6.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
   {
    "id": "532ccd0811f8",
    "symbol": "INFY",
@@ -7675,7 +7811,13 @@
    "score": 15,
    "tier": "routine",
    "reason": "Investor meeting / deck",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=46eee481-29e8-4982-a638-ceade125eccc.pdf"
+    }
+   ]
   },
   {
    "id": "d7f38494c596",
@@ -7685,20 +7827,6 @@
    "summary": "Suzlon reported a material price movement on 4 November 2026, with no triggering event found.",
    "date": "2026-11-04T17:51:34+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b3810b-c62c-4e30-b76a-f0002f136c1e.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
-  },
-  {
-   "id": "b2a30bd2b329",
-   "symbol": "BHARTIARTL",
-   "company": "Bharti Airtel",
-   "title": "Updates",
-   "summary": "KFin Technologies’ corporate office shifts to Hyderabad from December 1, 2026; registered office unchanged.",
-   "date": "2026-11-04T17:03:31+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b59d36e-54d8-422a-8308-ff536357d314.pdf",
    "category": "press_release",
    "score": 30,
    "tier": "routine",
@@ -8739,13 +8867,7 @@
    "score": 30,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Canada'S UNI Financial Cooperation Advances Branch Modernization With Infosys Finacle Universal Banker",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e740e1c4-75bc-4392-808c-a3323d612194.pdf"
-    }
-   ]
+   "reason": "Rules unsure; model offline — unranked"
   },
   {
    "id": "4062502838f8",
@@ -9280,8 +9402,8 @@
   }
  ],
  "stats": {
-  "total": 23,
+  "total": 18,
   "byRules": 15,
-  "byLlm": 8
+  "byLlm": 3
  }
 }
