@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T20:38:58.743Z",
+ "generatedAt": "2026-11-06T19:57:57.260Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1279.8,
-     "v": 16094450
-    },
     {
      "d": "2026-07-10",
      "c": 1307.8,
@@ -422,6 +417,11 @@
      "d": "2026-11-05",
      "c": 1313.4,
      "v": 21441258
+    },
+    {
+     "d": "2026-11-06",
+     "c": 1320,
+     "v": 23536537
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 817.55,
-     "v": 42930252
-    },
     {
      "d": "2026-07-10",
      "c": 824.95,
@@ -846,6 +841,11 @@
      "d": "2026-11-05",
      "c": 760,
      "v": 68180663
+    },
+    {
+     "d": "2026-11-06",
+     "c": 788.25,
+     "v": 75963354
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1380.7,
-     "v": 16141969
-    },
     {
      "d": "2026-07-10",
      "c": 1401.2,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-05",
      "c": 1500,
      "v": 40779978
+    },
+    {
+     "d": "2026-11-06",
+     "c": 1571.2,
+     "v": 41560297
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1931.1,
-     "v": 11906391
-    },
     {
      "d": "2026-07-10",
      "c": 1920.4,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-05",
      "c": 2056.9,
      "v": 10258450
+    },
+    {
+     "d": "2026-11-06",
+     "c": 2107.2,
+     "v": 17675711
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1050.8,
-     "v": 9971314
-    },
     {
      "d": "2026-07-10",
      "c": 1068,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-05",
      "c": 1167.4,
      "v": 10805689
+    },
+    {
+     "d": "2026-11-06",
+     "c": 1181.4,
+     "v": 15938986
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 3886,
-     "v": 5392417
-    },
     {
      "d": "2026-07-10",
      "c": 3945.8,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-05",
      "c": 4050,
      "v": 4090391
+    },
+    {
+     "d": "2026-11-06",
+     "c": 4117.7,
+     "v": 3684953
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 282.05,
-     "v": 13730856
-    },
     {
      "d": "2026-07-10",
      "c": 281.75,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-05",
      "c": 278.85,
      "v": 32781911
+    },
+    {
+     "d": "2026-11-06",
+     "c": 283.15,
+     "v": 17983675
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1938.7,
-     "v": 5877284
-    },
     {
      "d": "2026-07-10",
      "c": 1935.5,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-05",
      "c": 1829,
      "v": 4123122
+    },
+    {
+     "d": "2026-11-06",
+     "c": 1860,
+     "v": 2402865
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 2673.8,
-     "v": 1074473
-    },
     {
      "d": "2026-07-10",
      "c": 2677.8,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-05",
      "c": 2523.8,
      "v": 2523272
+    },
+    {
+     "d": "2026-11-06",
+     "c": 2546,
+     "v": 1025264
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 187.91,
-     "v": 22737996
-    },
     {
      "d": "2026-07-10",
      "c": 191.19,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-05",
      "c": 182,
      "v": 30524327
+    },
+    {
+     "d": "2026-11-06",
+     "c": 186.3,
+     "v": 35683430
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 3083.6,
-     "v": 2762240
-    },
     {
      "d": "2026-07-10",
      "c": 3157.3,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-05",
      "c": 2733.3,
      "v": 1343430
+    },
+    {
+     "d": "2026-11-06",
+     "c": 2745.8,
+     "v": 1327678
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 2904.1,
-     "v": 1782027
-    },
     {
      "d": "2026-07-10",
      "c": 2902.8,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-05",
      "c": 3055,
      "v": 1102668
+    },
+    {
+     "d": "2026-11-06",
+     "c": 3079,
+     "v": 617309
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1590.4,
-     "v": 240102
-    },
     {
      "d": "2026-07-10",
      "c": 1598.5,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-05",
      "c": 1553.6,
      "v": 930797
+    },
+    {
+     "d": "2026-11-06",
+     "c": 1579,
+     "v": 634346
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 1159,
-     "v": 1064652
-    },
     {
      "d": "2026-07-10",
      "c": 1150.8,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-05",
      "c": 1193,
      "v": 2418944
+    },
+    {
+     "d": "2026-11-06",
+     "c": 1197.9,
+     "v": 1792032
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 9074,
-     "v": 508591
-    },
     {
      "d": "2026-07-10",
      "c": 9210.5,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-05",
      "c": 7849,
      "v": 238147
+    },
+    {
+     "d": "2026-11-06",
+     "c": 7871,
+     "v": 432683
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 13477,
-     "v": 887513
-    },
     {
      "d": "2026-07-10",
      "c": 13421,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-05",
      "c": 12616,
      "v": 346383
+    },
+    {
+     "d": "2026-11-06",
+     "c": 12625,
+     "v": 236790
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 53.7,
-     "v": 45408787
-    },
     {
      "d": "2026-07-10",
      "c": 53.92,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-05",
      "c": 38.59,
      "v": 75748109
+    },
+    {
+     "d": "2026-11-06",
+     "c": 38.8,
+     "v": 75374528
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-09",
-     "c": 3429.1,
-     "v": 3690743
-    },
     {
      "d": "2026-07-10",
      "c": 3336.1,
@@ -7630,11 +7625,168 @@
      "d": "2026-11-05",
      "c": 3292.5,
      "v": 437651
+    },
+    {
+     "d": "2026-11-06",
+     "c": 3233,
+     "v": 366669
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "7c7c77d0f97b",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
+   "summary": "Shareholders approved Anup Bagchi as Director and MD & CEO on November 6, 2026.",
+   "date": "2026-11-06T22:28:09+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0926e958-96d9-4537-ae2b-188dfe3eb1d1.pdf",
+   "category": "postal_ballot",
+   "score": 10,
+   "tier": "routine",
+   "reason": "Postal ballot",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "f6ef71caef05",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
+   "summary": "Shareholders approved Leo Puri as independent director; he becomes chairman from 23 January 2027.",
+   "date": "2026-11-06T21:58:36+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c6c189db-e010-4c6e-a997-b50d6d33767a.pdf",
+   "category": "management_change",
+   "score": 70,
+   "tier": "critical",
+   "reason": "Change at the top · CXO-level · board seat, non-executive",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "5c6d1b95ef01",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Reliance executives will attend a one-on-one CLSA India Forum meeting in Mumbai on November 16, 2026.",
+   "date": "2026-11-06T19:17:12+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab324f6-6fab-42fc-8b79-a3881f4fb7c7.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "7ae7f956709e",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Zydus Therapeutics reports Phase 2b saroglitazar data: 39.1% and 32.4% response vs 13.7% placebo.",
+   "date": "2026-11-06T18:57:40+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf91ac09-61d8-4fc8-bdc3-7ada709bf993.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b0dcbf-daf6-45a0-9d2d-46ecd65ef243.pdf"
+    }
+   ]
+  },
+  {
+   "id": "e115e4f6951a",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Bharti Airtel uploaded audio/video recording of its November 6, 2026 Q2 earnings call.",
+   "date": "2026-11-06T16:11:17+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c0ebd50a-d1d2-4c02-8be7-cf5e771bb8ff.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "add33c0518f7",
+   "symbol": "LT",
+   "company": "Larsen & Toubro",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "L&T to attend Goldman Sachs, CITIC CLSA and JM Financial investor meetings in Mumbai on Nov 12, 16 and 17, 2026.",
+   "date": "2026-11-06T15:33:17+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e23e65f-ffbd-4e61-be8c-a57227966831.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "d4173faf6356",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
+   "summary": "DoT levied penalties of Rs.1.60 lakh and Rs.1.02 lakh for subscriber verification lapses.",
+   "date": "2026-11-06T14:50:54+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82e352f2-9e9d-4073-af20-2f36da07dd99.pdf",
+   "category": "litigation",
+   "score": 25,
+   "tier": "routine",
+   "reason": "Legal / regulatory action · immaterial: ₹1.6 lakh vs ₹13,11,948 Cr market cap",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d087a4f-5077-43f5-a2d8-af2847be1303.pdf"
+    }
+   ]
+  },
+  {
+   "id": "830ca3102f72",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Publication of Newspaper Advertisements w.r.t Audited Financial Results for the second quarter (Q2) and six months ended September 30, 2026",
+   "date": "2026-11-06T13:05:50+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74915aaa-1875-4cc4-af7c-1684eabee116.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "7428aeb20b68",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Intimation For Signing Share Purchase Agreement Between Adaniconnex Private Limited, A Joint Venture Of The Company With Adani Infra (India) Limited",
+   "summary": "AdaniConneX signs SPA to acquire 100% of Vizag Mega Data Center Park for ₹1,085.5 crore, by November 10, 2026.",
+   "date": "2026-11-06T12:13:27+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9954341c-4e68-4989-9da6-b07df9cad13c.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "0499cc3dbf54",
+   "symbol": "TRENT",
+   "company": "Trent",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Trent scheduled a Goldman Sachs investor conference on 11 November 2026.",
+   "date": "2026-11-06T10:35:13+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11b1a994-4cb5-4dc8-98ea-73923446674c.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
   {
    "id": "77b0edf9f2c9",
    "symbol": "BHARTIARTL",
@@ -7647,17 +7799,7 @@
    "score": 30,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=422774be-d5f4-4a17-a483-ffb3b7728020.pdf"
-    },
-    {
-     "title": "Updates",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b59d36e-54d8-422a-8308-ff536357d314.pdf"
-    }
-   ]
+   "reason": "Rules unsure; model offline — unranked"
   },
   {
    "id": "0149aa6568f2",
@@ -7834,20 +7976,6 @@
    "reason": "Rules unsure; model offline — unranked"
   },
   {
-   "id": "52b8455e341c",
-   "symbol": "BHARTIARTL",
-   "company": "Bharti Airtel",
-   "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
-   "summary": "DoT imposed Rs. 1,07,000 penalty on Bharti Airtel for alleged subscriber verification norms violation.",
-   "date": "2026-11-04T16:42:26+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d087a4f-5077-43f5-a2d8-af2847be1303.pdf",
-   "category": "litigation",
-   "score": 25,
-   "tier": "routine",
-   "reason": "Legal / regulatory action · immaterial: ₹1.1 lakh vs ₹12,89,954 Cr market cap",
-   "classifiedBy": "rules"
-  },
-  {
    "id": "4e6cb834ac3b",
    "symbol": "BHARTIARTL",
    "company": "Bharti Airtel",
@@ -7874,20 +8002,6 @@
    "tier": "routine",
    "reason": "Routine compliance paperwork",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "922e8da788da",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences",
-   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-   "summary": "Zydus Lifesciences announced Q2/H1 FY27 results; revenue up 29%/25%, net profit down 27%/31%.",
-   "date": "2026-11-04T12:40:44+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b0dcbf-daf6-45a0-9d2d-46ecd65ef243.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
   },
   {
    "id": "41d52c3a794f",
@@ -9289,20 +9403,6 @@
    "tier": "routine",
    "reason": "Superseded — the results it announced are already out",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "e1d1cec49736",
-   "symbol": "KAYNES",
-   "company": "Kaynes Technology",
-   "title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018",
-   "summary": "Submitted Regulation 74(5) depository compliance certificate for quarter ended September 30, 2026.",
-   "date": "2026-10-07T15:13:04+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b19eca1b-7714-4704-aa2b-401fe5011690.pdf",
-   "category": "unclassified",
-   "score": 5,
-   "tier": "routine",
-   "reason": "Routine compliance paperwork",
-   "classifiedBy": "rules"
   }
  ],
  "cost": [
@@ -9402,8 +9502,8 @@
   }
  ],
  "stats": {
-  "total": 18,
-  "byRules": 15,
-  "byLlm": 3
+  "total": 20,
+  "byRules": 18,
+  "byLlm": 2
  }
 }
