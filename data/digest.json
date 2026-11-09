@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T19:57:57.260Z",
+ "generatedAt": "2026-11-09T22:59:22.772Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1307.8,
-     "v": 8846772
-    },
     {
      "d": "2026-07-13",
      "c": 1296.9,
@@ -422,6 +417,16 @@
      "d": "2026-11-06",
      "c": 1320,
      "v": 23536537
+    },
+    {
+     "d": "2026-11-08",
+     "c": 1324,
+     "v": 4379693
+    },
+    {
+     "d": "2026-11-09",
+     "c": 1324.4,
+     "v": 20871753
     }
    ]
   },
@@ -432,11 +437,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 824.95,
-     "v": 24452158
-    },
     {
      "d": "2026-07-13",
      "c": 817.95,
@@ -846,6 +846,16 @@
      "d": "2026-11-06",
      "c": 788.25,
      "v": 75963354
+    },
+    {
+     "d": "2026-11-08",
+     "c": 784.1,
+     "v": 7867579
+    },
+    {
+     "d": "2026-11-09",
+     "c": 798.15,
+     "v": 68786256
     }
    ]
   },
@@ -856,11 +866,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1401.2,
-     "v": 6804397
-    },
     {
      "d": "2026-07-13",
      "c": 1409.5,
@@ -1270,6 +1275,16 @@
      "d": "2026-11-06",
      "c": 1571.2,
      "v": 41560297
+    },
+    {
+     "d": "2026-11-08",
+     "c": 1565,
+     "v": 2128774
+    },
+    {
+     "d": "2026-11-09",
+     "c": 1589,
+     "v": 29933977
     }
    ]
   },
@@ -1280,11 +1295,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1920.4,
-     "v": 6566760
-    },
     {
      "d": "2026-07-13",
      "c": 1901.8,
@@ -1694,6 +1704,16 @@
      "d": "2026-11-06",
      "c": 2107.2,
      "v": 17675711
+    },
+    {
+     "d": "2026-11-08",
+     "c": 2085.5,
+     "v": 486498
+    },
+    {
+     "d": "2026-11-09",
+     "c": 2072.1,
+     "v": 6258819
     }
    ]
   },
@@ -1704,11 +1724,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1068,
-     "v": 10260506
-    },
     {
      "d": "2026-07-13",
      "c": 1102.6,
@@ -2118,6 +2133,16 @@
      "d": "2026-11-06",
      "c": 1181.4,
      "v": 15938986
+    },
+    {
+     "d": "2026-11-08",
+     "c": 1171.6,
+     "v": 1096727
+    },
+    {
+     "d": "2026-11-09",
+     "c": 1154.1,
+     "v": 10542164
     }
    ]
   },
@@ -2128,11 +2153,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 3945.8,
-     "v": 1350871
-    },
     {
      "d": "2026-07-13",
      "c": 3928.5,
@@ -2542,6 +2562,16 @@
      "d": "2026-11-06",
      "c": 4117.7,
      "v": 3684953
+    },
+    {
+     "d": "2026-11-08",
+     "c": 4110,
+     "v": 355384
+    },
+    {
+     "d": "2026-11-09",
+     "c": 4185,
+     "v": 3447325
     }
    ]
   },
@@ -2552,11 +2582,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 281.75,
-     "v": 12058014
-    },
     {
      "d": "2026-07-13",
      "c": 279.65,
@@ -2966,6 +2991,16 @@
      "d": "2026-11-06",
      "c": 283.15,
      "v": 17983675
+    },
+    {
+     "d": "2026-11-08",
+     "c": 283.45,
+     "v": 3119314
+    },
+    {
+     "d": "2026-11-09",
+     "c": 278.8,
+     "v": 19276402
     }
    ]
   },
@@ -2976,11 +3011,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1935.5,
-     "v": 1523800
-    },
     {
      "d": "2026-07-13",
      "c": 1921.4,
@@ -3390,6 +3420,16 @@
      "d": "2026-11-06",
      "c": 1860,
      "v": 2402865
+    },
+    {
+     "d": "2026-11-08",
+     "c": 1915,
+     "v": 1036153
+    },
+    {
+     "d": "2026-11-09",
+     "c": 1904.5,
+     "v": 3238368
     }
    ]
   },
@@ -3400,11 +3440,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 2677.8,
-     "v": 1007257
-    },
     {
      "d": "2026-07-13",
      "c": 2652.1,
@@ -3814,6 +3849,16 @@
      "d": "2026-11-06",
      "c": 2546,
      "v": 1025264
+    },
+    {
+     "d": "2026-11-08",
+     "c": 2529,
+     "v": 64665
+    },
+    {
+     "d": "2026-11-09",
+     "c": 2509.3,
+     "v": 1021112
     }
    ]
   },
@@ -3824,11 +3869,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 191.19,
-     "v": 23953244
-    },
     {
      "d": "2026-07-13",
      "c": 187.11,
@@ -4238,6 +4278,16 @@
      "d": "2026-11-06",
      "c": 186.3,
      "v": 35683430
+    },
+    {
+     "d": "2026-11-08",
+     "c": 190.2,
+     "v": 17160374
+    },
+    {
+     "d": "2026-11-09",
+     "c": 184.85,
+     "v": 52320720
     }
    ]
   },
@@ -4248,11 +4298,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 3157.3,
-     "v": 2267141
-    },
     {
      "d": "2026-07-13",
      "c": 3177.5,
@@ -4662,6 +4707,16 @@
      "d": "2026-11-06",
      "c": 2745.8,
      "v": 1327678
+    },
+    {
+     "d": "2026-11-08",
+     "c": 2731,
+     "v": 197711
+    },
+    {
+     "d": "2026-11-09",
+     "c": 2706.3,
+     "v": 910784
     }
    ]
   },
@@ -4672,11 +4727,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 2902.8,
-     "v": 1142931
-    },
     {
      "d": "2026-07-13",
      "c": 2900.1,
@@ -5086,6 +5136,16 @@
      "d": "2026-11-06",
      "c": 3079,
      "v": 617309
+    },
+    {
+     "d": "2026-11-08",
+     "c": 3057.5,
+     "v": 67194
+    },
+    {
+     "d": "2026-11-09",
+     "c": 3119.2,
+     "v": 992309
     }
    ]
   },
@@ -5096,11 +5156,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1598.5,
-     "v": 756933
-    },
     {
      "d": "2026-07-13",
      "c": 1580.7,
@@ -5510,6 +5565,16 @@
      "d": "2026-11-06",
      "c": 1579,
      "v": 634346
+    },
+    {
+     "d": "2026-11-08",
+     "c": 1578.2,
+     "v": 80485
+    },
+    {
+     "d": "2026-11-09",
+     "c": 1587.5,
+     "v": 730530
     }
    ]
   },
@@ -5520,11 +5585,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 1150.8,
-     "v": 859719
-    },
     {
      "d": "2026-07-13",
      "c": 1131.3,
@@ -5934,6 +5994,16 @@
      "d": "2026-11-06",
      "c": 1197.9,
      "v": 1792032
+    },
+    {
+     "d": "2026-11-08",
+     "c": 1199.5,
+     "v": 286953
+    },
+    {
+     "d": "2026-11-09",
+     "c": 1215.9,
+     "v": 2593559
     }
    ]
   },
@@ -5944,11 +6014,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 9210.5,
-     "v": 413660
-    },
     {
      "d": "2026-07-13",
      "c": 9306.5,
@@ -6358,6 +6423,16 @@
      "d": "2026-11-06",
      "c": 7871,
      "v": 432683
+    },
+    {
+     "d": "2026-11-08",
+     "c": 7839,
+     "v": 57084
+    },
+    {
+     "d": "2026-11-09",
+     "c": 7832.5,
+     "v": 244261
     }
    ]
   },
@@ -6368,11 +6443,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 13421,
-     "v": 1854048
-    },
     {
      "d": "2026-07-13",
      "c": 13490,
@@ -6782,6 +6852,16 @@
      "d": "2026-11-06",
      "c": 12625,
      "v": 236790
+    },
+    {
+     "d": "2026-11-08",
+     "c": 12604,
+     "v": 30687
+    },
+    {
+     "d": "2026-11-09",
+     "c": 12603,
+     "v": 185893
     }
    ]
   },
@@ -6792,11 +6872,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 53.92,
-     "v": 44411102
-    },
     {
      "d": "2026-07-13",
      "c": 53.17,
@@ -7206,6 +7281,16 @@
      "d": "2026-11-06",
      "c": 38.8,
      "v": 75374528
+    },
+    {
+     "d": "2026-11-08",
+     "c": 39,
+     "v": 19713268
+    },
+    {
+     "d": "2026-11-09",
+     "c": 38.91,
+     "v": 56740780
     }
    ]
   },
@@ -7216,11 +7301,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-10",
-     "c": 3336.1,
-     "v": 1530965
-    },
     {
      "d": "2026-07-13",
      "c": 3319.5,
@@ -7630,11 +7710,223 @@
      "d": "2026-11-06",
      "c": 3233,
      "v": 366669
+    },
+    {
+     "d": "2026-11-08",
+     "c": 3263,
+     "v": 75530
+    },
+    {
+     "d": "2026-11-09",
+     "c": 3300,
+     "v": 436553
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "d12fd1c37882",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Board Meeting Intimation for Approval Of The Unaudited Financial Results Q2 2026-27.",
+   "summary": "Board meeting on November 14, 2026 to consider Q2 and half-year FY2026 financial results.",
+   "date": "2026-11-09T18:56:43+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e1de0f76-bc9a-4648-b56b-ee58e4ffcb36.pdf",
+   "category": "results",
+   "score": 50,
+   "tier": "notable",
+   "reason": "Quarterly results filed · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "bfcfbe3c0063",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Asian Paints to meet Morgan Stanley and BlackRock in Singapore on 18-19 November 2026.",
+   "date": "2026-11-09T18:04:50+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a988798-8c55-42be-a6ce-6cb97abd6d5c.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "e580f7c3ff68",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper Advertisement - Disclosure under Regulation 30 of SEBI Listing Regulations",
+   "date": "2026-11-09T14:10:30+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a49dd503-8f9b-4631-a016-8eeaf6578790.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "80675e248a00",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Disclosure Under Regulation 30 Read With Para A Of Schedule III And Regulation 46(2) Of The SEBI (LODR) Regulations, 2015",
+   "summary": "ICICI Bank disclosed investor meets from November 16-19, 2026, including CLSA, Investec, JM Financial, and Morgan Stanley events.",
+   "date": "2026-11-09T13:32:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5d528b54-cd3f-477f-9539-fff4ab659b43.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "3c07236b6e0c",
+   "symbol": "TRENT",
+   "company": "Trent",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Trent announces analyst and institutional investor meetings from 17-26 November 2026.",
+   "date": "2026-11-09T13:01:18+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca602f2-cf50-4964-8641-a88186d2b914.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "c5ba3c8c7175",
+   "symbol": "LT",
+   "company": "Larsen & Toubro",
+   "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
+   "summary": "L&T wins Noida Metro order for 15.1 km viaduct, 10 stations, to complete in 36 months.",
+   "date": "2026-11-09T10:35:44+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8269aea9-54c0-4a24-a615-6dda0ab8f054.pdf",
+   "category": "press_release",
+   "score": 35,
+   "tier": "notable",
+   "reason": "Company news",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "7935d5d52e75",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Acquisition",
+   "summary": "ACX completed 100% acquisition of Vizag Mega Data Center Park Limited on November 8, 2026.",
+   "date": "2026-11-08T17:27:08+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5143cb57-7f56-4ad6-8714-61aa677d1cb2.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Intimation For Signing Share Purchase Agreement Between Adaniconnex Private Limited, A Joint Venture Of The Company With Adani Infra (India) Limited",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9954341c-4e68-4989-9da6-b07df9cad13c.pdf"
+    }
+   ]
+  },
+  {
+   "id": "a58708d38139",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Tata Steel released 2QFY27 earnings discussion recording on November 7, 2026.",
+   "date": "2026-11-07T16:53:51+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91ad2b2d-8248-4140-aefc-c17da68fc452.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "34a7f04e84a7",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Acquisition",
+   "summary": "Tata Steel increased CPDPL stake to 57.5% by converting 25,10,830 OCRPS into 38,222 shares on Nov 7, 2026.",
+   "date": "2026-11-07T15:44:55+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2630fae6-20d8-4b7f-86fe-81c5b1a22a94.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "3b2557f02ac3",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+   "summary": "Transcript of the post results earnings call held on November 4, 2026.",
+   "date": "2026-11-07T15:23:30+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0673a358-a878-4882-ae44-84cb3358631b.pdf",
+   "category": "earnings_call",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Earnings-call logistics",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "1ce7d68fa0e6",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Outcome Of Board Meeting",
+   "summary": "Tata Steel approved Q2/H1 FY27 results; Noel Tata retires November 11, 2026; auditors issued qualified opinion.",
+   "date": "2026-11-07T13:38:30+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c12dc530-62e0-44b2-863c-bd10307275ee.pdf",
+   "category": "results",
+   "score": 85,
+   "tier": "critical",
+   "reason": "Results approved at board meeting",
+   "classifiedBy": "rules",
+   "enrichment": {
+    "kind": "results",
+    "quarter": "Sep 2026",
+    "basis": "consolidated",
+    "unit": "₹ Cr",
+    "revenue": {
+     "current": 65436,
+     "prevQ": 60794,
+     "yearAgoQ": 58689
+    },
+    "ebitda": {
+     "current": 10533,
+     "prevQ": 9264,
+     "yearAgoQ": 8897
+    },
+    "pbt": {
+     "current": 5455,
+     "prevQ": 3838,
+     "yearAgoQ": 4222
+    },
+    "pat": {
+     "current": 3700,
+     "prevQ": 2385,
+     "yearAgoQ": 3183
+    },
+    "isBank": false,
+    "source": "screener"
+   }
+  },
+  {
+   "id": "6a3795f3debd",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Retirement",
+   "summary": "Tata Steel approved H1 FY27 results; Noel Tata retires as Vice Chairman on November 11, 2026.",
+   "date": "2026-11-07T13:35:49+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22765a70-fd05-4bea-85bb-001eca66c2c1.pdf",
+   "category": "management_change",
+   "score": 85,
+   "tier": "critical",
+   "reason": "Change at the top · CXO-level",
+   "classifiedBy": "rules"
+  },
   {
    "id": "7c7c77d0f97b",
    "symbol": "HDFCBANK",
@@ -7689,13 +7981,7 @@
    "score": 30,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b0dcbf-daf6-45a0-9d2d-46ecd65ef243.pdf"
-    }
-   ]
+   "reason": "Rules unsure; model offline — unranked"
   },
   {
    "id": "e115e4f6951a",
@@ -7737,13 +8023,7 @@
    "score": 25,
    "tier": "routine",
    "reason": "Legal / regulatory action · immaterial: ₹1.6 lakh vs ₹13,11,948 Cr market cap",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d087a4f-5077-43f5-a2d8-af2847be1303.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "830ca3102f72",
@@ -7757,20 +8037,6 @@
    "score": 5,
    "tier": "routine",
    "reason": "Routine compliance paperwork",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "7428aeb20b68",
-   "symbol": "ADANIENT",
-   "company": "Adani Enterprises",
-   "title": "Intimation For Signing Share Purchase Agreement Between Adaniconnex Private Limited, A Joint Venture Of The Company With Adani Infra (India) Limited",
-   "summary": "AdaniConneX signs SPA to acquire 100% of Vizag Mega Data Center Park for ₹1,085.5 crore, by November 10, 2026.",
-   "date": "2026-11-06T12:13:27+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9954341c-4e68-4989-9da6-b07df9cad13c.pdf",
-   "category": "mna",
-   "score": 75,
-   "tier": "critical",
-   "reason": "M&A / corporate restructuring",
    "classifiedBy": "rules"
   },
   {
@@ -8107,13 +8373,7 @@
    "score": 90,
    "tier": "critical",
    "reason": "M&A / corporate restructuring · ₹32,621 Cr ≈ 14.8% of market cap",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "'Effective Date' Of The Scheme Of Amalgamation Amongst Tata Steel Limited And Rujuvalika Investments Limited, Wholly Owned Subsidiary, And Their Respective Shareholders",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=47583353-38c5-4bf3-8479-d38183666686.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "c3f09d5e320e",
@@ -8833,12 +9093,6 @@
    "tier": "critical",
    "reason": "Change at the top · CXO-level",
    "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b891b5ce-4d60-44f6-a01f-1bd507d5de0f.pdf"
-    }
-   ],
    "enrichment": {
     "kind": "management",
     "changes": [
@@ -9385,9 +9639,9 @@
    "date": "2026-10-16T18:43:15+05:30",
    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=00371f43-ea25-429c-8b37-35b174e7d4d8.pdf",
    "category": "results",
-   "score": 50,
-   "tier": "notable",
-   "reason": "Quarterly results filed · only a notice of a future event",
+   "score": 10,
+   "tier": "routine",
+   "reason": "Superseded — the results it announced are already out",
    "classifiedBy": "rules"
   },
   {
@@ -9502,8 +9756,8 @@
   }
  ],
  "stats": {
-  "total": 20,
-  "byRules": 18,
-  "byLlm": 2
+  "total": 21,
+  "byRules": 20,
+  "byLlm": 1
  }
 }
