@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T20:27:49.914Z",
+ "generatedAt": "2026-11-11T20:11:24.480Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1293,
-     "v": 13860594
-    },
     {
      "d": "2026-07-15",
      "c": 1295.5,
@@ -422,6 +417,11 @@
      "d": "2026-11-09",
      "c": 1324.4,
      "v": 20871753
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1335.4,
+     "v": 20745161
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 809.4,
-     "v": 26524804
-    },
     {
      "d": "2026-07-15",
      "c": 815.45,
@@ -846,6 +841,11 @@
      "d": "2026-11-09",
      "c": 798.15,
      "v": 68786256
+    },
+    {
+     "d": "2026-11-11",
+     "c": 806.6,
+     "v": 58352406
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1407.7,
-     "v": 14358497
-    },
     {
      "d": "2026-07-15",
      "c": 1416.2,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-09",
      "c": 1589,
      "v": 29933977
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1571.6,
+     "v": 29698826
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1936.5,
-     "v": 7082665
-    },
     {
      "d": "2026-07-15",
      "c": 1918.3,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-09",
      "c": 2072.1,
      "v": 6258819
+    },
+    {
+     "d": "2026-11-11",
+     "c": 2109,
+     "v": 9363476
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1092.9,
-     "v": 15321014
-    },
     {
      "d": "2026-07-15",
      "c": 1076.3,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-09",
      "c": 1154.1,
      "v": 10542164
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1155,
+     "v": 9635069
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 3848.7,
-     "v": 2488491
-    },
     {
      "d": "2026-07-15",
      "c": 3783.9,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-09",
      "c": 4185,
      "v": 3447325
+    },
+    {
+     "d": "2026-11-11",
+     "c": 4212,
+     "v": 3325509
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 275.55,
-     "v": 16179086
-    },
     {
      "d": "2026-07-15",
      "c": 276.65,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-09",
      "c": 278.8,
      "v": 19276402
+    },
+    {
+     "d": "2026-11-11",
+     "c": 285,
+     "v": 24406304
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1942.6,
-     "v": 3165762
-    },
     {
      "d": "2026-07-15",
      "c": 1951.5,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-09",
      "c": 1904.5,
      "v": 3238368
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1902.3,
+     "v": 2340352
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 2641,
-     "v": 1017455
-    },
     {
      "d": "2026-07-15",
      "c": 2670,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-09",
      "c": 2509.3,
      "v": 1021112
+    },
+    {
+     "d": "2026-11-11",
+     "c": 2550.3,
+     "v": 1296669
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 188.27,
-     "v": 25844323
-    },
     {
      "d": "2026-07-15",
      "c": 185.26,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-09",
      "c": 184.85,
      "v": 52320720
+    },
+    {
+     "d": "2026-11-11",
+     "c": 189.28,
+     "v": 36432324
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 3188.9,
-     "v": 2031550
-    },
     {
      "d": "2026-07-15",
      "c": 3150.6,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-09",
      "c": 2706.3,
      "v": 910784
+    },
+    {
+     "d": "2026-11-11",
+     "c": 2714.5,
+     "v": 1490422
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 2869.1,
-     "v": 850279
-    },
     {
      "d": "2026-07-15",
      "c": 2867.7,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-09",
      "c": 3119.2,
      "v": 992309
+    },
+    {
+     "d": "2026-11-11",
+     "c": 3222.7,
+     "v": 1778174
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1555.4,
-     "v": 1060182
-    },
     {
      "d": "2026-07-15",
      "c": 1568.8,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-09",
      "c": 1587.5,
      "v": 730530
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1574.4,
+     "v": 1274846
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 1133.6,
-     "v": 1157003
-    },
     {
      "d": "2026-07-15",
      "c": 1156.9,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-09",
      "c": 1215.9,
      "v": 2593559
+    },
+    {
+     "d": "2026-11-11",
+     "c": 1199.5,
+     "v": 2341808
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 9532.5,
-     "v": 526698
-    },
     {
      "d": "2026-07-15",
      "c": 9324.5,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-09",
      "c": 7832.5,
      "v": 244261
+    },
+    {
+     "d": "2026-11-11",
+     "c": 7948,
+     "v": 360893
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 13365,
-     "v": 439891
-    },
     {
      "d": "2026-07-15",
      "c": 13651,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-09",
      "c": 12603,
      "v": 185893
+    },
+    {
+     "d": "2026-11-11",
+     "c": 12896,
+     "v": 380050
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 52.47,
-     "v": 42776842
-    },
     {
      "d": "2026-07-15",
      "c": 52.42,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-09",
      "c": 38.91,
      "v": 56740780
+    },
+    {
+     "d": "2026-11-11",
+     "c": 38.88,
+     "v": 66206642
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-14",
-     "c": 3288.4,
-     "v": 554214
-    },
     {
      "d": "2026-07-15",
      "c": 3337.2,
@@ -7630,11 +7625,106 @@
      "d": "2026-11-09",
      "c": 3300,
      "v": 436553
+    },
+    {
+     "d": "2026-11-11",
+     "c": 3382,
+     "v": 586221
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "baa6f004da59",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Acquisition",
+   "summary": "Adani Global incorporated UAE subsidiary Adani Rovuma Chemicals Limited on November 10, 2026.",
+   "date": "2026-11-11T20:10:41+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e24c2af-e52a-46cc-be4e-f7619e85d39e.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "828c71cbd587",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Adani Enterprises will hold an in-person investor and analyst interaction on November 15, 2026, in Navi Mumbai.",
+   "date": "2026-11-11T19:25:39+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=54be82b6-a8dd-4f84-90ca-d9f49d908682.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "0963c99b5d8e",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 ('SEBI Listing Regulations') - Schedule of analysts/ institutional investors' meet",
+   "date": "2026-11-11T18:34:15+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ae574f7a-4573-459b-9090-59d84bf2d02a.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "94a2e5dfa329",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Earnings Call for the Quarter ended 30 September 2026",
+   "date": "2026-11-11T18:18:27+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95b458e9-e1de-4f1e-a3ba-5f9cbb79a013.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "d0223c423e79",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Kutch Copper becomes first Indian producer to receive Copper Mark certification on 11 November 2026.",
+   "date": "2026-11-11T16:47:36+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca6e387-cd83-41de-9cab-c1b5275b2097.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7a28988-798f-4cd7-8d1a-5e8e06bb5a54.pdf"
+    }
+   ]
+  },
+  {
+   "id": "47d87bccc665",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Statement Of Deviation And Variation For The Quarter Ended 30 September 2026",
+   "summary": "No deviation in QIP fund utilisation for quarter ended September 30, 2026.",
+   "date": "2026-11-11T16:33:54+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=906c4d52-e40d-45b8-80b2-5b3a7f64350a.pdf",
+   "category": "fund_raise",
+   "score": 55,
+   "tier": "notable",
+   "reason": "Capital raise / return",
+   "classifiedBy": "rules"
+  },
   {
    "id": "d12fd1c37882",
    "symbol": "KAYNES",
@@ -7731,13 +7821,7 @@
    "score": 75,
    "tier": "critical",
    "reason": "M&A / corporate restructuring",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Intimation For Signing Share Purchase Agreement Between Adaniconnex Private Limited, A Joint Venture Of The Company With Adani Infra (India) Limited",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9954341c-4e68-4989-9da6-b07df9cad13c.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "a58708d38139",
@@ -9666,8 +9750,8 @@
   }
  ],
  "stats": {
-  "total": 10,
-  "byRules": 9,
-  "byLlm": 1
+  "total": 14,
+  "byRules": 11,
+  "byLlm": 3
  }
 }
