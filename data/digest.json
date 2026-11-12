@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T20:11:24.480Z",
+ "generatedAt": "2026-11-12T20:48:20.445Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1295.5,
-     "v": 9845092
-    },
     {
      "d": "2026-07-16",
      "c": 1296.6,
@@ -422,6 +417,11 @@
      "d": "2026-11-11",
      "c": 1335.4,
      "v": 20745161
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1339.7,
+     "v": 17540502
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 815.45,
-     "v": 21933348
-    },
     {
      "d": "2026-07-16",
      "c": 808.3,
@@ -846,6 +841,11 @@
      "d": "2026-11-11",
      "c": 806.6,
      "v": 58352406
+    },
+    {
+     "d": "2026-11-12",
+     "c": 812.3,
+     "v": 41114637
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1416.2,
-     "v": 13609494
-    },
     {
      "d": "2026-07-16",
      "c": 1418.2,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-11",
      "c": 1571.6,
      "v": 29698826
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1590,
+     "v": 18766702
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1918.3,
-     "v": 5983745
-    },
     {
      "d": "2026-07-16",
      "c": 1921.8,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-11",
      "c": 2109,
      "v": 9363476
+    },
+    {
+     "d": "2026-11-12",
+     "c": 2096,
+     "v": 8163201
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1076.3,
-     "v": 8861282
-    },
     {
      "d": "2026-07-16",
      "c": 1082.4,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-11",
      "c": 1155,
      "v": 9635069
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1151.2,
+     "v": 8183855
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 3783.9,
-     "v": 3789020
-    },
     {
      "d": "2026-07-16",
      "c": 3775.6,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-11",
      "c": 4212,
      "v": 3325509
+    },
+    {
+     "d": "2026-11-12",
+     "c": 4159.2,
+     "v": 2634640
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 276.65,
-     "v": 9051841
-    },
     {
      "d": "2026-07-16",
      "c": 279.35,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-11",
      "c": 285,
      "v": 24406304
+    },
+    {
+     "d": "2026-11-12",
+     "c": 284.05,
+     "v": 19643577
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1951.5,
-     "v": 2405030
-    },
     {
      "d": "2026-07-16",
      "c": 1950.1,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-11",
      "c": 1902.3,
      "v": 2340352
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1885,
+     "v": 2569957
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 2670,
-     "v": 837143
-    },
     {
      "d": "2026-07-16",
      "c": 2674.7,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-11",
      "c": 2550.3,
      "v": 1296669
+    },
+    {
+     "d": "2026-11-12",
+     "c": 2536.5,
+     "v": 843267
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 185.26,
-     "v": 26260133
-    },
     {
      "d": "2026-07-16",
      "c": 185.49,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-11",
      "c": 189.28,
      "v": 36432324
+    },
+    {
+     "d": "2026-11-12",
+     "c": 188,
+     "v": 22378036
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 3150.6,
-     "v": 1082307
-    },
     {
      "d": "2026-07-16",
      "c": 3151.4,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-11",
      "c": 2714.5,
      "v": 1490422
+    },
+    {
+     "d": "2026-11-12",
+     "c": 2741.5,
+     "v": 1052546
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 2867.7,
-     "v": 1062268
-    },
     {
      "d": "2026-07-16",
      "c": 2860.2,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-11",
      "c": 3222.7,
      "v": 1778174
+    },
+    {
+     "d": "2026-11-12",
+     "c": 3180,
+     "v": 650889
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1568.8,
-     "v": 1122845
-    },
     {
      "d": "2026-07-16",
      "c": 1559.6,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-11",
      "c": 1574.4,
      "v": 1274846
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1579.7,
+     "v": 376726
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 1156.9,
-     "v": 2231127
-    },
     {
      "d": "2026-07-16",
      "c": 1153.9,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-11",
      "c": 1199.5,
      "v": 2341808
+    },
+    {
+     "d": "2026-11-12",
+     "c": 1206,
+     "v": 2034052
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 9324.5,
-     "v": 431164
-    },
     {
      "d": "2026-07-16",
      "c": 9215,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-11",
      "c": 7948,
      "v": 360893
+    },
+    {
+     "d": "2026-11-12",
+     "c": 8080.5,
+     "v": 580289
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 13651,
-     "v": 504975
-    },
     {
      "d": "2026-07-16",
      "c": 14507,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-11",
      "c": 12896,
      "v": 380050
+    },
+    {
+     "d": "2026-11-12",
+     "c": 12992,
+     "v": 317247
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 52.42,
-     "v": 49131820
-    },
     {
      "d": "2026-07-16",
      "c": 51.97,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-11",
      "c": 38.88,
      "v": 66206642
+    },
+    {
+     "d": "2026-11-12",
+     "c": 38.86,
+     "v": 44261642
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-15",
-     "c": 3337.2,
-     "v": 528039
-    },
     {
      "d": "2026-07-16",
      "c": 3438.8,
@@ -7630,11 +7625,194 @@
      "d": "2026-11-11",
      "c": 3382,
      "v": 586221
+    },
+    {
+     "d": "2026-11-12",
+     "c": 3484,
+     "v": 755894
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "47a6b720a7e1",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+   "summary": "Transcript of ''Tata Steel 2QFY27 Earnings Discussion''",
+   "date": "2026-11-12T22:09:38+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eeedbcb3-2b63-4718-b5b7-b498eedf2b4e.pdf",
+   "category": "earnings_call",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Earnings-call logistics",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "a008460e2962",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "The Company executives will be participating in the Institutional Investors'' Meeting - JM Financial India Conference, scheduled to be held on November 17, 2026 at …",
+   "date": "2026-11-12T20:22:14+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f9d4f5-8638-4669-abdb-7cc4127221fc.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "3d1109340ed5",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Execution Of Binding Term Sheet",
+   "summary": "Kaynes signed term sheet with Vishay for KSPL JV; Vishay to hold 49% stake in India OSAT business.",
+   "date": "2026-11-12T19:25:02+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be77083a-3e44-4715-8501-b571f441c9c9.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "8711bc9d4309",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Disclosure Under Regulation 30 Read With Para A Of Schedule III And Regulation 46(2) Of The SEBI (LODR) Regulations, 2015",
+   "summary": "ICICI Bank to hold debt market investor meetings on November 17, 2026.",
+   "date": "2026-11-12T18:04:39+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc247b09-13fa-455a-90ab-e43e40f21412.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "591e3438e48c",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+   "summary": "Transcript of the Earnings Call dated November 6, 2026.",
+   "date": "2026-11-12T17:37:34+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ff3e14f-7e97-4074-89c7-049408721c5e.pdf",
+   "category": "earnings_call",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Earnings-call logistics",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "504a85149523",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015",
+   "summary": "RBI approved reappointment of V. Srinivasa Rangan as Executive Director for one year from November 23, 2026.",
+   "date": "2026-11-12T17:27:27+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6df1f05c-9926-47ce-9896-94c41bdb71ab.pdf",
+   "category": "management_change",
+   "score": 60,
+   "tier": "notable",
+   "reason": "Change at the top",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "df71fab5587c",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Intimation of Schedule of Analyst/ Institutional Investor Meeting under the SEBI Listing Regulations",
+   "date": "2026-11-12T16:48:53+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fcd5e6ba-794e-420b-ae7a-17a4c8df68e3.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "b846e541a51e",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
+   "summary": "Monitoring agency reports for QIPs ended September 30, 2026; no material deviation in proceeds usage.",
+   "date": "2026-11-12T14:51:36+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2dcdf3d9-6aee-4b8b-b407-60aaacd54e59.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "3358c9941a99",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Intimation of Schedule of Analyst/Institutional Investor Meetings under Regulation 30 of the SEBI (LODR) Regulations, 2015",
+   "date": "2026-11-12T14:21:58+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d01ef203-cd61-4f19-b88b-7a373979e5b5.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "32f9ac79ada1",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Six Promising Researchers Win The Infosys Prize 2026 Awarded By The Infosys Science Foundation",
+   "summary": "Infosys Science Foundation announces six winners of Infosys Prize 2026 on November 12, 2026.",
+   "date": "2026-11-12T11:21:41+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2d26cac8-d5b5-4be4-ba93-d18f80ee8c0c.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "93bf0ec4faca",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Kutch Copper and Codelco sign MoU on November 12, 2026 for Kaburkaala exploration in Chile.",
+   "date": "2026-11-12T08:23:04+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d62afe8-856c-411f-a57a-ab1b36b1e304.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca6e387-cd83-41de-9cab-c1b5275b2097.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7a28988-798f-4cd7-8d1a-5e8e06bb5a54.pdf"
+    }
+   ]
+  },
+  {
+   "id": "52595ec2488c",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Updates on Joint Venture",
+   "summary": "Zydus completed subscription and 50:50 joint venture in Zydus Sunshine on November 11, 2026.",
+   "date": "2026-11-12T07:04:04+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c89c6c38-2849-42f5-a10d-0e1611c15a29.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
   {
    "id": "baa6f004da59",
    "symbol": "ADANIENT",
@@ -7690,26 +7868,6 @@
    "tier": "routine",
    "reason": "Investor meeting / deck · only a notice of a future event",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "d0223c423e79",
-   "symbol": "ADANIENT",
-   "company": "Adani Enterprises",
-   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-   "summary": "Kutch Copper becomes first Indian producer to receive Copper Mark certification on 11 November 2026.",
-   "date": "2026-11-11T16:47:36+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca6e387-cd83-41de-9cab-c1b5275b2097.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7a28988-798f-4cd7-8d1a-5e8e06bb5a54.pdf"
-    }
-   ]
   },
   {
    "id": "47d87bccc665",
@@ -8213,13 +8371,7 @@
    "score": 15,
    "tier": "routine",
    "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=46eee481-29e8-4982-a638-ceade125eccc.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "d7f38494c596",
@@ -8704,13 +8856,7 @@
    "score": 15,
    "tier": "routine",
    "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0dc8ebe7-5e2d-4946-85ee-1e536c461a71.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "5f2848d6a43b",
@@ -9750,8 +9896,8 @@
   }
  ],
  "stats": {
-  "total": 14,
-  "byRules": 11,
-  "byLlm": 3
+  "total": 18,
+  "byRules": 14,
+  "byLlm": 4
  }
 }
