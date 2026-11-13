@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T20:48:20.445Z",
+ "generatedAt": "2026-11-13T20:29:01.297Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1296.6,
-     "v": 17657012
-    },
     {
      "d": "2026-07-17",
      "c": 1327.2,
@@ -422,6 +417,11 @@
      "d": "2026-11-12",
      "c": 1339.7,
      "v": 17540502
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1339.7,
+     "v": 15309782
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 808.3,
-     "v": 19927318
-    },
     {
      "d": "2026-07-17",
      "c": 819.6,
@@ -846,6 +841,11 @@
      "d": "2026-11-12",
      "c": 812.3,
      "v": 41114637
+    },
+    {
+     "d": "2026-11-13",
+     "c": 804,
+     "v": 24185221
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1418.2,
-     "v": 12393001
-    },
     {
      "d": "2026-07-17",
      "c": 1444.3,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-12",
      "c": 1590,
      "v": 18766702
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1583.6,
+     "v": 11560555
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1921.8,
-     "v": 5179722
-    },
     {
      "d": "2026-07-17",
      "c": 1908.8,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-12",
      "c": 2096,
      "v": 8163201
+    },
+    {
+     "d": "2026-11-13",
+     "c": 2106,
+     "v": 6773180
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1082.4,
-     "v": 9510718
-    },
     {
      "d": "2026-07-17",
      "c": 1096.5,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-12",
      "c": 1151.2,
      "v": 8183855
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1141.5,
+     "v": 6157396
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 3775.6,
-     "v": 3890812
-    },
     {
      "d": "2026-07-17",
      "c": 3814.5,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-12",
      "c": 4159.2,
      "v": 2634640
+    },
+    {
+     "d": "2026-11-13",
+     "c": 4143.8,
+     "v": 1918346
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 279.35,
-     "v": 12155600
-    },
     {
      "d": "2026-07-17",
      "c": 280.7,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-12",
      "c": 284.05,
      "v": 19643577
+    },
+    {
+     "d": "2026-11-13",
+     "c": 285,
+     "v": 9032987
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1950.1,
-     "v": 1520080
-    },
     {
      "d": "2026-07-17",
      "c": 1932.6,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-12",
      "c": 1885,
      "v": 2569957
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1880,
+     "v": 2103807
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 2674.7,
-     "v": 508459
-    },
     {
      "d": "2026-07-17",
      "c": 2689,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-12",
      "c": 2536.5,
      "v": 843267
+    },
+    {
+     "d": "2026-11-13",
+     "c": 2550,
+     "v": 638338
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 185.49,
-     "v": 16762992
-    },
     {
      "d": "2026-07-17",
      "c": 185.89,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-12",
      "c": 188,
      "v": 22378036
+    },
+    {
+     "d": "2026-11-13",
+     "c": 186.68,
+     "v": 13662286
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 3151.4,
-     "v": 1190332
-    },
     {
      "d": "2026-07-17",
      "c": 3160.7,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-12",
      "c": 2741.5,
      "v": 1052546
+    },
+    {
+     "d": "2026-11-13",
+     "c": 2688,
+     "v": 972291
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 2860.2,
-     "v": 1044411
-    },
     {
      "d": "2026-07-17",
      "c": 2842.4,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-12",
      "c": 3180,
      "v": 650889
+    },
+    {
+     "d": "2026-11-13",
+     "c": 3165.2,
+     "v": 612541
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1559.6,
-     "v": 721234
-    },
     {
      "d": "2026-07-17",
      "c": 1566.1,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-12",
      "c": 1579.7,
      "v": 376726
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1525.7,
+     "v": 794133
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 1153.9,
-     "v": 1011981
-    },
     {
      "d": "2026-07-17",
      "c": 1143.7,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-12",
      "c": 1206,
      "v": 2034052
+    },
+    {
+     "d": "2026-11-13",
+     "c": 1189.9,
+     "v": 834155
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 9215,
-     "v": 852282
-    },
     {
      "d": "2026-07-17",
      "c": 8862,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-12",
      "c": 8080.5,
      "v": 580289
+    },
+    {
+     "d": "2026-11-13",
+     "c": 7904,
+     "v": 444768
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 14507,
-     "v": 2527603
-    },
     {
      "d": "2026-07-17",
      "c": 14329,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-12",
      "c": 12992,
      "v": 317247
+    },
+    {
+     "d": "2026-11-13",
+     "c": 12798,
+     "v": 214226
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 51.97,
-     "v": 50325783
-    },
     {
      "d": "2026-07-17",
      "c": 51.99,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-12",
      "c": 38.86,
      "v": 44261642
+    },
+    {
+     "d": "2026-11-13",
+     "c": 38.25,
+     "v": 52519662
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-16",
-     "c": 3438.8,
-     "v": 1986977
-    },
     {
      "d": "2026-07-17",
      "c": 3385.8,
@@ -7630,11 +7625,84 @@
      "d": "2026-11-12",
      "c": 3484,
      "v": 755894
+    },
+    {
+     "d": "2026-11-13",
+     "c": 3430,
+     "v": 575532
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "7f6fffe5ad77",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "The Company executives will be participating in the Institutional Investors'' Meeting - Morgan Stanley 25th Annual Asia-Pacific Summit, scheduled to be held on November ....",
+   "date": "2026-11-13T18:23:17+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3f614a9e-94b0-42ef-8145-ba0055ba7be5.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f9d4f5-8638-4669-abdb-7cc4127221fc.pdf"
+    }
+   ]
+  },
+  {
+   "id": "e43afb90e93e",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
+   "summary": "HDFC Bank reappointed V. Srinivasa Rangan as Executive Director for one year from November 23, 2026.",
+   "date": "2026-11-13T16:30:11+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b9eb8a8-fa88-453b-810f-b55034589aac.pdf",
+   "category": "management_change",
+   "score": 60,
+   "tier": "notable",
+   "reason": "Change at the top",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6df1f05c-9926-47ce-9896-94c41bdb71ab.pdf"
+    }
+   ]
+  },
+  {
+   "id": "2486284067e3",
+   "symbol": "ITC",
+   "company": "ITC",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "Allotment of Shares under the Company''s Employee Stock Option Schemes",
+   "date": "2026-11-13T15:16:15+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=549cc510-62f9-4022-b62b-58e3e72ad671.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "f4730124e6dd",
+   "symbol": "TRENT",
+   "company": "Trent",
+   "title": "Reminder Letter To Shareholders To Dematerialise The Shares",
+   "summary": "Trent issued a 13 Nov 2026 reminder to shareholders to dematerialise physical shares.",
+   "date": "2026-11-13T11:25:01+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce3cb1dd-0d97-4fd3-8c15-78b958145ad4.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
   {
    "id": "47a6b720a7e1",
    "symbol": "TATASTEEL",
@@ -7647,20 +7715,6 @@
    "score": 20,
    "tier": "routine",
    "reason": "Earnings-call logistics",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "a008460e2962",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-   "summary": "The Company executives will be participating in the Institutional Investors'' Meeting - JM Financial India Conference, scheduled to be held on November 17, 2026 at …",
-   "date": "2026-11-12T20:22:14+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f9d4f5-8638-4669-abdb-7cc4127221fc.pdf",
-   "category": "investor_meetings",
-   "score": 0,
-   "tier": "routine",
-   "reason": "Investor meeting / deck · only a notice of a future event",
    "classifiedBy": "rules"
   },
   {
@@ -7703,20 +7757,6 @@
    "score": 20,
    "tier": "routine",
    "reason": "Earnings-call logistics",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "504a85149523",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank",
-   "title": "Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015",
-   "summary": "RBI approved reappointment of V. Srinivasa Rangan as Executive Director for one year from November 23, 2026.",
-   "date": "2026-11-12T17:27:27+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6df1f05c-9926-47ce-9896-94c41bdb71ab.pdf",
-   "category": "management_change",
-   "score": 60,
-   "tier": "notable",
-   "reason": "Change at the top",
    "classifiedBy": "rules"
   },
   {
@@ -8612,10 +8652,6 @@
     {
      "title": "Unaudited Financial Results Of The Company For The Quarter And Six Months Ended 30Th September, 2026",
      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ad82347-ac2d-4385-ae80-3cd07c428f69.pdf"
-    },
-    {
-     "title": "Board Meeting Outcome for Unaudited Financial Results Of The Company For The Quarter And Six Months Ended 30Th September, 2026",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9251c692-ccfd-44b9-8720-4a5a42e808ba.pdf"
     }
    ],
    "enrichment": {
@@ -9896,8 +9932,8 @@
   }
  ],
  "stats": {
-  "total": 18,
-  "byRules": 14,
+  "total": 10,
+  "byRules": 6,
   "byLlm": 4
  }
 }
