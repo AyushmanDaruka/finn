@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T22:52:40.974Z",
+ "generatedAt": "2026-11-17T21:45:57.894Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,16 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-17",
-     "c": 1327.2,
-     "v": 19151103
-    },
-    {
-     "d": "2026-07-20",
-     "c": 1323.1,
-     "v": 15424883
-    },
     {
      "d": "2026-07-21",
      "c": 1303.7,
@@ -422,6 +412,16 @@
      "d": "2026-11-13",
      "c": 1339.7,
      "v": 15309782
+    },
+    {
+     "d": "2026-11-16",
+     "c": 1344.8,
+     "v": 8041608
+    },
+    {
+     "d": "2026-11-17",
+     "c": 1367,
+     "v": 16656968
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 777.6,
-     "v": 59258487
-    },
     {
      "d": "2026-07-21",
      "c": 761.45,
@@ -846,6 +841,11 @@
      "d": "2026-11-16",
      "c": 816.5,
      "v": 28671545
+    },
+    {
+     "d": "2026-11-17",
+     "c": 814.95,
+     "v": 35638859
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 1460.2,
-     "v": 23036130
-    },
     {
      "d": "2026-07-21",
      "c": 1463.1,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-16",
      "c": 1585,
      "v": 10681730
+    },
+    {
+     "d": "2026-11-17",
+     "c": 1598.7,
+     "v": 15538189
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 1940.1,
-     "v": 6602111
-    },
     {
      "d": "2026-07-21",
      "c": 1948.4,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-16",
      "c": 2153.5,
      "v": 9831505
+    },
+    {
+     "d": "2026-11-17",
+     "c": 2138.3,
+     "v": 7092232
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 1087.1,
-     "v": 6685595
-    },
     {
      "d": "2026-07-21",
      "c": 1073.5,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-16",
      "c": 1145.1,
      "v": 5100188
+    },
+    {
+     "d": "2026-11-17",
+     "c": 1130,
+     "v": 7447530
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 3838.8,
-     "v": 1703778
-    },
     {
      "d": "2026-07-21",
      "c": 3846.6,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-16",
      "c": 4140,
      "v": 1161669
+    },
+    {
+     "d": "2026-11-17",
+     "c": 4155.5,
+     "v": 1995427
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 282.7,
-     "v": 10439810
-    },
     {
      "d": "2026-07-21",
      "c": 281,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-16",
      "c": 295.1,
      "v": 51135086
+    },
+    {
+     "d": "2026-11-17",
+     "c": 293.3,
+     "v": 16688704
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 1956.4,
-     "v": 1732442
-    },
     {
      "d": "2026-07-21",
      "c": 1961.9,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-16",
      "c": 1867.5,
      "v": 1337446
+    },
+    {
+     "d": "2026-11-17",
+     "c": 1870,
+     "v": 1477247
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 2691.4,
-     "v": 597590
-    },
     {
      "d": "2026-07-21",
      "c": 2692.4,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-16",
      "c": 2572.9,
      "v": 1181823
+    },
+    {
+     "d": "2026-11-17",
+     "c": 2625,
+     "v": 1503433
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 186.41,
-     "v": 11851174
-    },
     {
      "d": "2026-07-21",
      "c": 187.24,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-16",
      "c": 182.26,
      "v": 20185809
+    },
+    {
+     "d": "2026-11-17",
+     "c": 181.5,
+     "v": 21607809
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 3183.3,
-     "v": 1021268
-    },
     {
      "d": "2026-07-21",
      "c": 3182.7,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-16",
      "c": 2659,
      "v": 842365
+    },
+    {
+     "d": "2026-11-17",
+     "c": 2745.1,
+     "v": 2085803
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 2925.9,
-     "v": 1615109
-    },
     {
      "d": "2026-07-21",
      "c": 2894.7,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-16",
      "c": 3203.7,
      "v": 467504
+    },
+    {
+     "d": "2026-11-17",
+     "c": 3176.3,
+     "v": 772909
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 1565.8,
-     "v": 860666
-    },
     {
      "d": "2026-07-21",
      "c": 1591.3,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-16",
      "c": 1545.8,
      "v": 1192455
+    },
+    {
+     "d": "2026-11-17",
+     "c": 1534.6,
+     "v": 813580
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 1149,
-     "v": 1031215
-    },
     {
      "d": "2026-07-21",
      "c": 1143.1,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-16",
      "c": 1192,
      "v": 1532056
+    },
+    {
+     "d": "2026-11-17",
+     "c": 1204.2,
+     "v": 636057
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 8885,
-     "v": 280612
-    },
     {
      "d": "2026-07-21",
      "c": 8903.5,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-16",
      "c": 7955.5,
      "v": 277777
+    },
+    {
+     "d": "2026-11-17",
+     "c": 7702,
+     "v": 583810
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 14589,
-     "v": 465236
-    },
     {
      "d": "2026-07-21",
      "c": 14118,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-16",
      "c": 12890,
      "v": 241957
+    },
+    {
+     "d": "2026-11-17",
+     "c": 13081,
+     "v": 395801
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 53.09,
-     "v": 56753263
-    },
     {
      "d": "2026-07-21",
      "c": 53.17,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-16",
      "c": 37.43,
      "v": 51813272
+    },
+    {
+     "d": "2026-11-17",
+     "c": 37.19,
+     "v": 47961193
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-20",
-     "c": 3328.8,
-     "v": 537721
-    },
     {
      "d": "2026-07-21",
      "c": 3272.1,
@@ -7630,11 +7625,106 @@
      "d": "2026-11-16",
      "c": 2980,
      "v": 10734434
+    },
+    {
+     "d": "2026-11-17",
+     "c": 2858,
+     "v": 4490898
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "d203d0e01624",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Update On Institutional Investors'' Meeting - JM Financial India Conference",
+   "summary": "Reliance executives attended JM Financial India Conference in Mumbai on November 17, 2026, with no UPSI shared.",
+   "date": "2026-11-17T18:51:02+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eadec632-3d3c-49bd-8f85-6d26d79a4332.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Update On Institutional Investors'' Meeting - CLSA India Forum",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3e0b430-7329-4925-8c6f-a9a1967bc0f9.pdf"
+    }
+   ]
+  },
+  {
+   "id": "9c270fa37cbd",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+   "summary": "ICRA upgraded Adani Enterprises’ ratings on ₹16,505 crore and ₹4,000 crore facilities on 17 Nov 2026.",
+   "date": "2026-11-17T18:00:36+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7476f9a2-d6bb-4af1-ab1e-988b51c4fc49.pdf",
+   "category": "credit_rating",
+   "score": 50,
+   "tier": "notable",
+   "reason": "Credit rating action · upgrade",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "9ba1320e80dc",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Grant Of Stock Options And Restricted Stock Units Under ESOP/RSU Scheme",
+   "summary": "HDFC Bank granted 1,86,031 stock options and 41,377 RSUs on November 17, 2026.",
+   "date": "2026-11-17T15:47:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f857401-ae59-416d-9fa3-95705fa2e4d0.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "c236f52f49d2",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Infosys Positioned As A Leader In The 2026 Gartner® Magic Quadrant™ For Public Cloud Optimization And Transformation Services For The Fourth Consecutive Year",
+   "summary": "Infosys named a Leader in Gartner 2026 Public Cloud Optimization and Transformation Services MQ for fourth straight year.",
+   "date": "2026-11-17T14:59:01+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4099e736-2977-4a9c-bbca-e04e08c0ab18.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "fd55fb004493",
+   "symbol": "TRENT",
+   "company": "Trent",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Intimation of schedule of Analyst / Institutional Investors Meetings",
+   "date": "2026-11-17T14:06:38+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68f10113-f839-4891-994e-312e5df5ebf0.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "2cf750e8c777",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "Allotment of 14,12,278 equity shares pursuant to the exercise of ESOP/RSU.",
+   "date": "2026-11-17T13:54:37+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c252309-6a76-41db-b704-e8c0e51c8d14.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
   {
    "id": "51676bd66be8",
    "symbol": "DIXON",
@@ -7779,13 +7869,7 @@
    "score": 75,
    "tier": "critical",
    "reason": "M&A / corporate restructuring",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Execution Of Binding Term Sheet",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be77083a-3e44-4715-8501-b571f441c9c9.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "75271149aa38",
@@ -7827,7 +7911,13 @@
    "score": 0,
    "tier": "routine",
    "reason": "Investor meeting / deck · only a notice of a future event",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f9d4f5-8638-4669-abdb-7cc4127221fc.pdf"
+    }
+   ]
   },
   {
    "id": "e43afb90e93e",
@@ -7987,13 +8077,7 @@
    "score": 30,
    "tier": "routine",
    "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca6e387-cd83-41de-9cab-c1b5275b2097.pdf"
-    }
-   ]
+   "reason": "Rules unsure; model offline — unranked"
   },
   {
    "id": "52595ec2488c",
@@ -10054,8 +10138,8 @@
   }
  ],
  "stats": {
-  "total": 18,
-  "byRules": 13,
-  "byLlm": 5
+  "total": 13,
+  "byRules": 11,
+  "byLlm": 2
  }
 }
