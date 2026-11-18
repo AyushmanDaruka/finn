@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T21:45:57.894Z",
+ "generatedAt": "2026-11-18T21:24:29.596Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1303.7,
-     "v": 13329895
-    },
     {
      "d": "2026-07-22",
      "c": 1288.6,
@@ -422,6 +417,11 @@
      "d": "2026-11-17",
      "c": 1367,
      "v": 16656968
+    },
+    {
+     "d": "2026-11-18",
+     "c": 1363,
+     "v": 19501209
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 761.45,
-     "v": 44121022
-    },
     {
      "d": "2026-07-22",
      "c": 753.15,
@@ -846,6 +841,11 @@
      "d": "2026-11-17",
      "c": 814.95,
      "v": 35638859
+    },
+    {
+     "d": "2026-11-18",
+     "c": 808.15,
+     "v": 22235200
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1463.1,
-     "v": 20028025
-    },
     {
      "d": "2026-07-22",
      "c": 1440.7,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-17",
      "c": 1598.7,
      "v": 15538189
+    },
+    {
+     "d": "2026-11-18",
+     "c": 1601.3,
+     "v": 11226104
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1948.4,
-     "v": 5281807
-    },
     {
      "d": "2026-07-22",
      "c": 1949,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-17",
      "c": 2138.3,
      "v": 7092232
+    },
+    {
+     "d": "2026-11-18",
+     "c": 2132,
+     "v": 4114088
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1073.5,
-     "v": 9811808
-    },
     {
      "d": "2026-07-22",
      "c": 1052.1,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-17",
      "c": 1130,
      "v": 7447530
+    },
+    {
+     "d": "2026-11-18",
+     "c": 1108.8,
+     "v": 6262584
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 3846.6,
-     "v": 1461230
-    },
     {
      "d": "2026-07-22",
      "c": 3817.4,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-17",
      "c": 4155.5,
      "v": 1995427
+    },
+    {
+     "d": "2026-11-18",
+     "c": 4159,
+     "v": 1224085
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 281,
-     "v": 10309812
-    },
     {
      "d": "2026-07-22",
      "c": 280.8,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-17",
      "c": 293.3,
      "v": 16688704
+    },
+    {
+     "d": "2026-11-18",
+     "c": 296.6,
+     "v": 20190646
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1961.9,
-     "v": 2028669
-    },
     {
      "d": "2026-07-22",
      "c": 1943,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-17",
      "c": 1870,
      "v": 1477247
+    },
+    {
+     "d": "2026-11-18",
+     "c": 1871.5,
+     "v": 1717543
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 2692.4,
-     "v": 1015325
-    },
     {
      "d": "2026-07-22",
      "c": 2692.8,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-17",
      "c": 2625,
      "v": 1503433
+    },
+    {
+     "d": "2026-11-18",
+     "c": 2580.3,
+     "v": 765101
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 187.24,
-     "v": 22309596
-    },
     {
      "d": "2026-07-22",
      "c": 186.53,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-17",
      "c": 181.5,
      "v": 21607809
+    },
+    {
+     "d": "2026-11-18",
+     "c": 179,
+     "v": 18786252
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 3182.7,
-     "v": 1014169
-    },
     {
      "d": "2026-07-22",
      "c": 3147.7,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-17",
      "c": 2745.1,
      "v": 2085803
+    },
+    {
+     "d": "2026-11-18",
+     "c": 2684.2,
+     "v": 1461716
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 2894.7,
-     "v": 514836
-    },
     {
      "d": "2026-07-22",
      "c": 2887.3,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-17",
      "c": 3176.3,
      "v": 772909
+    },
+    {
+     "d": "2026-11-18",
+     "c": 3190,
+     "v": 1370025
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1591.3,
-     "v": 1992490
-    },
     {
      "d": "2026-07-22",
      "c": 1608.6,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-17",
      "c": 1534.6,
      "v": 813580
+    },
+    {
+     "d": "2026-11-18",
+     "c": 1530.2,
+     "v": 648792
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 1143.1,
-     "v": 712707
-    },
     {
      "d": "2026-07-22",
      "c": 1126.3,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-17",
      "c": 1204.2,
      "v": 636057
+    },
+    {
+     "d": "2026-11-18",
+     "c": 1202,
+     "v": 848433
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 8903.5,
-     "v": 255237
-    },
     {
      "d": "2026-07-22",
      "c": 9090.5,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-17",
      "c": 7702,
      "v": 583810
+    },
+    {
+     "d": "2026-11-18",
+     "c": 7307.5,
+     "v": 958950
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 14118,
-     "v": 566568
-    },
     {
      "d": "2026-07-22",
      "c": 13882,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-17",
      "c": 13081,
      "v": 395801
+    },
+    {
+     "d": "2026-11-18",
+     "c": 12615,
+     "v": 274872
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 53.17,
-     "v": 32685084
-    },
     {
      "d": "2026-07-22",
      "c": 53.01,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-17",
      "c": 37.19,
      "v": 47961193
+    },
+    {
+     "d": "2026-11-18",
+     "c": 36.13,
+     "v": 49816226
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-21",
-     "c": 3272.1,
-     "v": 588731
-    },
     {
      "d": "2026-07-22",
      "c": 3252.4,
@@ -7630,11 +7625,78 @@
      "d": "2026-11-17",
      "c": 2858,
      "v": 4490898
+    },
+    {
+     "d": "2026-11-18",
+     "c": 2882,
+     "v": 2516440
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "3bf67bb07371",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Change In Corporate Office Address Of The Company'S Registrar And Share Transfer Agent",
+   "summary": "Infosys reports KFin Technologies’ corporate office address change effective December 1, 2026.",
+   "date": "2026-11-18T22:11:58+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3935047-69f0-40a6-9b78-b17afcc7b1a3.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Infosys Positioned As A Leader In The 2026 Gartner® Magic Quadrant™ For Public Cloud Optimization And Transformation Services For The Fourth Consecutive Year",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4099e736-2977-4a9c-bbca-e04e08c0ab18.pdf"
+    }
+   ]
+  },
+  {
+   "id": "8fc8b695b13d",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Disclosure Under Regulation 30 Of SEBI LODR Regulations",
+   "summary": "Infosys Singapore to invest JPY 1.59bn for 10.1% stake in NTT Docomo Playspace JV.",
+   "date": "2026-11-18T22:08:01+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8629dba6-9d8f-487c-8f05-cc95e1588d94.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "9831cbf51d5b",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper advertisement in respect of the Second Reminder Notice for payment of First and Final Call on partly paid-up equity shares of Bharti Airtel Limited.",
+   "date": "2026-11-18T15:36:57+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a670cf06-dc92-4bbc-a388-9ec495c70181.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "02f3f3eb0010",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "Allotment of 461,865 equity shares at FV Rs. 2 each under ICICI Bank Employees Stock Option Scheme 2000.",
+   "date": "2026-11-18T10:09:24+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=351c34b7-08d4-4c74-8644-152b2054f464.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
   {
    "id": "d203d0e01624",
    "symbol": "RELIANCE",
@@ -7682,20 +7744,6 @@
    "tier": "routine",
    "reason": "ESOP allotment — routine dilution, tiny",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "c236f52f49d2",
-   "symbol": "INFY",
-   "company": "Infosys",
-   "title": "Infosys Positioned As A Leader In The 2026 Gartner® Magic Quadrant™ For Public Cloud Optimization And Transformation Services For The Fourth Consecutive Year",
-   "summary": "Infosys named a Leader in Gartner 2026 Public Cloud Optimization and Transformation Services MQ for fourth straight year.",
-   "date": "2026-11-17T14:59:01+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4099e736-2977-4a9c-bbca-e04e08c0ab18.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
   },
   {
    "id": "fd55fb004493",
@@ -10138,8 +10186,8 @@
   }
  ],
  "stats": {
-  "total": 13,
-  "byRules": 11,
+  "total": 11,
+  "byRules": 9,
   "byLlm": 2
  }
 }
