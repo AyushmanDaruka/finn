@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T21:24:29.596Z",
+ "generatedAt": "2026-11-19T21:28:55.490Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1288.6,
-     "v": 11520481
-    },
     {
      "d": "2026-07-23",
      "c": 1272.2,
@@ -422,6 +417,11 @@
      "d": "2026-11-18",
      "c": 1363,
      "v": 19501209
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1375.6,
+     "v": 15787477
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 753.15,
-     "v": 24782389
-    },
     {
      "d": "2026-07-23",
      "c": 747.25,
@@ -846,6 +841,11 @@
      "d": "2026-11-18",
      "c": 808.15,
      "v": 22235200
+    },
+    {
+     "d": "2026-11-19",
+     "c": 821.8,
+     "v": 25346000
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1440.7,
-     "v": 8536844
-    },
     {
      "d": "2026-07-23",
      "c": 1434.6,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-18",
      "c": 1601.3,
      "v": 11226104
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1608.9,
+     "v": 11963468
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1949,
-     "v": 8260284
-    },
     {
      "d": "2026-07-23",
      "c": 1931,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-18",
      "c": 2132,
      "v": 4114088
+    },
+    {
+     "d": "2026-11-19",
+     "c": 2144,
+     "v": 6536826
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1052.1,
-     "v": 7787405
-    },
     {
      "d": "2026-07-23",
      "c": 1047.4,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-18",
      "c": 1108.8,
      "v": 6262584
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1091.9,
+     "v": 12059086
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 3817.4,
-     "v": 1213488
-    },
     {
      "d": "2026-07-23",
      "c": 3792.4,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-18",
      "c": 4159,
      "v": 1224085
+    },
+    {
+     "d": "2026-11-19",
+     "c": 4211,
+     "v": 2158643
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 280.8,
-     "v": 13490594
-    },
     {
      "d": "2026-07-23",
      "c": 281.3,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-18",
      "c": 296.6,
      "v": 20190646
+    },
+    {
+     "d": "2026-11-19",
+     "c": 301,
+     "v": 28839252
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1943,
-     "v": 1783296
-    },
     {
      "d": "2026-07-23",
      "c": 1954,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-18",
      "c": 1871.5,
      "v": 1717543
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1900,
+     "v": 2094191
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 2692.8,
-     "v": 546972
-    },
     {
      "d": "2026-07-23",
      "c": 2668.8,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-18",
      "c": 2580.3,
      "v": 765101
+    },
+    {
+     "d": "2026-11-19",
+     "c": 2595,
+     "v": 878814
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 186.53,
-     "v": 17376341
-    },
     {
      "d": "2026-07-23",
      "c": 184.23,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-18",
      "c": 179,
      "v": 18786252
+    },
+    {
+     "d": "2026-11-19",
+     "c": 180.89,
+     "v": 14013431
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 3147.7,
-     "v": 1009022
-    },
     {
      "d": "2026-07-23",
      "c": 3010,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-18",
      "c": 2684.2,
      "v": 1461716
+    },
+    {
+     "d": "2026-11-19",
+     "c": 2703.1,
+     "v": 730457
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 2887.3,
-     "v": 653194
-    },
     {
      "d": "2026-07-23",
      "c": 2874.8,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-18",
      "c": 3190,
      "v": 1370025
+    },
+    {
+     "d": "2026-11-19",
+     "c": 3225,
+     "v": 815982
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1608.6,
-     "v": 1550622
-    },
     {
      "d": "2026-07-23",
      "c": 1564.2,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-18",
      "c": 1530.2,
      "v": 648792
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1580.5,
+     "v": 905181
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 1126.3,
-     "v": 1979501
-    },
     {
      "d": "2026-07-23",
      "c": 1113.8,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-18",
      "c": 1202,
      "v": 848433
+    },
+    {
+     "d": "2026-11-19",
+     "c": 1202.9,
+     "v": 723560
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 9090.5,
-     "v": 609799
-    },
     {
      "d": "2026-07-23",
      "c": 8935,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-18",
      "c": 7307.5,
      "v": 958950
+    },
+    {
+     "d": "2026-11-19",
+     "c": 7550,
+     "v": 1081990
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 13882,
-     "v": 476135
-    },
     {
      "d": "2026-07-23",
      "c": 13829,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-18",
      "c": 12615,
      "v": 274872
+    },
+    {
+     "d": "2026-11-19",
+     "c": 13054,
+     "v": 343294
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 53.01,
-     "v": 59848763
-    },
     {
      "d": "2026-07-23",
      "c": 52.39,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-18",
      "c": 36.13,
      "v": 49816226
+    },
+    {
+     "d": "2026-11-19",
+     "c": 36.95,
+     "v": 52010508
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-22",
-     "c": 3252.4,
-     "v": 566377
-    },
     {
      "d": "2026-07-23",
      "c": 3240.3,
@@ -7630,11 +7625,82 @@
      "d": "2026-11-18",
      "c": 2882,
      "v": 2516440
+    },
+    {
+     "d": "2026-11-19",
+     "c": 2890,
+     "v": 975840
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "1e390c930ab7",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Adani Enterprises to hold in-person investor/analyst group meetings in Mumbai on 25 Nov 2026, hosted by Ambit.",
+   "date": "2026-11-19T18:57:55+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ce8af62f-f0ec-44e7-9140-7219425ea940.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "e82483d9cc0d",
+   "symbol": "RELIANCE",
+   "company": "Reliance Industries",
+   "title": "Update On Institutional Investors'' Meeting - Morgan Stanley 25Th Annual Asia-Pacific Summit",
+   "summary": "Reliance participated in Morgan Stanley Asia-Pacific Summit in Singapore on Nov 18-19, 2026; no UPSI shared.",
+   "date": "2026-11-19T18:37:38+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c911ae3-537d-4dad-b536-c6c8337562ee.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Update On Institutional Investors'' Meeting - JM Financial India Conference",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eadec632-3d3c-49bd-8f85-6d26d79a4332.pdf"
+    },
+    {
+     "title": "Update On Institutional Investors'' Meeting - CLSA India Forum",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3e0b430-7329-4925-8c6f-a9a1967bc0f9.pdf"
+    }
+   ]
+  },
+  {
+   "id": "d0f42a914a0b",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Kaynes Technology to hold one-on-one investor meeting with Axis Capital in Mumbai on 23 November 2026.",
+   "date": "2026-11-19T18:08:45+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8c387b35-0943-456d-a0f1-6e86ce380292.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "0d9c2f4563be",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+   "summary": "CRISIL reaffirms ICICI Bank infra bonds at AAA/Stable, Tier I at AA+/Stable; withdraws ₹40.4 crore bond rating.",
+   "date": "2026-11-19T17:21:01+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=21f2d8e8-a8fc-47c0-b4cb-0ace887947cc.pdf",
+   "category": "credit_rating",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Credit rating action · just reaffirmed",
+   "classifiedBy": "rules"
+  },
   {
    "id": "3bf67bb07371",
    "symbol": "INFY",
@@ -7696,26 +7762,6 @@
    "tier": "routine",
    "reason": "ESOP allotment — routine dilution, tiny",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "d203d0e01624",
-   "symbol": "RELIANCE",
-   "company": "Reliance Industries",
-   "title": "Update On Institutional Investors'' Meeting - JM Financial India Conference",
-   "summary": "Reliance executives attended JM Financial India Conference in Mumbai on November 17, 2026, with no UPSI shared.",
-   "date": "2026-11-17T18:51:02+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eadec632-3d3c-49bd-8f85-6d26d79a4332.pdf",
-   "category": "investor_meetings",
-   "score": 15,
-   "tier": "routine",
-   "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Update On Institutional Investors'' Meeting - CLSA India Forum",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3e0b430-7329-4925-8c6f-a9a1967bc0f9.pdf"
-    }
-   ]
   },
   {
    "id": "9c270fa37cbd",
@@ -10186,8 +10232,8 @@
   }
  ],
  "stats": {
-  "total": 11,
-  "byRules": 9,
+  "total": 12,
+  "byRules": 10,
   "byLlm": 2
  }
 }
