@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T21:28:55.490Z",
+ "generatedAt": "2026-11-20T21:03:55.330Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1272.2,
-     "v": 14197702
-    },
     {
      "d": "2026-07-24",
      "c": 1278,
@@ -422,6 +417,11 @@
      "d": "2026-11-19",
      "c": 1375.6,
      "v": 15787477
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1377.5,
+     "v": 13757636
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 747.25,
-     "v": 37323071
-    },
     {
      "d": "2026-07-24",
      "c": 742.8,
@@ -846,6 +841,11 @@
      "d": "2026-11-19",
      "c": 821.8,
      "v": 25346000
+    },
+    {
+     "d": "2026-11-20",
+     "c": 846,
+     "v": 73463997
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1434.6,
-     "v": 12951027
-    },
     {
      "d": "2026-07-24",
      "c": 1432.9,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-19",
      "c": 1608.9,
      "v": 11963468
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1640,
+     "v": 18333566
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1931,
-     "v": 6881554
-    },
     {
      "d": "2026-07-24",
      "c": 1898.2,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-19",
      "c": 2144,
      "v": 6536826
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2161.7,
+     "v": 5415150
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1047.4,
-     "v": 14640279
-    },
     {
      "d": "2026-07-24",
      "c": 1040.9,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-19",
      "c": 1091.9,
      "v": 12059086
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1098,
+     "v": 14278577
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 3792.4,
-     "v": 1347325
-    },
     {
      "d": "2026-07-24",
      "c": 3785.6,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-19",
      "c": 4211,
      "v": 2158643
+    },
+    {
+     "d": "2026-11-20",
+     "c": 4209.1,
+     "v": 2198139
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 281.3,
-     "v": 22147746
-    },
     {
      "d": "2026-07-24",
      "c": 283.45,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-19",
      "c": 301,
      "v": 28839252
+    },
+    {
+     "d": "2026-11-20",
+     "c": 299.1,
+     "v": 29578339
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1954,
-     "v": 2386916
-    },
     {
      "d": "2026-07-24",
      "c": 1941.1,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-19",
      "c": 1900,
      "v": 2094191
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1884.9,
+     "v": 1960689
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 2668.8,
-     "v": 668491
-    },
     {
      "d": "2026-07-24",
      "c": 2637.9,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-19",
      "c": 2595,
      "v": 878814
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2608.3,
+     "v": 541216
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 184.23,
-     "v": 21319135
-    },
     {
      "d": "2026-07-24",
      "c": 182.67,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-19",
      "c": 180.89,
      "v": 14013431
+    },
+    {
+     "d": "2026-11-20",
+     "c": 178,
+     "v": 47957103
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 3010,
-     "v": 1656240
-    },
     {
      "d": "2026-07-24",
      "c": 3026.4,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-19",
      "c": 2703.1,
      "v": 730457
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2709,
+     "v": 905020
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 2874.8,
-     "v": 770748
-    },
     {
      "d": "2026-07-24",
      "c": 2890.5,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-19",
      "c": 3225,
      "v": 815982
+    },
+    {
+     "d": "2026-11-20",
+     "c": 3256.1,
+     "v": 1459192
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1564.2,
-     "v": 1364478
-    },
     {
      "d": "2026-07-24",
      "c": 1570.9,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-19",
      "c": 1580.5,
      "v": 905181
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1620,
+     "v": 1145705
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 1113.8,
-     "v": 948515
-    },
     {
      "d": "2026-07-24",
      "c": 1108.7,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-19",
      "c": 1202.9,
      "v": 723560
+    },
+    {
+     "d": "2026-11-20",
+     "c": 1200,
+     "v": 794493
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 8935,
-     "v": 369834
-    },
     {
      "d": "2026-07-24",
      "c": 8907.5,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-19",
      "c": 7550,
      "v": 1081990
+    },
+    {
+     "d": "2026-11-20",
+     "c": 7570,
+     "v": 662083
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 13829,
-     "v": 265098
-    },
     {
      "d": "2026-07-24",
      "c": 13846,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-19",
      "c": 13054,
      "v": 343294
+    },
+    {
+     "d": "2026-11-20",
+     "c": 13120,
+     "v": 240431
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 52.39,
-     "v": 48958737
-    },
     {
      "d": "2026-07-24",
      "c": 52.28,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-19",
      "c": 36.95,
      "v": 52010508
+    },
+    {
+     "d": "2026-11-20",
+     "c": 36.96,
+     "v": 50070726
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-23",
-     "c": 3240.3,
-     "v": 577413
-    },
     {
      "d": "2026-07-24",
      "c": 3176.2,
@@ -7630,11 +7625,128 @@
      "d": "2026-11-19",
      "c": 2890,
      "v": 975840
+    },
+    {
+     "d": "2026-11-20",
+     "c": 2910,
+     "v": 797672
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "2190ad6f008c",
+   "symbol": "HDFCBANK",
+   "company": "HDFC Bank",
+   "title": "Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
+   "summary": "HDFC Bank shareholders approve re-appointment of Lily Vadera as Independent Director via postal ballot with 99.092% votes in favour.",
+   "date": "2026-11-20T20:40:29+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8359e2b1-9d38-4a6a-861f-81104a158350.pdf",
+   "category": "postal_ballot",
+   "score": 10,
+   "tier": "routine",
+   "reason": "Postal ballot",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "b6b80b81f04a",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper Advertisement - Disclosure under Regulation 30 of the SEBI (LODR) Regulations, 2015",
+   "date": "2026-11-20T18:12:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01dec91e-ba4a-4b7d-a3eb-349d024e2f81.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "b701b9553419",
+   "symbol": "TRENT",
+   "company": "Trent",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Trent schedules analyst/investor meetings Nov 26–Dec 9, 2026, including Canararobeco, Capital Group, Millenium, HSBC.",
+   "date": "2026-11-20T18:03:16+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=095a423a-3e97-4ac3-a292-08f80bdbf1f5.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "9a4934c562a9",
+   "symbol": "PIDILITIND",
+   "company": "Pidilite Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Analyst/investor meetings with Capital International on 27 Nov and Federated Hermes on 30 Nov 2026 in Mumbai.",
+   "date": "2026-11-20T15:35:32+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b542f4ce-7d06-4895-b8b9-ef61a103db2b.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "3c2409d9fecc",
+   "symbol": "KAYNES",
+   "company": "Kaynes Technology",
+   "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
+   "summary": "Q2 FY27 earnings call transcript: revenue ₹9,525 mn, EBITDA margin 13.2%, order book ₹105,635 mn.",
+   "date": "2026-11-20T15:32:05+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ae9981d-2a6b-4fe2-a66c-a098af4d27e4.pdf",
+   "category": "earnings_call",
+   "score": 20,
+   "tier": "routine",
+   "reason": "Earnings-call logistics",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "c2f7ac52e8a2",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Dixon held one-on-one investor meetings with Invesco and Investec on Nov 19–20, 2026; no UPSI shared.",
+   "date": "2026-11-20T12:13:54+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68d52f83-69e0-4d96-9cc5-c772d7503218.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "5b4dfd83734d",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Trading Plan under SEBI (PIT) Regulations, 2015",
+   "summary": "Asian Paints approves Patel's trading plan to sell 765 shares at ≥₹2,300 between Mar 23-30, 2027.",
+   "date": "2026-11-20T11:18:40+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b95cae6b-fb93-4750-b9d7-d9189b64a54b.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "b42f8850e690",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "ICICI Bank allotted 37,828 equity shares of ₹2 face value on Nov 20, 2026 under ESUS-2022.",
+   "date": "2026-11-20T11:10:52+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9747cff-a99a-4829-9169-ddb3bd41fc5b.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
   {
    "id": "1e390c930ab7",
    "symbol": "ADANIENT",
@@ -7887,13 +7999,7 @@
    "score": 15,
    "tier": "routine",
    "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32e938f1-a9e8-4747-b689-93dbd2177efb.pdf"
-    }
-   ]
+   "classifiedBy": "rules"
   },
   {
    "id": "9c6a3a6c0ee4",
@@ -9873,13 +9979,7 @@
    "enrichment": {
     "kind": "oneliner",
     "text": "Pidilite reports 21 percent sales growth in Q2 earnings presentation."
-   },
-   "related": [
-    {
-     "title": "Audio Recording Q2FY27 Earnings Call",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=750fabe2-8646-4db4-9942-46e33658336a.pdf"
-    }
-   ]
+   }
   },
   {
    "id": "c69f2047baa5",
@@ -10115,24 +10215,6 @@
    "tier": "routine",
    "reason": "Investor meeting / deck",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "d1da6508391c",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences",
-   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-   "summary": "Zylidac Bio and Prolific Machines partner to scale biologics platform to GMP production.",
-   "date": "2026-10-21T18:27:52+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c5f0398-af9f-4c70-b509-b5f5b9ed5a9f.pdf",
-   "category": "press_release",
-   "score": 20,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Read by model — rules were unsure",
-   "enrichment": {
-    "kind": "oneliner",
-    "text": "Zydus Lifesciences partners with Prolific Machines for biologics production."
-   }
   }
  ],
  "cost": [
@@ -10232,8 +10314,8 @@
   }
  ],
  "stats": {
-  "total": 12,
-  "byRules": 10,
-  "byLlm": 2
+  "total": 15,
+  "byRules": 12,
+  "byLlm": 3
  }
 }
