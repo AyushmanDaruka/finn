@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T00:48:56.069Z",
+ "generatedAt": "2026-11-24T23:00:54.765Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 1280,
-     "v": 7536529
-    },
     {
      "d": "2026-07-28",
      "c": 1267.7,
@@ -433,11 +428,6 @@
    "screenerId": "1298",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 739.55,
-     "v": 30459052
-    },
-    {
      "d": "2026-07-28",
      "c": 735.4,
      "v": 35215118
@@ -856,11 +846,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 1445.7,
-     "v": 10888313
-    },
     {
      "d": "2026-07-28",
      "c": 1430.8,
@@ -1281,11 +1266,6 @@
    "screenerId": "467",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 1905.3,
-     "v": 5297374
-    },
-    {
      "d": "2026-07-28",
      "c": 1901.8,
      "v": 6414830
@@ -1704,11 +1684,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 1079.2,
-     "v": 17792826
-    },
     {
      "d": "2026-07-28",
      "c": 1105.7,
@@ -2129,11 +2104,6 @@
    "screenerId": "1870",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 3806,
-     "v": 1495421
-    },
-    {
      "d": "2026-07-28",
      "c": 3832,
      "v": 1768258
@@ -2552,11 +2522,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 285.85,
-     "v": 20485879
-    },
     {
      "d": "2026-07-28",
      "c": 284.65,
@@ -2977,11 +2942,6 @@
    "screenerId": "3245",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 1973.7,
-     "v": 5937875
-    },
-    {
      "d": "2026-07-28",
      "c": 1976.7,
      "v": 4715063
@@ -3400,11 +3360,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 2710.2,
-     "v": 757486
-    },
     {
      "d": "2026-07-28",
      "c": 2736.2,
@@ -3825,11 +3780,6 @@
    "screenerId": "3373",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 184.25,
-     "v": 12574700
-    },
-    {
      "d": "2026-07-28",
      "c": 182.63,
      "v": 19875617
@@ -4248,11 +4198,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 3036.6,
-     "v": 681790
-    },
     {
      "d": "2026-07-28",
      "c": 3002.3,
@@ -4673,11 +4618,6 @@
    "screenerId": "3467",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 2938.3,
-     "v": 847914
-    },
-    {
      "d": "2026-07-28",
      "c": 2930.7,
      "v": 576483
@@ -5096,11 +5036,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 1611.3,
-     "v": 1818121
-    },
     {
      "d": "2026-07-28",
      "c": 1619.6,
@@ -5521,11 +5456,6 @@
    "screenerId": "567",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 1108.2,
-     "v": 645091
-    },
-    {
      "d": "2026-07-28",
      "c": 1099.2,
      "v": 764019
@@ -5944,11 +5874,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 9010,
-     "v": 241037
-    },
     {
      "d": "2026-07-28",
      "c": 9121.5,
@@ -6369,11 +6294,6 @@
    "screenerId": "1274137",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 13810,
-     "v": 224463
-    },
-    {
      "d": "2026-07-28",
      "c": 13903,
      "v": 188702
@@ -6792,11 +6712,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-27",
-     "c": 53.15,
-     "v": 48947424
-    },
     {
      "d": "2026-07-28",
      "c": 48.02,
@@ -7217,11 +7132,6 @@
    "screenerId": "1275358",
    "prices": [
     {
-     "d": "2026-07-27",
-     "c": 3181.3,
-     "v": 657333
-    },
-    {
      "d": "2026-07-28",
      "c": 3227.7,
      "v": 720925
@@ -7636,6 +7546,110 @@
  ],
  "announcements": [
   {
+   "id": "acff95943176",
+   "symbol": "LT",
+   "company": "Larsen & Toubro",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "L&T to meet investors at Macquarie Foreign Institutional Investors Meet in Mumbai on Dec 1, 2026.",
+   "date": "2026-11-24T17:29:39+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18713bc5-f911-4144-abba-ce951a62052b.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "335bc2f67856",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Change in Management",
+   "summary": "Appoints Aruna Jayanthi as Non-Executive Independent Additional Director for five years from 24 Nov 2026.",
+   "date": "2026-11-24T15:04:39+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b67aeb99-3c59-4400-afb3-6fa878acaef4.pdf",
+   "category": "management_change",
+   "score": 45,
+   "tier": "notable",
+   "reason": "Change at the top · board seat, non-executive",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "2501acf0247c",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Management to meet promoters on 27 Nov 2026 to brief Q2/H1 FY27 performance.",
+   "date": "2026-11-24T14:21:48+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf"
+    }
+   ]
+  },
+  {
+   "id": "9e5bc5028392",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
+   "summary": "DoT AP imposes ₹7,96,000 penalty on Bharti Airtel for subscriber verification violations; company will pay, not contest.",
+   "date": "2026-11-24T13:13:22+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=990083cd-3c00-47eb-8ffc-d8eb40c3322c.pdf",
+   "category": "litigation",
+   "score": 25,
+   "tier": "routine",
+   "reason": "Legal / regulatory action · immaterial: ₹8.0 lakh vs ₹13,28,528 Cr market cap",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "fe6ac83fe104",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Incorporation Of A Wholly Owned Subsidiary In Australia",
+   "summary": "Zydus incorporates Zydus Australia Pty Ltd as wholly owned subsidiary on Nov 24, 2026 to sell pharma products.",
+   "date": "2026-11-24T11:33:12+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9a89ea9-1554-4362-b1ab-37a600c4dfcf.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "17fcb8e7a373",
+   "symbol": "POLYCAB",
+   "company": "Polycab India",
+   "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
+   "summary": "Investor meets on Dec 1, 3, 4, 2026 with Enam AMC, Wellington, Schonfeld.",
+   "date": "2026-11-24T10:46:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1dc4b1bc-18f7-4aad-a61a-6fc2bf9dc0ec.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "9be8bef46b8b",
+   "symbol": "PIDILITIND",
+   "company": "Pidilite Industries",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Analyst/investor meetings scheduled Dec 1 and Dec 3, 2026 with Phillip Capital, Millenium and Wellington.",
+   "date": "2026-11-24T10:25:38+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b6d38182-d8dc-4a18-8372-1e544e690640.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
    "id": "fad28d78f3c5",
    "symbol": "ADANIENT",
    "company": "Adani Enterprises",
@@ -7689,20 +7703,6 @@
    "score": 15,
    "tier": "routine",
    "reason": "Investor meeting / deck",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "94b3bc71d107",
-   "symbol": "ASIANPAINT",
-   "company": "Asian Paints",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-   "summary": "Asian Paints to meet Capital International in one-on-one on 27 Nov 2026 in Mumbai.",
-   "date": "2026-11-23T17:41:39+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf",
-   "category": "investor_meetings",
-   "score": 0,
-   "tier": "routine",
-   "reason": "Investor meeting / deck · only a notice of a future event",
    "classifiedBy": "rules"
   },
   {
@@ -10476,8 +10476,8 @@
   }
  ],
  "stats": {
-  "total": 23,
-  "byRules": 15,
-  "byLlm": 8
+  "total": 16,
+  "byRules": 12,
+  "byLlm": 4
  }
 }
