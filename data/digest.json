@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T21:03:55.330Z",
+ "generatedAt": "2026-11-24T00:48:56.069Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1278,
-     "v": 10284010
-    },
     {
      "d": "2026-07-27",
      "c": 1280,
@@ -422,6 +417,11 @@
      "d": "2026-11-20",
      "c": 1377.5,
      "v": 13757636
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1351,
+     "v": 15950659
     }
    ]
   },
@@ -432,11 +432,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 742.8,
-     "v": 25806056
-    },
     {
      "d": "2026-07-27",
      "c": 739.55,
@@ -846,6 +841,11 @@
      "d": "2026-11-20",
      "c": 846,
      "v": 73463997
+    },
+    {
+     "d": "2026-11-23",
+     "c": 817.8,
+     "v": 57398501
     }
    ]
   },
@@ -856,11 +856,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1432.9,
-     "v": 10992042
-    },
     {
      "d": "2026-07-27",
      "c": 1445.7,
@@ -1270,6 +1265,11 @@
      "d": "2026-11-20",
      "c": 1640,
      "v": 18333566
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1585.5,
+     "v": 22965944
     }
    ]
   },
@@ -1280,11 +1280,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1898.2,
-     "v": 4615390
-    },
     {
      "d": "2026-07-27",
      "c": 1905.3,
@@ -1694,6 +1689,11 @@
      "d": "2026-11-20",
      "c": 2161.7,
      "v": 5415150
+    },
+    {
+     "d": "2026-11-23",
+     "c": 2128.5,
+     "v": 5797919
     }
    ]
   },
@@ -1704,11 +1704,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1040.9,
-     "v": 31643371
-    },
     {
      "d": "2026-07-27",
      "c": 1079.2,
@@ -2118,6 +2113,11 @@
      "d": "2026-11-20",
      "c": 1098,
      "v": 14278577
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1103.4,
+     "v": 12881285
     }
    ]
   },
@@ -2128,11 +2128,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 3785.6,
-     "v": 2094822
-    },
     {
      "d": "2026-07-27",
      "c": 3806,
@@ -2542,6 +2537,11 @@
      "d": "2026-11-20",
      "c": 4209.1,
      "v": 2198139
+    },
+    {
+     "d": "2026-11-23",
+     "c": 4099.9,
+     "v": 1296959
     }
    ]
   },
@@ -2552,11 +2552,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 283.45,
-     "v": 26161863
-    },
     {
      "d": "2026-07-27",
      "c": 285.85,
@@ -2966,6 +2961,11 @@
      "d": "2026-11-20",
      "c": 299.1,
      "v": 29578339
+    },
+    {
+     "d": "2026-11-23",
+     "c": 301,
+     "v": 28401852
     }
    ]
   },
@@ -2976,11 +2976,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1941.1,
-     "v": 1780815
-    },
     {
      "d": "2026-07-27",
      "c": 1973.7,
@@ -3390,6 +3385,11 @@
      "d": "2026-11-20",
      "c": 1884.9,
      "v": 1960689
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1860,
+     "v": 1626069
     }
    ]
   },
@@ -3400,11 +3400,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 2637.9,
-     "v": 663001
-    },
     {
      "d": "2026-07-27",
      "c": 2710.2,
@@ -3814,6 +3809,11 @@
      "d": "2026-11-20",
      "c": 2608.3,
      "v": 541216
+    },
+    {
+     "d": "2026-11-23",
+     "c": 2580.4,
+     "v": 537237
     }
    ]
   },
@@ -3824,11 +3824,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 182.67,
-     "v": 16928329
-    },
     {
      "d": "2026-07-27",
      "c": 184.25,
@@ -4238,6 +4233,11 @@
      "d": "2026-11-20",
      "c": 178,
      "v": 47957103
+    },
+    {
+     "d": "2026-11-23",
+     "c": 163,
+     "v": 176978946
     }
    ]
   },
@@ -4248,11 +4248,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 3026.4,
-     "v": 1354493
-    },
     {
      "d": "2026-07-27",
      "c": 3036.6,
@@ -4662,6 +4657,11 @@
      "d": "2026-11-20",
      "c": 2709,
      "v": 905020
+    },
+    {
+     "d": "2026-11-23",
+     "c": 2677.9,
+     "v": 1408395
     }
    ]
   },
@@ -4672,11 +4672,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 2890.5,
-     "v": 677235
-    },
     {
      "d": "2026-07-27",
      "c": 2938.3,
@@ -5086,6 +5081,11 @@
      "d": "2026-11-20",
      "c": 3256.1,
      "v": 1459192
+    },
+    {
+     "d": "2026-11-23",
+     "c": 3208,
+     "v": 459038
     }
    ]
   },
@@ -5096,11 +5096,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1570.9,
-     "v": 2330419
-    },
     {
      "d": "2026-07-27",
      "c": 1611.3,
@@ -5510,6 +5505,11 @@
      "d": "2026-11-20",
      "c": 1620,
      "v": 1145705
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1594.2,
+     "v": 1776116
     }
    ]
   },
@@ -5520,11 +5520,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 1108.7,
-     "v": 906632
-    },
     {
      "d": "2026-07-27",
      "c": 1108.2,
@@ -5934,6 +5929,11 @@
      "d": "2026-11-20",
      "c": 1200,
      "v": 794493
+    },
+    {
+     "d": "2026-11-23",
+     "c": 1199.5,
+     "v": 705610
     }
    ]
   },
@@ -5944,11 +5944,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 8907.5,
-     "v": 202290
-    },
     {
      "d": "2026-07-27",
      "c": 9010,
@@ -6358,6 +6353,11 @@
      "d": "2026-11-20",
      "c": 7570,
      "v": 662083
+    },
+    {
+     "d": "2026-11-23",
+     "c": 7430,
+     "v": 540519
     }
    ]
   },
@@ -6368,11 +6368,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 13846,
-     "v": 299815
-    },
     {
      "d": "2026-07-27",
      "c": 13810,
@@ -6782,6 +6777,11 @@
      "d": "2026-11-20",
      "c": 13120,
      "v": 240431
+    },
+    {
+     "d": "2026-11-23",
+     "c": 13390,
+     "v": 534362
     }
    ]
   },
@@ -6792,11 +6792,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 52.28,
-     "v": 46957325
-    },
     {
      "d": "2026-07-27",
      "c": 53.15,
@@ -7206,6 +7201,11 @@
      "d": "2026-11-20",
      "c": 36.96,
      "v": 50070726
+    },
+    {
+     "d": "2026-11-23",
+     "c": 35.86,
+     "v": 54105429
     }
    ]
   },
@@ -7216,11 +7216,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-24",
-     "c": 3176.2,
-     "v": 927142
-    },
     {
      "d": "2026-07-27",
      "c": 3181.3,
@@ -7630,11 +7625,252 @@
      "d": "2026-11-20",
      "c": 2910,
      "v": 797672
+    },
+    {
+     "d": "2026-11-23",
+     "c": 2809,
+     "v": 1678748
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "fad28d78f3c5",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Acquisition",
+   "summary": "Adani Enterprises incorporated wholly owned Nashik Phata Road Ltd on Nov 12 for NH-60 BOT road project.",
+   "date": "2026-11-23T22:07:33+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e1abed3d-9957-4ec1-9f2c-36cc8e5c9cde.pdf",
+   "category": "mna",
+   "score": 75,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "6b5480f3f657",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharma",
+   "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+   "summary": "S&P assigns preliminary BBB+ stable long-term issuer rating to Sun Pharma Global Treasury Centre IFSC on 23 Nov 2026.",
+   "date": "2026-11-23T20:35:26+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56eb8f42-7196-433c-af67-ea52b2a7bd97.pdf",
+   "category": "credit_rating",
+   "score": 35,
+   "tier": "notable",
+   "reason": "Credit rating action",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "24540bc44067",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Updates on Acquisition",
+   "summary": "Tata Steel acquires 9.91% stake in APL Apollo Tubes for ₹5,825 crore via block deal.",
+   "date": "2026-11-23T20:02:27+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c36e2726-170a-4e27-839c-ed4e54d358f4.pdf",
+   "category": "mna",
+   "score": 90,
+   "tier": "critical",
+   "reason": "M&A / corporate restructuring · ₹5,825 Cr ≈ 2.9% of market cap",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "6226b12d1f05",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Dixon Technologies held virtual one-on-one investor meetings with Tiger Pacific Capital and Baillie Gifford on 23 Nov 2026.",
+   "date": "2026-11-23T17:56:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "94b3bc71d107",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Asian Paints to meet Capital International in one-on-one on 27 Nov 2026 in Mumbai.",
+   "date": "2026-11-23T17:41:39+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "d3dcae07a044",
+   "symbol": "ADANIENT",
+   "company": "Adani Enterprises",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Adani Airports raises ₹2,790 cr from 360 ONE Asset; total equity raise ~USD 1.35 bn.",
+   "date": "2026-11-23T16:41:12+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5928591-d44e-486c-8170-4e7ee6910379.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Intimation Regarding Entering Into Deed Of Adherence To The Shareholders' Agreement By AAHL.",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d8f6370-34e4-4968-ac58-0c05b654505c.pdf"
+    }
+   ]
+  },
+  {
+   "id": "6c0f5abd30d3",
+   "symbol": "SUZLON",
+   "company": "Suzlon Energy",
+   "title": "Disclosure With Respect To Cyber Incident",
+   "summary": "Suzlon discloses Nov 23 cyber incident; no business-critical impact; reported to CERT-In.",
+   "date": "2026-11-23T14:22:11+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9507fa29-5786-4cf8-92d6-00c89a750882.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "94c0fe94d05b",
+   "symbol": "LT",
+   "company": "Larsen & Toubro",
+   "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+   "summary": "L&T's LTN Compute secures large multi-year order to deploy additional NVIDIA B300 GPUs at Chennai AI factory.",
+   "date": "2026-11-23T09:30:55+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6961c994-01be-4b8d-85ac-5c857530ea43.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "a59efd603469",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+   "summary": "Tata Steel to sell tubes, colour coated business to APL Apollo for ₹28,000 cr; acquire 26.6% stake.",
+   "date": "2026-11-23T08:27:38+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60bf73b2-f86e-42e5-a0aa-22f361c13e57.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f63b5c82-f041-4b4a-8e80-56236321870b.pdf"
+    }
+   ]
+  },
+  {
+   "id": "84e776de9c4f",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+   "summary": "Tata Steel to sell tubes/colour-coated biz to APL Apollo for ₹28,000 cr; acquire 26.6% stake, open offer.",
+   "date": "2026-11-23T08:19:38+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=54e6c463-0cfd-460d-af38-cee7a37ec5c4.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "5507ee25e790",
+   "symbol": "TATASTEEL",
+   "company": "Tata Steel",
+   "title": "Outcome Of Board Meeting Of Tata Steel Limited Held On November 23, 2026",
+   "summary": "Tata Steel to acquire 26.38% of APL Apollo for ₹15,510.61 Cr; mandatory open offer for 26% at ₹2,301.40.",
+   "date": "2026-11-23T07:40:12+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=493cd1be-44dc-4a63-9b2a-5286b7bc9669.pdf",
+   "category": "results",
+   "score": 85,
+   "tier": "critical",
+   "reason": "Results approved at board meeting",
+   "classifiedBy": "rules",
+   "enrichment": {
+    "kind": "results",
+    "quarter": "Sep 2026",
+    "basis": "consolidated",
+    "unit": "₹ Cr",
+    "revenue": {
+     "current": 65436,
+     "prevQ": 60794,
+     "yearAgoQ": 58689
+    },
+    "ebitda": {
+     "current": 10533,
+     "prevQ": 9264,
+     "yearAgoQ": 8897
+    },
+    "pbt": {
+     "current": 5455,
+     "prevQ": 3838,
+     "yearAgoQ": 4222
+    },
+    "pat": {
+     "current": 3700,
+     "prevQ": 2385,
+     "yearAgoQ": 3183
+    },
+    "isBank": false,
+    "source": "screener"
+   }
+  },
+  {
+   "id": "ae47eb45e30c",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement Under Regulation 30 Of SEBI LODR-Update",
+   "summary": "Dixon consummates Vimal Plast asset acquisition for up to ₹49.75 crore on 21 Nov 2026.",
+   "date": "2026-11-21T20:29:50+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20a44726-e8b7-4a23-b0e8-ab8638aff9f7.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "02bb2ccfd0b8",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper publication of notice for opening of Special Window for transfer and dematerialization of physical securities, published in the Financial Express English and Gujarati Editions, …",
+   "date": "2026-11-21T15:25:14+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7cda544-30b2-406a-83f1-958de8e03a4d.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "282feed7559d",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharma",
+   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+   "summary": "Newspaper Advertisements about opening of Special Window for transfer of physical shares",
+   "date": "2026-11-21T12:46:52+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1fd338f2-022f-47dc-b7a6-504d659ec203.pdf",
+   "category": "unclassified",
+   "score": 5,
+   "tier": "routine",
+   "reason": "Routine compliance paperwork",
+   "classifiedBy": "rules"
+  },
   {
    "id": "2190ad6f008c",
    "symbol": "HDFCBANK",
@@ -10141,80 +10377,6 @@
      }
     ]
    }
-  },
-  {
-   "id": "b4c5139c5fa4",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank",
-   "title": "Grant Of Stock Options Under Employee Stock Option Scheme",
-   "summary": "HDFC Bank granted 13,02,379 stock options at Rs. 692.80 under ESOS Plan H-2024.",
-   "date": "2026-10-24T22:24:00+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e0bab4c-fcd5-45ce-8a91-a3dcf5dac9e9.pdf",
-   "category": "unclassified",
-   "score": 20,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Read by model — rules were unsure",
-   "enrichment": {
-    "kind": "oneliner",
-    "text": "HDFC Bank grants 1.3 million stock options to employees."
-   }
-  },
-  {
-   "id": "7e7a8622dfb6",
-   "symbol": "TATASTEEL",
-   "company": "Tata Steel",
-   "title": "Update on board meeting",
-   "summary": "Tata Steel board meeting postponed to November 7, 2026 for Q2 and half-year results approval.",
-   "date": "2026-10-24T18:32:45+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f226c38-fc19-45fa-8f39-6598689caa04.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
-  },
-  {
-   "id": "2f0d7882fd3c",
-   "symbol": "ICICIBANK",
-   "company": "ICICI Bank",
-   "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
-   "summary": "ICRA and CARE reaffirmed ICICI Bank ratings on October 23, 2026; matured instruments were withdrawn.",
-   "date": "2026-10-24T13:38:34+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94d9e62f-952d-4046-8379-bbdd1761f3ab.pdf",
-   "category": "credit_rating",
-   "score": 20,
-   "tier": "routine",
-   "reason": "Credit rating action · just reaffirmed",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "206ff1686258",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-   "summary": "Zydus Lifesciences Q2 FY27 results on November 4, 2026; earnings call at 3:30 p.m. IST.",
-   "date": "2026-10-24T11:36:30+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8ebb9b55-80c7-4891-a3b2-e99fba0096bb.pdf",
-   "category": "investor_meetings",
-   "score": 0,
-   "tier": "routine",
-   "reason": "Investor meeting / deck · only a notice of a future event",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "a27f4103821d",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-   "summary": "HDFC Bank released Q2 FY27 earnings call transcript on October 23, 2026.",
-   "date": "2026-10-23T22:50:38+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
-   "category": "investor_meetings",
-   "score": 15,
-   "tier": "routine",
-   "reason": "Investor meeting / deck",
-   "classifiedBy": "rules"
   }
  ],
  "cost": [
@@ -10314,8 +10476,8 @@
   }
  ],
  "stats": {
-  "total": 15,
-  "byRules": 12,
-  "byLlm": 3
+  "total": 23,
+  "byRules": 15,
+  "byLlm": 8
  }
 }
