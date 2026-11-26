@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T22:29:42.277Z",
+ "generatedAt": "2026-11-26T22:18:32.254Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1275.9,
-     "v": 10081398
-    },
     {
      "d": "2026-07-30",
      "c": 1292.9,
@@ -417,6 +412,11 @@
      "d": "2026-11-25",
      "c": 1373.9,
      "v": 19939717
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1396.2,
+     "v": 22305993
     }
    ]
   },
@@ -427,11 +427,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 748.2,
-     "v": 22023698
-    },
     {
      "d": "2026-07-30",
      "c": 753.95,
@@ -836,6 +831,11 @@
      "d": "2026-11-25",
      "c": 846.2,
      "v": 51299234
+    },
+    {
+     "d": "2026-11-26",
+     "c": 862,
+     "v": 76418765
     }
    ]
   },
@@ -846,11 +846,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1437.9,
-     "v": 11102555
-    },
     {
      "d": "2026-07-30",
      "c": 1433.9,
@@ -1255,6 +1250,11 @@
      "d": "2026-11-25",
      "c": 1640,
      "v": 19441964
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1611,
+     "v": 17724477
     }
    ]
   },
@@ -1265,11 +1265,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1950.2,
-     "v": 6709730
-    },
     {
      "d": "2026-07-30",
      "c": 1956.8,
@@ -1674,6 +1669,11 @@
      "d": "2026-11-25",
      "c": 2117.5,
      "v": 7159601
+    },
+    {
+     "d": "2026-11-26",
+     "c": 2102.5,
+     "v": 4292205
     }
    ]
   },
@@ -1684,11 +1684,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1155.6,
-     "v": 37797894
-    },
     {
      "d": "2026-07-30",
      "c": 1155.1,
@@ -2093,6 +2088,11 @@
      "d": "2026-11-25",
      "c": 1130,
      "v": 15436007
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1183,
+     "v": 17446879
     }
    ]
   },
@@ -2103,11 +2103,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 3931.4,
-     "v": 3653387
-    },
     {
      "d": "2026-07-30",
      "c": 3937.7,
@@ -2512,6 +2507,11 @@
      "d": "2026-11-25",
      "c": 4156,
      "v": 1388474
+    },
+    {
+     "d": "2026-11-26",
+     "c": 4132.1,
+     "v": 1378392
     }
    ]
   },
@@ -2522,11 +2522,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 286.25,
-     "v": 20595512
-    },
     {
      "d": "2026-07-30",
      "c": 285.05,
@@ -2931,6 +2926,11 @@
      "d": "2026-11-25",
      "c": 309.25,
      "v": 44179729
+    },
+    {
+     "d": "2026-11-26",
+     "c": 307,
+     "v": 18208304
     }
    ]
   },
@@ -2941,11 +2941,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1989.9,
-     "v": 2856946
-    },
     {
      "d": "2026-07-30",
      "c": 2001.1,
@@ -3350,6 +3345,11 @@
      "d": "2026-11-25",
      "c": 1901,
      "v": 2437469
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1915.7,
+     "v": 2389614
     }
    ]
   },
@@ -3360,11 +3360,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 2758.4,
-     "v": 4054999
-    },
     {
      "d": "2026-07-30",
      "c": 2746.2,
@@ -3769,6 +3764,11 @@
      "d": "2026-11-25",
      "c": 2621.2,
      "v": 812202
+    },
+    {
+     "d": "2026-11-26",
+     "c": 2543,
+     "v": 971101
     }
    ]
   },
@@ -3779,11 +3779,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 187.27,
-     "v": 26450159
-    },
     {
      "d": "2026-07-30",
      "c": 186.92,
@@ -4188,6 +4183,11 @@
      "d": "2026-11-25",
      "c": 159.3,
      "v": 141855243
+    },
+    {
+     "d": "2026-11-26",
+     "c": 163.54,
+     "v": 51458535
     }
    ]
   },
@@ -4198,11 +4198,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 3024.5,
-     "v": 1681099
-    },
     {
      "d": "2026-07-30",
      "c": 3049.1,
@@ -4607,6 +4602,11 @@
      "d": "2026-11-25",
      "c": 2668.5,
      "v": 2249492
+    },
+    {
+     "d": "2026-11-26",
+     "c": 2660,
+     "v": 1792621
     }
    ]
   },
@@ -4617,11 +4617,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 3005.2,
-     "v": 1051135
-    },
     {
      "d": "2026-07-30",
      "c": 2999.2,
@@ -5026,6 +5021,11 @@
      "d": "2026-11-25",
      "c": 3319.6,
      "v": 2035648
+    },
+    {
+     "d": "2026-11-26",
+     "c": 3262.6,
+     "v": 546465
     }
    ]
   },
@@ -5036,11 +5036,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1629.9,
-     "v": 1191802
-    },
     {
      "d": "2026-07-30",
      "c": 1629.9,
@@ -5445,6 +5440,11 @@
      "d": "2026-11-25",
      "c": 1616.9,
      "v": 965362
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1604.9,
+     "v": 393993
     }
    ]
   },
@@ -5455,11 +5455,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 1122.7,
-     "v": 1247427
-    },
     {
      "d": "2026-07-30",
      "c": 1115.1,
@@ -5864,6 +5859,11 @@
      "d": "2026-11-25",
      "c": 1236,
      "v": 1289332
+    },
+    {
+     "d": "2026-11-26",
+     "c": 1194.2,
+     "v": 2512646
     }
    ]
   },
@@ -5874,11 +5874,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 9047,
-     "v": 247160
-    },
     {
      "d": "2026-07-30",
      "c": 8896,
@@ -6283,6 +6278,11 @@
      "d": "2026-11-25",
      "c": 7379,
      "v": 596846
+    },
+    {
+     "d": "2026-11-26",
+     "c": 7350,
+     "v": 625879
     }
    ]
   },
@@ -6293,11 +6293,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 14275,
-     "v": 453007
-    },
     {
      "d": "2026-07-30",
      "c": 14338,
@@ -6702,6 +6697,11 @@
      "d": "2026-11-25",
      "c": 12978,
      "v": 534202
+    },
+    {
+     "d": "2026-11-26",
+     "c": 12718,
+     "v": 458188
     }
    ]
   },
@@ -6712,11 +6712,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 47.45,
-     "v": 240866715
-    },
     {
      "d": "2026-07-30",
      "c": 47.4,
@@ -7121,6 +7116,11 @@
      "d": "2026-11-25",
      "c": 36.13,
      "v": 49724970
+    },
+    {
+     "d": "2026-11-26",
+     "c": 36.29,
+     "v": 40910064
     }
    ]
   },
@@ -7131,11 +7131,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-29",
-     "c": 3638.6,
-     "v": 6764454
-    },
     {
      "d": "2026-07-30",
      "c": 3621.5,
@@ -7540,11 +7535,140 @@
      "d": "2026-11-25",
      "c": 2698,
      "v": 2000595
+    },
+    {
+     "d": "2026-11-26",
+     "c": 2703.3,
+     "v": 985741
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "93d28cd5fed2",
+   "symbol": "INFY",
+   "company": "Infosys",
+   "title": "Investor Conference",
+   "summary": "Infosys to hold investor NDRs Dec 3-10, 2026 in San Francisco, Boston, New York, Connecticut.",
+   "date": "2026-11-26T22:16:13+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f6b51a77-e738-41f9-b13f-f4918c12c46f.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "f58fb3d49637",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+   "summary": "Asian Paints presents INR/JPY corporate presentation at Nomura Investment Forum, Tokyo, Dec 1-2, 2026.",
+   "date": "2026-11-26T20:18:44+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5876333-cc21-4ae5-9c33-cc08d62aa1f5.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59854c76-de00-4260-845d-4dec60857bab.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "0951770ed8ed",
+   "symbol": "SUNPHARMA",
+   "company": "Sun Pharma",
+   "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+   "summary": "Investor presentation: FY26 sales ₹582.2 bn, EBITDA margin 30.3%, innovative medicines 22% of sales.",
+   "date": "2026-11-26T20:05:24+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5a9fbc5b-1ebb-4bf3-ad1b-7fd86c520564.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "5a4879b385d3",
+   "symbol": "ZYDUSLIFE",
+   "company": "Zydus Lifesciences",
+   "title": "Update",
+   "summary": "USFDA issues CRL to Zydus Therapeutics for saroglitazar NDA amid Moraiya facility review.",
+   "date": "2026-11-26T15:55:36+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=89c10a69-9c6e-4947-9153-43ac40b99be3.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d5dcf4f-5b3a-4797-95d1-edbd297bd6f6.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fee492e3-0838-4e4c-a388-00214fb2de11.pdf"
+    },
+    {
+     "title": "Incorporation Of A Wholly Owned Subsidiary In Australia",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9a89ea9-1554-4362-b1ab-37a600c4dfcf.pdf"
+    }
+   ]
+  },
+  {
+   "id": "466948a36f4a",
+   "symbol": "TRENT",
+   "company": "Trent",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Trent to hold one-to-one meeting with SBI Mutual Fund on 3 December 2026.",
+   "date": "2026-11-26T14:50:46+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08bb53a-9d0a-45fd-8b22-4229350d4720.pdf",
+   "category": "investor_meetings",
+   "score": 0,
+   "tier": "routine",
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29a62fe4-3921-46e1-a81e-5d9129f76c94.pdf"
+    }
+   ]
+  },
+  {
+   "id": "6273a497ea3e",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Dixon held one-on-one investor meetings with Balyasny and Emkay on 25 Nov 2026; no UPSI shared.",
+   "date": "2026-11-26T11:22:42+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbd3b5bc-27f4-4acb-bca2-3b1ea57f0d9b.pdf"
+    }
+   ]
+  },
   {
    "id": "41ef419a7a43",
    "symbol": "HDFCBANK",
@@ -7574,30 +7698,6 @@
    "classifiedBy": "rules"
   },
   {
-   "id": "d3d5ec489570",
-   "symbol": "ASIANPAINT",
-   "company": "Asian Paints",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-   "summary": "Asian Paints to hold one-on-one investor meetings at Nomura Investment Forum, Tokyo, Dec 1-2, 2026.",
-   "date": "2026-11-25T17:10:08+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59854c76-de00-4260-845d-4dec60857bab.pdf",
-   "category": "investor_meetings",
-   "score": 0,
-   "tier": "routine",
-   "reason": "Investor meeting / deck · only a notice of a future event",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf"
-    },
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf"
-    }
-   ]
-  },
-  {
    "id": "b647591b4ce2",
    "symbol": "INFY",
    "company": "Infosys",
@@ -7610,30 +7710,6 @@
    "tier": "routine",
    "classifiedBy": "llm",
    "reason": "Rules unsure; model offline — unranked"
-  },
-  {
-   "id": "9c3cc09fa9b6",
-   "symbol": "ZYDUSLIFE",
-   "company": "Zydus Lifesciences",
-   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-   "summary": "Zydus gets USFDA EIR for Ankleshwar API Unit-2; inspection held Jan 19-23, 2026.",
-   "date": "2026-11-25T14:57:29+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4d5dcf4f-5b3a-4797-95d1-edbd297bd6f6.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fee492e3-0838-4e4c-a388-00214fb2de11.pdf"
-    },
-    {
-     "title": "Incorporation Of A Wholly Owned Subsidiary In Australia",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9a89ea9-1554-4362-b1ab-37a600c4dfcf.pdf"
-    }
-   ]
   },
   {
    "id": "87e21b4c8edf",
@@ -7802,24 +7878,18 @@
    "classifiedBy": "rules"
   },
   {
-   "id": "6226b12d1f05",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-   "summary": "Dixon Technologies held virtual one-on-one investor meetings with Tiger Pacific Capital and Baillie Gifford on 23 Nov 2026.",
-   "date": "2026-11-23T17:56:31+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf",
+   "id": "94b3bc71d107",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+   "summary": "Asian Paints to meet Capital International in one-on-one on 27 Nov 2026 in Mumbai.",
+   "date": "2026-11-23T17:41:39+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf",
    "category": "investor_meetings",
-   "score": 15,
+   "score": 0,
    "tier": "routine",
-   "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbd3b5bc-27f4-4acb-bca2-3b1ea57f0d9b.pdf"
-    }
-   ]
+   "reason": "Investor meeting / deck · only a notice of a future event",
+   "classifiedBy": "rules"
   },
   {
    "id": "d3dcae07a044",
@@ -10394,65 +10464,6 @@
    "tier": "routine",
    "reason": "Investor meeting / deck · only a notice of a future event",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "56f0e02299c2",
-   "symbol": "LT",
-   "company": "Larsen & Toubro",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-   "summary": "L&T uploaded Q2/H1 FY27 earnings call audio recording on its investor website on October 27, 2026.",
-   "date": "2026-10-27T22:09:20+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0e4c11c6-4c96-42c0-ac94-b2cb928c4f4f.pdf",
-   "category": "investor_meetings",
-   "score": 15,
-   "tier": "routine",
-   "reason": "Investor meeting / deck",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "cbcc0979085a",
-   "symbol": "ICICIBANK",
-   "company": "ICICI Bank",
-   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-   "summary": "Allotment of equity shares at FV Rs. 2 each under ICICI Bank Employees Stock Option Scheme 2000",
-   "date": "2026-10-27T10:26:10+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c6e8627c-e5c3-43ef-929c-707b24b1cf4d.pdf",
-   "category": "unclassified",
-   "score": 8,
-   "tier": "routine",
-   "reason": "ESOP allotment — routine dilution, tiny",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "45c53b134340",
-   "symbol": "HDFCBANK",
-   "company": "HDFC Bank",
-   "title": "Disclosure Under Regulation 30 And Other Applicable Regulations Of The SEBI (LODR) Regulations, 2015 - Change In Managing Director And Chief Executive Officer Of The Bank",
-   "summary": "Sashidhar Jagdishan steps down October 26, 2026; Anup Bagchi becomes HDFC Bank MD and CEO from October 27, 2026.",
-   "date": "2026-10-27T08:06:22+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e5b2d06f-fea8-4dea-aa03-84674215a0fd.pdf",
-   "category": "management_change",
-   "score": 80,
-   "tier": "critical",
-   "classifiedBy": "llm",
-   "reason": "Read by model — rules were unsure",
-   "enrichment": {
-    "kind": "management",
-    "changes": [
-     {
-      "name": "Sashidhar Jagdishan",
-      "role": "Managing Director and Chief Executive Officer",
-      "change": "retired",
-      "effective": "October 26, 2026"
-     },
-     {
-      "name": "Anup Bagchi",
-      "role": "Managing Director and Chief Executive Officer",
-      "change": "appointed",
-      "effective": "October 27, 2026"
-     }
-    ]
-   }
   }
  ],
  "cost": [
@@ -10552,8 +10563,8 @@
   }
  ],
  "stats": {
-  "total": 18,
-  "byRules": 11,
+  "total": 21,
+  "byRules": 14,
   "byLlm": 7
  }
 }
