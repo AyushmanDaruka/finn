@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T22:18:32.254Z",
+ "generatedAt": "2026-11-27T21:57:47.158Z",
  "holdings": [
   {
    "symbol": "RELIANCE",
@@ -8,11 +8,6 @@
    "cap": "Large",
    "screenerId": "2726",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 1292.9,
-     "v": 13909785
-    },
     {
      "d": "2026-07-31",
      "c": 1307.8,
@@ -417,6 +412,11 @@
      "d": "2026-11-26",
      "c": 1396.2,
      "v": 22305993
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1382.6,
+     "v": 12952595
     }
    ]
   },
@@ -427,11 +427,6 @@
    "cap": "Large",
    "screenerId": "1298",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 753.95,
-     "v": 39512529
-    },
     {
      "d": "2026-07-31",
      "c": 748.15,
@@ -836,6 +831,11 @@
      "d": "2026-11-26",
      "c": 862,
      "v": 76418765
+    },
+    {
+     "d": "2026-11-27",
+     "c": 857.25,
+     "v": 34321154
     }
    ]
   },
@@ -846,11 +846,6 @@
    "cap": "Large",
    "screenerId": "1384",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 1433.9,
-     "v": 16335492
-    },
     {
      "d": "2026-07-31",
      "c": 1435.4,
@@ -1255,6 +1250,11 @@
      "d": "2026-11-26",
      "c": 1611,
      "v": 17724477
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1593.4,
+     "v": 9385983
     }
    ]
   },
@@ -1265,11 +1265,6 @@
    "cap": "Large",
    "screenerId": "467",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 1956.8,
-     "v": 5717965
-    },
     {
      "d": "2026-07-31",
      "c": 1972,
@@ -1674,6 +1669,11 @@
      "d": "2026-11-26",
      "c": 2102.5,
      "v": 4292205
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2067.9,
+     "v": 3706637
     }
    ]
   },
@@ -1684,11 +1684,6 @@
    "cap": "Large",
    "screenerId": "1489",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 1155.1,
-     "v": 23731492
-    },
     {
      "d": "2026-07-31",
      "c": 1130.1,
@@ -2093,6 +2088,11 @@
      "d": "2026-11-26",
      "c": 1183,
      "v": 17446879
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1151.3,
+     "v": 10383226
     }
    ]
   },
@@ -2103,11 +2103,6 @@
    "cap": "Large",
    "screenerId": "1870",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 3937.7,
-     "v": 2247705
-    },
     {
      "d": "2026-07-31",
      "c": 3938.9,
@@ -2512,6 +2507,11 @@
      "d": "2026-11-26",
      "c": 4132.1,
      "v": 1378392
+    },
+    {
+     "d": "2026-11-27",
+     "c": 4108.5,
+     "v": 1156637
     }
    ]
   },
@@ -2522,11 +2522,6 @@
    "cap": "Large",
    "screenerId": "1552",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 285.05,
-     "v": 18704559
-    },
     {
      "d": "2026-07-31",
      "c": 281,
@@ -2931,6 +2926,11 @@
      "d": "2026-11-26",
      "c": 307,
      "v": 18208304
+    },
+    {
+     "d": "2026-11-27",
+     "c": 304.7,
+     "v": 13394813
     }
    ]
   },
@@ -2941,11 +2941,6 @@
    "cap": "Large",
    "screenerId": "3245",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 2001.1,
-     "v": 2344821
-    },
     {
      "d": "2026-07-31",
      "c": 1990.5,
@@ -3350,6 +3345,11 @@
      "d": "2026-11-26",
      "c": 1915.7,
      "v": 2389614
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1899.9,
+     "v": 1670660
     }
    ]
   },
@@ -3360,11 +3360,6 @@
    "cap": "Large",
    "screenerId": "295",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 2746.2,
-     "v": 2505205
-    },
     {
      "d": "2026-07-31",
      "c": 2747.3,
@@ -3769,6 +3764,11 @@
      "d": "2026-11-26",
      "c": 2543,
      "v": 971101
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2532.6,
+     "v": 542992
     }
    ]
   },
@@ -3779,11 +3779,6 @@
    "cap": "Large",
    "screenerId": "3373",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 186.92,
-     "v": 14613870
-    },
     {
      "d": "2026-07-31",
      "c": 189.69,
@@ -4188,6 +4183,11 @@
      "d": "2026-11-26",
      "c": 163.54,
      "v": 51458535
+    },
+    {
+     "d": "2026-11-27",
+     "c": 163.94,
+     "v": 46230564
     }
    ]
   },
@@ -4198,11 +4198,6 @@
    "cap": "Large",
    "screenerId": "56",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 3049.1,
-     "v": 1322985
-    },
     {
      "d": "2026-07-31",
      "c": 3009.5,
@@ -4607,6 +4602,11 @@
      "d": "2026-11-26",
      "c": 2660,
      "v": 1792621
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2640.4,
+     "v": 1654032
     }
    ]
   },
@@ -4617,11 +4617,6 @@
    "cap": "Large",
    "screenerId": "3467",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 2999.2,
-     "v": 852301
-    },
     {
      "d": "2026-07-31",
      "c": 3005.9,
@@ -5026,6 +5021,11 @@
      "d": "2026-11-26",
      "c": 3262.6,
      "v": 546465
+    },
+    {
+     "d": "2026-11-27",
+     "c": 3273,
+     "v": 622797
     }
    ]
   },
@@ -5036,11 +5036,6 @@
    "cap": "Large",
    "screenerId": "2478",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 1629.9,
-     "v": 1195963
-    },
     {
      "d": "2026-07-31",
      "c": 1611.4,
@@ -5445,6 +5440,11 @@
      "d": "2026-11-26",
      "c": 1604.9,
      "v": 393993
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1594.8,
+     "v": 433874
     }
    ]
   },
@@ -5455,11 +5455,6 @@
    "cap": "Mid",
    "screenerId": "567",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 1115.1,
-     "v": 827818
-    },
     {
      "d": "2026-07-31",
      "c": 1126.8,
@@ -5864,6 +5859,11 @@
      "d": "2026-11-26",
      "c": 1194.2,
      "v": 2512646
+    },
+    {
+     "d": "2026-11-27",
+     "c": 1156.9,
+     "v": 2649939
     }
    ]
   },
@@ -5874,11 +5874,6 @@
    "cap": "Mid",
    "screenerId": "1274653",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 8896,
-     "v": 380795
-    },
     {
      "d": "2026-07-31",
      "c": 9106.5,
@@ -6283,6 +6278,11 @@
      "d": "2026-11-26",
      "c": 7350,
      "v": 625879
+    },
+    {
+     "d": "2026-11-27",
+     "c": 7429,
+     "v": 525389
     }
    ]
   },
@@ -6293,11 +6293,6 @@
    "cap": "Mid",
    "screenerId": "1274137",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 14338,
-     "v": 450531
-    },
     {
      "d": "2026-07-31",
      "c": 14049,
@@ -6702,6 +6697,11 @@
      "d": "2026-11-26",
      "c": 12718,
      "v": 458188
+    },
+    {
+     "d": "2026-11-27",
+     "c": 13138,
+     "v": 444823
     }
    ]
   },
@@ -6712,11 +6712,6 @@
    "cap": "Mid",
    "screenerId": "3305",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 47.4,
-     "v": 125042539
-    },
     {
      "d": "2026-07-31",
      "c": 48.01,
@@ -7121,6 +7116,11 @@
      "d": "2026-11-26",
      "c": 36.29,
      "v": 40910064
+    },
+    {
+     "d": "2026-11-27",
+     "c": 36.38,
+     "v": 38821250
     }
    ]
   },
@@ -7131,11 +7131,6 @@
    "cap": "Small",
    "screenerId": "1275358",
    "prices": [
-    {
-     "d": "2026-07-30",
-     "c": 3621.5,
-     "v": 2239089
-    },
     {
      "d": "2026-07-31",
      "c": 3804.6,
@@ -7540,11 +7535,124 @@
      "d": "2026-11-26",
      "c": 2703.3,
      "v": 985741
+    },
+    {
+     "d": "2026-11-27",
+     "c": 2725,
+     "v": 711273
     }
    ]
   }
  ],
  "announcements": [
+  {
+   "id": "107fce9aaa8a",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+   "summary": "S&P assigns ICICI Bank foreign currency rating BBBrxg/A-2rxg excluding government support, per Nov 27, 2026 release.",
+   "date": "2026-11-27T21:32:44+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=390acf29-d1a5-4f88-a8e3-0e63d41d8386.pdf",
+   "category": "credit_rating",
+   "score": 35,
+   "tier": "notable",
+   "reason": "Credit rating action",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "6ef990f2a231",
+   "symbol": "BHARTIARTL",
+   "company": "Bharti Airtel",
+   "title": "Disclosure Under Regulation 30 Of SEBI (LODR), Regulations, 2015",
+   "summary": "DoT Karnataka fines Bharti Airtel ₹2,20,000 for subscriber verification breach; company will pay.",
+   "date": "2026-11-27T15:07:03+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2343e196-9963-436b-a08b-1c8e0fcfac79.pdf",
+   "category": "press_release",
+   "score": 30,
+   "tier": "routine",
+   "classifiedBy": "llm",
+   "reason": "Rules unsure; model offline — unranked"
+  },
+  {
+   "id": "8c286bd909c8",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Dixon held one-on-one investor meeting with BNP Paribas on 26 Nov 2026; no UPSI shared.",
+   "date": "2026-11-27T14:18:10+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aadf8dbb-e076-4ad2-8073-ac32514666fa.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbd3b5bc-27f4-4acb-bca2-3b1ea57f0d9b.pdf"
+    }
+   ]
+  },
+  {
+   "id": "3dc4b2579f3f",
+   "symbol": "ASIANPAINT",
+   "company": "Asian Paints",
+   "title": "Cancellation Of Institutional Investor Meeting",
+   "summary": "Asian Paints cancels 27 Nov 2026 one-on-one meeting with Capital International due unforeseen exigencies.",
+   "date": "2026-11-27T13:12:13+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a1640da-29a5-4bac-b022-ae8eed61042c.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5876333-cc21-4ae5-9c33-cc08d62aa1f5.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59854c76-de00-4260-845d-4dec60857bab.pdf"
+    },
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf"
+    }
+   ]
+  },
+  {
+   "id": "77e71f3cc7a9",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Disclosure Under Regulation 30 Of The SEBI (LODR) Regulations, 2015",
+   "summary": "ICICI Bank gets ₹36.80 crore GST demand order in West Bengal; will appeal.",
+   "date": "2026-11-27T12:35:48+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=df99e81f-308f-45ea-aaab-2f88f5067e05.pdf",
+   "category": "litigation",
+   "score": 25,
+   "tier": "routine",
+   "reason": "Legal / regulatory action · immaterial: ₹37 Cr vs ₹11,44,851 Cr market cap",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "949ecbf1d478",
+   "symbol": "ICICIBANK",
+   "company": "ICICI Bank",
+   "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+   "summary": "ICICI Bank allots 907,815 equity shares of ₹2 each on Nov 27, 2026 under ESOS-2000.",
+   "date": "2026-11-27T10:32:12+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a6ed6728-977f-4f2c-a1f3-1e8cce5d0ea6.pdf",
+   "category": "unclassified",
+   "score": 8,
+   "tier": "routine",
+   "reason": "ESOP allotment — routine dilution, tiny",
+   "classifiedBy": "rules"
+  },
   {
    "id": "93d28cd5fed2",
    "symbol": "INFY",
@@ -7558,30 +7666,6 @@
    "tier": "routine",
    "reason": "Investor meeting / deck",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "f58fb3d49637",
-   "symbol": "ASIANPAINT",
-   "company": "Asian Paints",
-   "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
-   "summary": "Asian Paints presents INR/JPY corporate presentation at Nomura Investment Forum, Tokyo, Dec 1-2, 2026.",
-   "date": "2026-11-26T20:18:44+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f5876333-cc21-4ae5-9c33-cc08d62aa1f5.pdf",
-   "category": "investor_meetings",
-   "score": 15,
-   "tier": "routine",
-   "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=59854c76-de00-4260-845d-4dec60857bab.pdf"
-    },
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf"
-    }
-   ]
   },
   {
    "id": "0951770ed8ed",
@@ -7646,30 +7730,6 @@
    ]
   },
   {
-   "id": "6273a497ea3e",
-   "symbol": "DIXON",
-   "company": "Dixon Technologies",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-   "summary": "Dixon held one-on-one investor meetings with Balyasny and Emkay on 25 Nov 2026; no UPSI shared.",
-   "date": "2026-11-26T11:22:42+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf",
-   "category": "investor_meetings",
-   "score": 15,
-   "tier": "routine",
-   "reason": "Investor meeting / deck",
-   "classifiedBy": "rules",
-   "related": [
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf"
-    },
-    {
-     "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbd3b5bc-27f4-4acb-bca2-3b1ea57f0d9b.pdf"
-    }
-   ]
-  },
-  {
    "id": "41ef419a7a43",
    "symbol": "HDFCBANK",
    "company": "HDFC Bank",
@@ -7695,7 +7755,13 @@
    "score": 35,
    "tier": "notable",
    "reason": "Credit rating action",
-   "classifiedBy": "rules"
+   "classifiedBy": "rules",
+   "related": [
+    {
+     "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+     "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5afa178b-d44b-404e-97e6-027ffa80df3d.pdf"
+    }
+   ]
   },
   {
    "id": "b647591b4ce2",
@@ -7875,6 +7941,20 @@
    "score": 90,
    "tier": "critical",
    "reason": "M&A / corporate restructuring · ₹5,825 Cr ≈ 2.9% of market cap",
+   "classifiedBy": "rules"
+  },
+  {
+   "id": "6226b12d1f05",
+   "symbol": "DIXON",
+   "company": "Dixon Technologies",
+   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+   "summary": "Dixon Technologies held virtual one-on-one investor meetings with Tiger Pacific Capital and Baillie Gifford on 23 Nov 2026.",
+   "date": "2026-11-23T17:56:31+05:30",
+   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf",
+   "category": "investor_meetings",
+   "score": 15,
+   "tier": "routine",
+   "reason": "Investor meeting / deck",
    "classifiedBy": "rules"
   },
   {
@@ -10316,154 +10396,6 @@
    "tier": "routine",
    "reason": "Routine compliance paperwork",
    "classifiedBy": "rules"
-  },
-  {
-   "id": "0e0de3cfd63e",
-   "symbol": "LT",
-   "company": "Larsen & Toubro",
-   "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
-   "summary": "Intimation to Stock Exchanges regarding publication of Financial Results in Newspapers",
-   "date": "2026-10-28T19:44:03+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=498df898-abfc-4569-b288-56622aa74bef.pdf",
-   "category": "unclassified",
-   "score": 5,
-   "tier": "routine",
-   "reason": "Routine compliance paperwork",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "386ca4036872",
-   "symbol": "ADANIENT",
-   "company": "Adani Enterprises",
-   "title": "Submission Of Audio Recording Analyst / Investor Call Pertaining To Unaudited Financial Results For The Quarter And Half Year Ended On September 30, 2026",
-   "summary": "Audio recording of Q2 FY27 analyst/investor call submitted on October 28, 2026.",
-   "date": "2026-10-28T19:30:22+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b997e53e-1dc3-432e-82e7-f54955f23654.pdf",
-   "category": "earnings_call",
-   "score": 20,
-   "tier": "routine",
-   "reason": "Earnings-call logistics",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "91cf4c3401aa",
-   "symbol": "PIDILITIND",
-   "company": "Pidilite Industries",
-   "title": "Earnings Presentation",
-   "summary": "Pidilite issued Q2 FY27 earnings presentation on 28 Oct 2026; sales rose 21.1%, PAT grew 7.1%.",
-   "date": "2026-10-28T19:30:08+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec932e4d-dc17-4252-b411-7ccf951f4c54.pdf",
-   "category": "earnings_call",
-   "score": 75,
-   "tier": "critical",
-   "classifiedBy": "llm",
-   "reason": "Read by model — rules were unsure",
-   "enrichment": {
-    "kind": "oneliner",
-    "text": "Pidilite reports 21 percent sales growth in Q2 earnings presentation."
-   }
-  },
-  {
-   "id": "c69f2047baa5",
-   "symbol": "BHARTIARTL",
-   "company": "Bharti Airtel",
-   "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-   "summary": "Pursuant to Regulation 30 of the SEBI (LODR) Regulations, 2015, we are enclosing herewith the schedule of Earnings Call to be held on Friday, ....",
-   "date": "2026-10-28T19:18:05+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dfa80ddb-f524-419d-b71e-d3c606e27c93.pdf",
-   "category": "investor_meetings",
-   "score": 0,
-   "tier": "routine",
-   "reason": "Investor meeting / deck · only a notice of a future event",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "2275f8012c5f",
-   "symbol": "PIDILITIND",
-   "company": "Pidilite Industries",
-   "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-   "summary": "Pidilite reports Q2FY27 revenue growth 21.7%; EBITDA margin 20.4%; earnings call on 29 October 2026.",
-   "date": "2026-10-28T19:07:46+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5e3d826-457a-4da4-963c-25dc383d0924.pdf",
-   "category": "press_release",
-   "score": 30,
-   "tier": "routine",
-   "classifiedBy": "llm",
-   "reason": "Rules unsure; model offline — unranked"
-  },
-  {
-   "id": "b33d5b4ff982",
-   "symbol": "PIDILITIND",
-   "company": "Pidilite Industries",
-   "title": "Unaudited Financial Results (Standalone And Consolidated) For The Quarter And Six Months Ended 30Th September, 2026",
-   "summary": "Pidilite announced Q2 FY27 standalone and consolidated results; board approved unaudited statements on 28 October 2026.",
-   "date": "2026-10-28T19:04:47+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff55ef96-538a-48b6-bcd3-b079a5fecd1b.pdf",
-   "category": "results",
-   "score": 90,
-   "tier": "critical",
-   "reason": "Quarterly results filed",
-   "classifiedBy": "rules",
-   "enrichment": {
-    "kind": "results",
-    "quarter": "Sep 2026",
-    "basis": "consolidated",
-    "unit": "₹ Cr",
-    "revenue": {
-     "current": 4297.59,
-     "prevQ": 4551.55,
-     "yearAgoQ": 3554.44
-    },
-    "ebitda": {
-     "current": 882.4,
-     "prevQ": 1210.62,
-     "yearAgoQ": 850.38
-    },
-    "pbt": {
-     "current": 834.23,
-     "prevQ": 1191.99,
-     "yearAgoQ": 787.31
-    },
-    "pat": {
-     "current": 626.46,
-     "prevQ": 883.51,
-     "yearAgoQ": 684.6
-    },
-    "isBank": false,
-    "source": "filing",
-    "crossCheck": {
-     "ok": true,
-     "note": "Matches exchange-reported figures"
-    }
-   }
-  },
-  {
-   "id": "5d9127e51b7f",
-   "symbol": "ADANIENT",
-   "company": "Adani Enterprises",
-   "title": "Statement Of Deviation Or Variation For The Quarter Ended 30Th September, 2026",
-   "summary": "Adani Enterprises reported no deviation in QIP proceeds utilisation for quarter ended 30 September 2026.",
-   "date": "2026-10-28T18:41:05+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=17ea2769-fbf3-44d4-a0bc-f660465e0255.pdf",
-   "category": "fund_raise",
-   "score": 55,
-   "tier": "notable",
-   "reason": "Capital raise / return",
-   "classifiedBy": "rules"
-  },
-  {
-   "id": "378baf69d8d5",
-   "symbol": "POLYCAB",
-   "company": "Polycab India",
-   "title": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation",
-   "summary": "Polycab to meet William Blair & Company on November 3, 2026, virtually in Mumbai.",
-   "date": "2026-10-28T17:41:24+05:30",
-   "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26cdd582-7e95-4019-88b5-fdff3d5e60e1.pdf",
-   "category": "investor_meetings",
-   "score": 0,
-   "tier": "routine",
-   "reason": "Investor meeting / deck · only a notice of a future event",
-   "classifiedBy": "rules"
   }
  ],
  "cost": [
@@ -10563,8 +10495,8 @@
   }
  ],
  "stats": {
-  "total": 21,
-  "byRules": 14,
-  "byLlm": 7
+  "total": 24,
+  "byRules": 16,
+  "byLlm": 8
  }
 }
